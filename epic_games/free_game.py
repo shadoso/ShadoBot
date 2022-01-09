@@ -10,7 +10,8 @@ class FireFox:
     def __init__(self, url):
         options = Options()
         options.headless = True
-        path = Service("/home/bismutoso/PycharmProjects/ShadoBot/geckdrive/geckodriver")
+        options.to_capabilities()
+        path = Service("/home/bismutoso/PycharmProjects/ShadoBot/geckdrive/geckodriver", log_path=os.devnull)
         self.url = url
         self.firefox = webdriver.Firefox(options=options, service=path)
         # self.firefox = webdriver.Firefox(service_log_path=os.devnull, service_args=path, options=options)
