@@ -1,6 +1,7 @@
 import discord
 from key import password
 from discord.ext import commands
+from diversos.Password import Generator
 
 bot = commands.Bot(command_prefix=">>")
 
@@ -48,5 +49,18 @@ ping, fps, free
 
     except Exception as glitch:
         return await ctx.send(f"O bot ta pegando fogo bixo, {glitch}")
+
+
+@bot.command()
+async def senha(ctx, msg=None):
+    try:
+        if msg is None:
+            await ctx.send("Ta faltando a palavra")
+        gen = Generator(msg)
+        await ctx.send(gen.phrase())
+
+    except Exception as glitch:
+        return await ctx.send(f"O bot ta pegando fogo bixo, {glitch}")
+
 
 bot.run(password())

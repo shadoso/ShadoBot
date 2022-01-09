@@ -23,8 +23,8 @@ class FireFox:
 
     def screenshot(self):
         sleep(1.5)
-        self.firefox.find_element(By.XPATH,"/html/body/div[1]/div/div[4]/main"
-                                           "/div[3]/div/div/div/div/div[2]").screenshot("free_game.png")
+        self.firefox.find_element(By.XPATH, "/html/body/div[1]/div/div[4]/main"
+                                            "/div[3]/div/div/div/div/div[2]").screenshot("free_game.png")
 
 
 if __name__ == '__main__':
