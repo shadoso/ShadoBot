@@ -33,7 +33,7 @@ async def fps(ctx):
 async def free(ctx):
     try:
         await ctx.send(f"Esses são os jogos gratis dessa semana na **Epic Games**\n",
-                       file=discord.File('/home/bismutto/PycharmProjects/ShadoBot/epic_games/free_game.png'))
+                       file=discord.File('/home/bismutoso/PycharmProjects/ShadoBot/epic_games/free_game.png'))
         await ctx.send("**Deseja pega-los ?**\nAcesse: https://www.epicgames.com/store/pt-BR/free-games")
 
     except Exception as glitch:
