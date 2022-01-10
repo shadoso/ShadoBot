@@ -1,0 +1,2 @@
+add a function that check if it passed 1 day and update the image just once.
+add a problem handling on password.
