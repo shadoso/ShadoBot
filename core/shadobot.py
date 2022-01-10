@@ -52,7 +52,10 @@ async def free(ctx):
 async def cmd(ctx):
     try:
         await ctx.send("""Lista de comandos:
-ping, fps, free
+ping: Retorna o ping do bot
+fps: Quantos fps são necessários para rodar liso
+free: Mostra os jogos grais da epic games
+senha: Cria uma senha com a palavra digitada (Experimental ainda, use so uma palavra e tudo em minusculo)
         """)
 
     except Exception as glitch:

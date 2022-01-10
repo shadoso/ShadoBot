@@ -68,11 +68,11 @@ class Generator:
 
         if self.__debug:
             return f"""
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
-|Frase:{self.__msg}
-|Senha:{password}
-|Tamanho:{len(password)}
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
+>-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
+Frase:{self.__msg}
+Senha:|| {password} ||
+Tamanho:{len(password)}
+>-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
 
 |Tabela:{symbol_list}
 
