@@ -3,7 +3,7 @@ from random import randint, choices, choice, sample
 
 
 class Generator:
-    def __init__(self, msg=str, debug=False):
+    def __init__(self, msg="", debug=False):
         self.__msg = msg
         self.__symbols = None
         self.__debug = debug
@@ -68,36 +68,38 @@ class Generator:
 
         if self.__debug:
             return f"""
+| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
+|Frase:{self.__msg}
+|Senha:{password}
+|Tamanho:{len(password)}
 | >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
-|Phrase:{self.__msg}
-|Password:{password}
-|Length:{len(password)}
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
 
-|Table:{symbol_list}
+|Tabela:{symbol_list}
 
-|Uppercase sequence
-|Start at digit:{upper_index["Start"]}
-|Gap sequence:{upper_index["Jump"]}
-|Index:{upper_index["Index"]}
-|Uppercase rng:{rng_upper}
+|Sequência de letras minusculas
+|Começa na posição:{upper_index["Start"]}
+|Pulos:{upper_index["Jump"]}
+|Todas posições:{upper_index["Index"]}
+|Numero aleatório:{rng_upper}
 
-|Symbol sequence
-|Start at digit:{symbol_index["Start"]}
-|Gap sequence:{symbol_index["Jump"]}
-|Index:{symbol_index["Index"]}
-|Symbol rng:{rng_symbol}
+|Sequência de símbolos
+|Começa na posição:{symbol_index["Start"]}
+|Pulos:{symbol_index["Jump"]}
+|Todas posições:{symbol_index["Index"]}
+|Numero aleatório:{rng_symbol}
 """
         else:
             return f"""
 | >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
-|Phrase:{self.__msg}
-|Password:||{password}||
-|Length:{len(password)}
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> """
+|De uma olhada no comando: >>safe
+|Frase:{self.__msg}
+|Senha:{password}
+|Tamanho:{len(password)}
+| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
+"""
 
 
 if __name__ == '__main__':
-    gen = Generator("senhasegura")
+    gen = Generator("batata")
     for loop in range(5):
         print(gen.phrase())
