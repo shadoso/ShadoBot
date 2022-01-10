@@ -2,6 +2,14 @@ import discord
 from key import password
 from discord.ext import commands
 from diversos.Password import Generator
+from epic_games.free_game import FireFox
+
+# Update the image
+web = FireFox("https://www.epicgames.com/store/pt-BR/free-games")
+web.open()
+web.screenshot()
+web.close()
+# ----------------
 
 bot = commands.Bot(command_prefix=">>")
 
@@ -33,7 +41,7 @@ async def fps(ctx):
 async def free(ctx):
     try:
         await ctx.send(f"Esses são os jogos gratis dessa semana na **Epic Games**\n",
-                       file=discord.File('/home/bismutoso/PycharmProjects/ShadoBot/epic_games/free_game.png'))
+                       file=discord.File("/home/bismutoso/PycharmProjects/ShadoBot/free_game.png"))
         await ctx.send("**Deseja pega-los ?**\nAcesse: https://www.epicgames.com/store/pt-BR/free-games")
 
     except Exception as glitch:
@@ -41,7 +49,7 @@ async def free(ctx):
 
 
 @bot.command()
-async def commands(ctx):
+async def cmd(ctx):
     try:
         await ctx.send("""Lista de comandos:
 ping, fps, free
@@ -52,11 +60,20 @@ ping, fps, free
 
 
 @bot.command()
-async def senha(ctx, msg=None):
+async def senha(ctx, msg=None, debug="False"):
     try:
+        if debug == "False":
+            debug = False
+        if debug == "True":
+            debug = True
+
         if msg is None:
-            await ctx.send("Ta faltando a palavra")
-        gen = Generator(msg)
+            return await ctx.send("Ta faltando a palavra")
+
+        elif type(debug) is not bool:
+            return await ctx.send(f"Depois da palavras coloque True ou deixe o campo vazio.")
+
+        gen = Generator(msg, debug)
         await ctx.send(gen.phrase())
 
     except Exception as glitch:
