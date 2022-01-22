@@ -10,6 +10,7 @@ class Generator:
 
     @staticmethod
     def guide(msg):
+
         start = randint(0, 4)
         jump = randint(2, len(msg) // 2)
         index = np.arange(len(msg))[start::jump].tolist()
@@ -52,6 +53,7 @@ class Generator:
 
             if pos in upper_index["Index"]:
                 upper_msg += str(self.__msg)[pos].upper()
+
             else:
                 upper_msg += str(self.__msg)[pos]
 
@@ -68,11 +70,11 @@ class Generator:
 
         if self.__debug:
             return f"""
->-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
-Frase:{self.__msg}
-Senha:|| {password} ||
-Tamanho:{len(password)}
->-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
+| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
+|Frase:{self.__msg}
+|Senha:{password}
+|Tamanho:{len(password)}
+| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
 
 |Tabela:{symbol_list}
 
@@ -90,12 +92,11 @@ Tamanho:{len(password)}
 """
         else:
             return f"""
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
-|De uma olhada no comando: >>safe
-|Frase:{self.__msg}
-|Senha:{password}
-|Tamanho:{len(password)}
-| >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
+>-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O>
+Frase:{self.__msg}
+Senha:|| {password} ||
+Tamanho:{len(password)}
+>-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> >-|-|-O> 
 """
 
 
