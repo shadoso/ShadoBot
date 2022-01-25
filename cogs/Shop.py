@@ -5,11 +5,11 @@ from discord.ext import commands
 # Character phrase ---------------------------------------------------------------------
 CASINO_DESCRIPTION = "Bem vindo ao meu Cassino Bell Hill, fiquei sabendo que você tem alguns Shadocoins :credit_card:"
 WALLET_DESCRIPTION = "Você possui $hα "
-BAKERY_DESCRIPTION = "Bem vindo, Padaria do Bismutto, vai um cafezinho meu consagrado ? :coffee:"
+BAKERY_DESCRIPTION = "Bem vindo, Padaria do Bismutto, vai um cafezinho meu consagrado? :coffee:"
 GANG_DESCRIPTION = "Fiquei sabendo por ai que você quer algumas tattoos :pen_ballpoint: ou talvez informações?"
 # URLs ---------------------------------------------------------------------------------
-BOSS = "https://cdn.discordapp.com/attachments/935364491804303392/935382629782523944" \
-       "/primary3APictures2FBell20Desenhos2FOliver20Icon20Bell_eightbit2.png "
+BOSS = "https://cdn.discordapp.com/attachments/935364491804303392/935584332947525642" \
+       "/primary3APictures2FBell20Desenhos2FOliver20Icon20Bell_eightbit3.png "
 BAKER = "https://cdn.discordapp.com/attachments/935364491804303392/935410370510737408/Bismuto_Rosto_eightbit.png"
 GANG = "https://cdn.discordapp.com/attachments/935364491804303392/935572429449875546" \
        "/primary3APictures2FBell20Desenhos2FAbigail20Icon20Bell_eightbit.png "
@@ -26,6 +26,8 @@ JACK = f"> :slot_machine:\n> Use **>>jack** para apostar"
 DICE = f"> :game_die:\n> Use **>>dados** para apostar"
 DART = f"> :dart:\n> Use **>>dardos** para jogar"
 # Others -------------------------------------------------------------------------------
+BELL_DESCRIPTION = "Link para contato https://www.instagram.com/poferim/"
+YUKI_DESCRIPTION = "Link para contato https://www.instagram.com/yuki1012__/"
 MSG_NO_USER = "Usuário não registrado"
 SHADOCOIN = 12
 
@@ -53,6 +55,7 @@ class Shop(commands.Cog):
             casino.add_field(name="Caça-níqueis", value=JACK, inline=False)
             casino.add_field(name="D120", value=DICE, inline=False)
             casino.add_field(name="Dardos", value=DART, inline=False)
+            casino.add_field(name="A Bell fez esse icon", value=BELL_DESCRIPTION)
             await ctx.send(embed=casino)
 
             bakery = discord.Embed(title="Bismutto", description=BAKERY_DESCRIPTION, color=0x90c0cb)
@@ -61,12 +64,14 @@ class Shop(commands.Cog):
             bakery.add_field(name="Cafezinho :dollar: 1,50", value=COFFEE, inline=False)
             bakery.add_field(name="Pizza de calabresa :dollar: 15", value=PIZZA, inline=False)
             bakery.add_field(name="Porção de camarão frito :dollar: 25", value=SHRIMP, inline=False)
+            bakery.add_field(name="O Yuki fez esse icon", value=YUKI_DESCRIPTION)
             await ctx.send(embed=bakery)
 
             graffiti = discord.Embed(title="Abigail String", description=GANG_DESCRIPTION, color=0xfff1e8)
             graffiti.set_thumbnail(url=GANG)
             graffiti.add_field(name="Tag", value=TAG, inline=False)
             graffiti.add_field(name="Grande feito", value=DEEDS, inline=False)
+            graffiti.add_field(name="A Bell fez esse icon", value=BELL_DESCRIPTION)
             return await ctx.send(embed=graffiti)
         else:
             return await ctx.send(MSG_NO_USER)
