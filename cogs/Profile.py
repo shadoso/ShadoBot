@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from diversos.database import Manager
+from features.database import Manager
 
 MSG_UNIVERSE = "O universo é pequeno demais para contemplar seu maior feito!"
 MSG_FOUND_USER = "Você já tem uma conta"
