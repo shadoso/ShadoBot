@@ -7,11 +7,11 @@ MSG_FOUND_USER = "Você já tem uma conta"
 MSG_NEW_USER = "Conta criada no Shadosoverso"
 MSG_NO_USER = "Campo invalido ou usuário não registrado"
 
-DEEDS1 = 5
+DEEDS1 = 6
 DESCRIPTION = 2
-HOUSE = 3
-SHADOCOIN = 11
-TAG = 4
+ORG = 4
+SHADOCOIN = 12
+TAG = 5
 
 
 class Profile(commands.Cog):
@@ -32,7 +32,7 @@ class Profile(commands.Cog):
             banner = discord.Embed(title="Descrição", description=info[DESCRIPTION], color=0xa2ff00)
             banner.set_thumbnail(url=dcd_user_avatar)
             banner.set_author(name=dcd_user_name)
-            banner.add_field(name="Casa", value=info[HOUSE], inline=True)
+            banner.add_field(name="Organização", value=info[ORG], inline=True)
             banner.add_field(name="Tag", value=info[TAG], inline=True)
             banner.add_field(name="Shadocoins", value=color_shadocoin, inline=True)
             banner.add_field(name=MSG_UNIVERSE, value=info[DEEDS1])
