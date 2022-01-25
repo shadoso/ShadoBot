@@ -1,2 +1,5 @@
 add a function that check if it passed 1 day and update the image just once.
 add a problem handling on password.
+add a shop
+add quiz to choose the house
+add some games to profit
