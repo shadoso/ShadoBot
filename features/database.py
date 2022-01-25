@@ -3,6 +3,7 @@ from google.oauth2.service_account import Credentials
 
 SCOPE = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
 PATH = "/home/bismutoso/PycharmProjects/ShadoBot/key/shadobot-key.json"
+ROW = 2
 
 
 class Manager:
@@ -28,10 +29,11 @@ class Manager:
             "None",
             "None",
             "None",
+            "None",
             9.45,
         ]
 
-        self.__open.insert_row(user, 2)
+        self.__open.insert_row(user, ROW)
         return True
 
     def verify_user(self):
