@@ -2,15 +2,20 @@ import discord
 from features.database import Manager
 from discord.ext import commands
 
+# Character phrase ---------------------------------------------------------------------
 CASINO_DESCRIPTION = "Bem vindo ao meu Cassino Bell Hill, fiquei sabendo que você tem alguns Shadocoins :credit_card:"
 WALLET_DESCRIPTION = "Você possui $hα "
-BAKERY_DESCRIPTION = "Bem vindo a Padaria do Bismutto, vai um cafezinho meu consagrado ? :coffee:"
-HACKER_DESCRIPTION = "ERROR_404_NOT_FOUND " * 9
+BAKERY_DESCRIPTION = "Bem vindo, Padaria do Bismutto, vai um cafezinho meu consagrado ? :coffee:"
+GANG_DESCRIPTION = "Fiquei sabendo por ai que você quer algumas tattoos :pen_ballpoint: ou talvez informações?"
+# URLs ---------------------------------------------------------------------------------
 BOSS = "https://cdn.discordapp.com/attachments/935364491804303392/935382629782523944" \
        "/primary3APictures2FBell20Desenhos2FOliver20Icon20Bell_eightbit2.png "
 BAKER = "https://cdn.discordapp.com/attachments/935364491804303392/935410370510737408/Bismuto_Rosto_eightbit.png"
-HACKER = "https://cdn.discordapp.com/attachments/935364491804303392/935422018311036958/image3A31064_eightbit.png"
+GANG = "https://cdn.discordapp.com/attachments/935364491804303392/935572429449875546" \
+       "/primary3APictures2FBell20Desenhos2FAbigail20Icon20Bell_eightbit.png "
+# Examples -----------------------------------------------------------------------------
 EXAMPLES = "> **>>comprar tag** `Otaku`\n> **>>comprar feito** `Hackeou a NASA com um Commodore 64`"
+# Item description ---------------------------------------------------------------------
 TAG = f"> Muda a TAG do perfil\n> Use **>>tags** para ver suas tags"
 DEEDS = f"> Muda o grande feito do perfil\n> Use **>>feitos** para ver todos os seus feitos"
 CHEESE = "> Compra um Pão de queijo\n> Use **>>comida** para ver quantos Pães de queijo você tem"
@@ -20,9 +25,9 @@ COFFEE = "> Compra um Cafezinho\n> Use **>>comida** para ver quantos cafezinhos 
 JACK = f"> :slot_machine:\n> Use **>>jack** para apostar"
 DICE = f"> :game_die:\n> Use **>>dados** para apostar"
 DART = f"> :dart:\n> Use **>>dardos** para jogar"
-ORG = f"> Hacks the server and decodes the security hash-256 key"
+# Others -------------------------------------------------------------------------------
 MSG_NO_USER = "Usuário não registrado"
-SHADOCOIN = 11
+SHADOCOIN = 12
 
 
 class Shop(commands.Cog):
@@ -58,11 +63,11 @@ class Shop(commands.Cog):
             bakery.add_field(name="Porção de camarão frito :dollar: 25", value=SHRIMP, inline=False)
             await ctx.send(embed=bakery)
 
-            web = discord.Embed(title="ERROR_404_NOT_FOUND", description=HACKER_DESCRIPTION, color=0x1d2b53)
-            web.set_thumbnail(url=HACKER)
-            web.add_field(name=":unlock: CHANGE_ORG_USER :coin: 99.945,99", value=ORG, inline=False)
-            await ctx.send(embed=web)
-
+            graffiti = discord.Embed(title="Abigail String", description=GANG_DESCRIPTION, color=0xfff1e8)
+            graffiti.set_thumbnail(url=GANG)
+            graffiti.add_field(name="Tag", value=TAG, inline=False)
+            graffiti.add_field(name="Grande feito", value=DEEDS, inline=False)
+            return await ctx.send(embed=graffiti)
         else:
             return await ctx.send(MSG_NO_USER)
 
