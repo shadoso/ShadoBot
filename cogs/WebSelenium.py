@@ -12,6 +12,7 @@ class WebSelenium(commands.Cog):
 
     @commands.command()
     async def epic(self, ctx):
+        await ctx.send("COMANDO EM MANUTENÇÃO   ")
         await ctx.send(MSG_FREE, file=discord.File(PATH_FREE))
         return await ctx.send(MSG_FREE_URL)
 
