@@ -1,7 +1,9 @@
 add a function that check if it passed 1 day and update the image just once.
 add shop, grocery store, deepweb store, cassino
 change >>loja to >>shadocoin
+add you have shdocoins
 add a problem handling on password.
+change house to Organization and add house as a property
 add a shop
 add quiz to choose the house
 add some games to profit
