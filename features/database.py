@@ -6,23 +6,19 @@ USER_NAME = 'postgres'
 PASSWORD = 'shadobot'
 PORT_ID = 5432
 
-conn = psycopg2.connect(
-    host=HOST_NAME,
-    dbname=DATABASE,
-    user=USER_NAME,
-    password=PASSWORD,
-    port=PORT_ID
-)
-cur = conn.cursor()
 
-tag_type = '''
-    CREATE TYPE tag AS ENUM (
-    'Otaku', 'Profit', 'Lucky')
-'''
+class Manager:
+    def __init__(self, user_id, user_name):
+        self.conn = psycopg2.connect(host=HOST_NAME, dbname=DATABASE, user=USER_NAME, password=PASSWORD, port=PORT_ID)
+        self.port = 5432
+        self.user_id = user_id
+        self.user_name = user_name
 
-cur.execute()
+    def verify_user(self):
+        pass
 
-conn.commit()
+    def create_user(self):
+        pass
 
-cur.close()
-conn.close()
+    def update_user(self):
+        pass
