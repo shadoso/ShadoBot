@@ -20,18 +20,18 @@ class Profile(commands.Cog):
 
     @commands.command()
     async def perfil(self, ctx):
-        dcd_user_id = str(ctx.author.id)
-        dcd_user_name = str(ctx.author.name)
-        dcd_user_avatar = str(ctx.author.avatar)
-        account = Manager(dcd_user_id, dcd_user_name)
+        discord_id = str(ctx.author.id)
+        discord_name = str(ctx.author.name)
+        discord_avatar = str(ctx.author.avatar)
+        account = Manager(discord_id, discord_name)
         verify = account.verify_user()
 
         if verify:
             info = account.update_user()
             color_shadocoin = str(f"```yaml\n$hα {info[SHADOCOIN]}```")
             banner = discord.Embed(title="Descrição", description=info[DESCRIPTION], color=0xa2ff00)
-            banner.set_thumbnail(url=dcd_user_avatar)
-            banner.set_author(name=dcd_user_name)
+            banner.set_thumbnail(url=discord_avatar)
+            banner.set_author(name=discord_name)
             banner.add_field(name="Organização", value=info[ORG], inline=True)
             banner.add_field(name="Tag", value=info[TAG], inline=True)
             banner.add_field(name="Shadocoins", value=color_shadocoin, inline=True)
