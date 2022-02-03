@@ -30,8 +30,6 @@ user_tables = '''
         shadocoin           money
         );
     '''
-
-
 conn = psycopg2.connect(
     host=HOST_NAME,
     dbname=DATABASE,
@@ -39,10 +37,11 @@ conn = psycopg2.connect(
     password=PASSWORD,
     port=PORT_ID
 )
-
+ids = 292139416275779584
 cur = conn.cursor()
-
-cur.execute(user_tables)
+cur.execute(f'SELECT description, shadocoin  FROM users WHERE discord_id = {ids}')
+find = cur.fetchall()
+print(find[0])
 
 conn.commit()
 conn.close()

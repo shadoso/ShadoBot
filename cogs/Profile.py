@@ -27,7 +27,7 @@ class Profile(commands.Cog):
         verify = account.verify_user()
 
         if verify:
-            info = account.show_info()
+            info = account.update_user()
             color_shadocoin = str(f"```yaml\n$hα {info[SHADOCOIN]}```")
             banner = discord.Embed(title="Descrição", description=info[DESCRIPTION], color=0xa2ff00)
             banner.set_thumbnail(url=dcd_user_avatar)
@@ -43,7 +43,7 @@ class Profile(commands.Cog):
 
     @commands.command()
     async def criar(self, ctx):
-        dcd_user_id = str(ctx.author.id)
+        dcd_user_id = int(ctx.author.id)
         dcd_user_name = str(ctx.author.name)
         account = Manager(dcd_user_id, dcd_user_name)
         verify = account.verify_user()
