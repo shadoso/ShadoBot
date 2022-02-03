@@ -1,13 +1,18 @@
 import psycopg2
 
+# Postgres info -------------------------------------------------------
 HOST_NAME = 'localhost'
 DATABASE = 'BOT'
 USER_NAME = 'postgres'
 PASSWORD = 'shadobot'
 PORT_ID = 5432
+# Postgres commands ---------------------------------------------------
+CREATE_USER = 'INSERT INTO users (discord_id, discord_name, description, deed_1, shadocoin) VALUES (%s, %s,%s, %s, %s)'
+QUERY_USER = 'SELECT *  FROM users WHERE discord_id = '
+# Default user info ---------------------------------------------------
 DESCRIPTION = 'Uma descrição, chamada descrição'
 DEED = 'Criou uma conta no Shadosoverso'
-CASH = 9945.95
+CASH = 9945.45
 
 
 class Manager:
@@ -18,14 +23,18 @@ class Manager:
         self.user_name = user_name
 
     def verify_user(self):
-        pass
+        """
+        :return: True if user doesn't exist, else return user list
+        """
+        self.cur.execute(QUERY_USER + self.user_id)
+        data = self.cur.fetchall()
+        self.cur.close()
+        self.conn.close()
+        return True if len(data) == 0 else data
 
     def create_user(self):
-        discord_user = '''
-        INSERT INTO users (discord_id, discord_name, description, deed_1, shadocoin) VALUES (%s, %s,%s, %s, %s)
-        '''
         user_values = (self.user_id, self.user_name, DESCRIPTION, DEED, CASH)
-        self.cur.execute(discord_user, user_values)
+        self.cur.execute(CREATE_USER, user_values)
         self.conn.commit()
         self.cur.close()
         self.conn.close()
