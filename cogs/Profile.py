@@ -28,7 +28,7 @@ class Profile(commands.Cog):
         account = Manager(discord_id, discord_name)
         verify = account.verify_user()
 
-        if verify is not bool:
+        if type(verify) is not bool:
             color_shadocoin = str(f"```yaml\n$hα {verify[FIRST_TUPLE][SHADOCOIN]}```")
             banner = discord.Embed(title="Descrição", description=verify[FIRST_TUPLE][DESCRIPTION], color=0xa2ff00)
             banner.set_thumbnail(url=discord_avatar)
@@ -50,15 +50,16 @@ class Profile(commands.Cog):
         discord_name = str(ctx.author.name)
         account = Manager(discord_id, discord_name)
         verify = account.verify_user()
+        print(verify)
 
-        if verify is not bool:
+        if type(verify) is not bool:
+            account.close_query()
+            return await ctx.send(MSG_FOUND_USER)
+
+        else:
             account.create_user()
             account.close_query()
             return await ctx.send(MSG_NEW_USER)
-
-        else:
-            account.close_query()
-            return await ctx.send(MSG_FOUND_USER)
 
 
 def setup(bot):

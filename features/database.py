@@ -1,4 +1,5 @@
 import psycopg2
+import decimal
 
 # Postgres info -------------------------------------------------------
 HOST_NAME = 'localhost'
@@ -12,7 +13,8 @@ QUERY_USER = 'SELECT * FROM users WHERE discord_id = '
 # Default user info ---------------------------------------------------
 DESCRIPTION = 'Uma descrição, chamada descrição'
 DEED = 'Criou uma conta no Shadosoverso'
-CASH = 9945.45
+CASH = 95994599459945.45
+print(CASH)
 
 
 class Manager:
