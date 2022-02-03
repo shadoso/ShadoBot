@@ -39,9 +39,10 @@ conn = psycopg2.connect(
 )
 ids = 292139416275779584
 cur = conn.cursor()
-cur.execute(f'SELECT description, shadocoin  FROM users WHERE discord_id = {ids}')
+cur.execute('SELECT discord_id, discord_name, description  FROM users WHERE discord_id = ' + str(ids))
 find = cur.fetchall()
-print(find[0])
+print(find)
+print(len(find))
 
 conn.commit()
 conn.close()
