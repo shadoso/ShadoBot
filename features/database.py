@@ -8,7 +8,7 @@ PASSWORD = 'shadobot'
 PORT_ID = 5432
 # Postgres commands ---------------------------------------------------
 CREATE_USER = 'INSERT INTO users (discord_id, discord_name, description, deed_1, shadocoin) VALUES (%s, %s,%s, %s, %s)'
-QUERY_USER = 'SELECT *  FROM users WHERE discord_id = '
+QUERY_USER = 'SELECT * FROM users WHERE discord_id = '
 # Default user info ---------------------------------------------------
 DESCRIPTION = 'Uma descrição, chamada descrição'
 DEED = 'Criou uma conta no Shadosoverso'
@@ -24,20 +24,21 @@ class Manager:
 
     def verify_user(self):
         """
-        :return: True if user doesn't exist, else return user list
+        :return: False if user doesn't exist, else return user list
         """
-        self.cur.execute(QUERY_USER + self.user_id)
+        self.cur.execute(QUERY_USER + str(self.user_id))
         data = self.cur.fetchall()
+        return False if len(data) == 0 else data
+
+    def close_query(self):
         self.cur.close()
         self.conn.close()
-        return True if len(data) == 0 else data
+        return 'Closed'
 
     def create_user(self):
         user_values = (self.user_id, self.user_name, DESCRIPTION, DEED, CASH)
         self.cur.execute(CREATE_USER, user_values)
         self.conn.commit()
-        self.cur.close()
-        self.conn.close()
         return 'Done'
 
     def update_user(self):

@@ -43,7 +43,14 @@ class Shop(commands.Cog):
         account = Manager(dcd_user_id, dcd_user_name)
         verify = account.verify_user()
 
-        if verify:
+        if verify is not bool:
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
+            # MODIFICAR MODIFICAR
             wallet = account.show_info()
             cash = discord.Embed(title="Carteira", description=WALLET_DESCRIPTION + wallet[SHADOCOIN], color=0xa2ff00)
             cash.set_author(name=dcd_user_name)

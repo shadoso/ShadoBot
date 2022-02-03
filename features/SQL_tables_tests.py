@@ -27,7 +27,7 @@ user_tables = '''
         deed_3              varchar(56),
         itens               text[],
         inventory           text[],
-        shadocoin           money
+        shadocoin           numeric (256, 2)
         );
     '''
 conn = psycopg2.connect(
@@ -39,11 +39,7 @@ conn = psycopg2.connect(
 )
 ids = 292139416275779584
 cur = conn.cursor()
-cur.execute('SELECT discord_id, discord_name, description  FROM users WHERE discord_id = ' + str(ids))
-find = cur.fetchall()
-print(find)
-print(len(find))
-
+cur.execute(user_tables)
 conn.commit()
 conn.close()
 conn.close()

@@ -2,15 +2,17 @@ import discord
 from discord.ext import commands
 from features.database import Manager
 
+# Text ----------------------------------------------------------------
 MSG_UNIVERSE = "O universo é pequeno demais para contemplar seu maior feito!"
 MSG_FOUND_USER = "Você já tem uma conta"
 MSG_NEW_USER = "Conta criada no Shadosoverso"
 MSG_NO_USER = "Campo invalido ou usuário não registrado"
-
+# Index values --------------------------------------------------------
+FIRST_TUPLE = 0
 DEEDS1 = 6
 DESCRIPTION = 2
-ORG = 4
-SHADOCOIN = 12
+ORG = 3
+SHADOCOIN = 11
 TAG = 5
 
 
@@ -26,34 +28,37 @@ class Profile(commands.Cog):
         account = Manager(discord_id, discord_name)
         verify = account.verify_user()
 
-        if verify:
-            info = account.update_user()
-            color_shadocoin = str(f"```yaml\n$hα {info[SHADOCOIN]}```")
-            banner = discord.Embed(title="Descrição", description=info[DESCRIPTION], color=0xa2ff00)
+        if verify is not bool:
+            color_shadocoin = str(f"```yaml\n$hα {verify[FIRST_TUPLE][SHADOCOIN]}```")
+            banner = discord.Embed(title="Descrição", description=verify[FIRST_TUPLE][DESCRIPTION], color=0xa2ff00)
             banner.set_thumbnail(url=discord_avatar)
             banner.set_author(name=discord_name)
-            banner.add_field(name="Organização", value=info[ORG], inline=True)
-            banner.add_field(name="Tag", value=info[TAG], inline=True)
+            banner.add_field(name="Organização", value=verify[FIRST_TUPLE][ORG], inline=True)
+            banner.add_field(name="Tag", value=verify[FIRST_TUPLE][TAG], inline=True)
             banner.add_field(name="Shadocoins", value=color_shadocoin, inline=True)
-            banner.add_field(name=MSG_UNIVERSE, value=info[DEEDS1])
+            banner.add_field(name=MSG_UNIVERSE, value=verify[FIRST_TUPLE][DEEDS1])
+            account.close_query()
             return await ctx.send(embed=banner)
 
         else:
+            account.close_query()
             return await ctx.send(MSG_NO_USER)
 
     @commands.command()
     async def criar(self, ctx):
-        dcd_user_id = int(ctx.author.id)
-        dcd_user_name = str(ctx.author.name)
-        account = Manager(dcd_user_id, dcd_user_name)
+        discord_id = int(ctx.author.id)
+        discord_name = str(ctx.author.name)
+        account = Manager(discord_id, discord_name)
         verify = account.verify_user()
 
-        if verify:
-            return await ctx.send(MSG_FOUND_USER)
+        if verify is not bool:
+            account.create_user()
+            account.close_query()
+            return await ctx.send(MSG_NEW_USER)
 
         else:
-            account.create_user()
-            return await ctx.send(MSG_NEW_USER)
+            account.close_query()
+            return await ctx.send(MSG_FOUND_USER)
 
 
 def setup(bot):
