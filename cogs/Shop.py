@@ -13,8 +13,6 @@ BOSS = "https://cdn.discordapp.com/attachments/935364491804303392/93558433294752
 BAKER = "https://cdn.discordapp.com/attachments/935364491804303392/935410370510737408/Bismuto_Rosto_eightbit.png"
 GANG = "https://cdn.discordapp.com/attachments/935364491804303392/935572429449875546" \
        "/primary3APictures2FBell20Desenhos2FAbigail20Icon20Bell_eightbit.png "
-# Examples -----------------------------------------------------------------------------
-EXAMPLES = "> **>>comprar tag** `Otaku`\n> **>>comprar feito** `Hackeou a NASA com um Commodore 64`"
 # Item description ---------------------------------------------------------------------
 TAG = f"> Muda a TAG do perfil\n> Use **>>tags** para ver suas tags"
 DEEDS = f"> Muda o grande feito do perfil\n> Use **>>feitos** para ver todos os seus feitos"
@@ -29,7 +27,8 @@ DART = f"> :dart:\n> Use **>>dardos** para jogar"
 BELL_DESCRIPTION = "Link para contato https://www.instagram.com/poferim/"
 YUKI_DESCRIPTION = "Link para contato https://www.instagram.com/yuki1012__/"
 MSG_NO_USER = "Usuário não registrado"
-SHADOCOIN = 12
+INDEX = 0
+SHADOCOIN = 11
 
 
 class Shop(commands.Cog):
@@ -43,18 +42,9 @@ class Shop(commands.Cog):
         account = Manager(dcd_user_id, dcd_user_name)
         verify = account.verify_user()
 
-        if verify is not bool:
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            # MODIFICAR MODIFICAR
-            wallet = account.show_info()
-            cash = discord.Embed(title="Carteira", description=WALLET_DESCRIPTION + wallet[SHADOCOIN], color=0xa2ff00)
+        if verify is not None:
+            cash = discord.Embed(title="Carteira", description=f"**$hα {verify[INDEX][SHADOCOIN]}**", color=0xa2ff00)
             cash.set_author(name=dcd_user_name)
-            cash.add_field(name="Exemplos de compras", value=EXAMPLES, inline=False)
             await ctx.send(embed=cash)
 
             casino = discord.Embed(title="Oliver Thierry", description=CASINO_DESCRIPTION, color=0xffc700)

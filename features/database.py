@@ -13,8 +13,8 @@ QUERY_USER = 'SELECT * FROM users WHERE discord_id = '
 # Default user info ---------------------------------------------------
 DESCRIPTION = 'Uma descrição, chamada descrição'
 DEED = 'Criou uma conta no Shadosoverso'
-CASH = 95994599459945.45
-print(CASH)
+CASH = 945.00
+MAX_CASH = 95994599459945.45
 
 
 class Manager:
@@ -26,11 +26,11 @@ class Manager:
 
     def verify_user(self):
         """
-        :return: False if user doesn't exist, else return user list
+        :return: None if user doesn't exist, else return user list
         """
         self.cur.execute(QUERY_USER + str(self.user_id))
         data = self.cur.fetchall()
-        return False if len(data) == 0 else data
+        return None if len(data) == 0 else data
 
     def close_query(self):
         self.cur.close()
