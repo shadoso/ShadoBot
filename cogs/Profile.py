@@ -22,17 +22,14 @@ class Profile(commands.Cog):
 
     @commands.command()
     async def perfil(self, ctx):
-        discord_id = str(ctx.author.id)
-        discord_name = str(ctx.author.name)
-        discord_avatar = str(ctx.author.avatar)
-        account = Manager(discord_id, discord_name)
+        account = Manager(str(ctx.author.id), str(ctx.author.name))
         verify = account.verify_user()
 
         if verify is not None:
             color_shadocoin = str(f"```yaml\n$hα {verify[INDEX][SHADOCOIN]}```")
             banner = discord.Embed(title="Descrição", description=verify[INDEX][DESCRIPTION], color=0xa2ff00)
-            banner.set_thumbnail(url=discord_avatar)
-            banner.set_author(name=discord_name)
+            banner.set_thumbnail(url=str(ctx.author.avatar))
+            banner.set_author(name=ctx.author.name)
             banner.add_field(name="Organização", value=verify[INDEX][ORG], inline=True)
             banner.add_field(name="Tag", value=verify[INDEX][TAG], inline=True)
             banner.add_field(name="Shadocoins", value=color_shadocoin, inline=True)
@@ -46,9 +43,7 @@ class Profile(commands.Cog):
 
     @commands.command()
     async def criar(self, ctx):
-        discord_id = int(ctx.author.id)
-        discord_name = str(ctx.author.name)
-        account = Manager(discord_id, discord_name)
+        account = Manager(str(ctx.author.id), str(ctx.author.name))
         verify = account.verify_user()
 
         if verify is not None:
