@@ -28,9 +28,9 @@ class Web(commands.Cog):
                     replace_week.write(str(today))
                     replace_week.close()
 
-                await ctx.send(MSG_UPDATE)
                 web = FireFox("https://www.epicgames.com/store/pt-BR/free-games")
-                web.open()
+                await ctx.send(MSG_UPDATE)
+                web.start()
                 web.screenshot()
                 web.close()
 
