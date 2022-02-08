@@ -10,6 +10,8 @@ PORT_ID = 5432
 # Postgres commands ---------------------------------------------------
 CREATE_USER = 'INSERT INTO users (discord_id, discord_name, description, deed_1, shadocoin) VALUES (%s, %s,%s, %s, %s)'
 QUERY_USER = 'SELECT * FROM users WHERE discord_id = '
+UPDATE_CASH1 = 'UPDATE users SET shadocoin = '
+UPDATE_CASH2 = ' WHERE discord_id = '
 # Default user info ---------------------------------------------------
 DESCRIPTION = 'Uma descrição, chamada descrição'
 DEED = 'Criou uma conta no Shadosoverso'
@@ -41,8 +43,9 @@ class Manager:
         user_values = (self.user_id, self.user_name, DESCRIPTION, DEED, CASH)
         self.cur.execute(CREATE_USER, user_values)
         self.conn.commit()
-        return 'Done'
+        return 'Created'
 
     def update_cash(self, cash):
-
-        pass
+        self.cur.execute(UPDATE_CASH1 + cash + UPDATE_CASH2)
+        self.conn.commit()
+        return 'Updated'
