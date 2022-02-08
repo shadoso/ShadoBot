@@ -18,7 +18,7 @@ class FireFox:
         self.firefox = webdriver.Firefox(options=options, service=path)
         # self.firefox = webdriver.Firefox(service_log_path=os.devnull, service_args=path, options=options)
 
-    def open(self):
+    def start(self):
         self.firefox.get(self.url)
 
     def close(self):
