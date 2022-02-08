@@ -37,14 +37,14 @@ class Shop(commands.Cog):
 
     @commands.command()
     async def loja(self, ctx):
-        dcd_user_id = str(ctx.author.id)
-        dcd_user_name = str(ctx.author.name)
-        account = Manager(dcd_user_id, dcd_user_name)
+        discord_id = str(ctx.author.id)
+        discord_name = str(ctx.author.name)
+        account = Manager(discord_id, discord_name)
         verify = account.verify_user()
 
         if verify is not None:
             cash = discord.Embed(title="Carteira", description=f"**$hα {verify[INDEX][SHADOCOIN]}**", color=0xa2ff00)
-            cash.set_author(name=dcd_user_name)
+            cash.set_author(name=discord_name)
             await ctx.send(embed=cash)
 
             casino = discord.Embed(title="Oliver Thierry", description=CASINO_DESCRIPTION, color=0xffc700)
