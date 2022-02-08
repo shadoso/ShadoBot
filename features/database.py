@@ -43,5 +43,6 @@ class Manager:
         self.conn.commit()
         return 'Done'
 
-    def update_user(self):
+    def update_cash(self, cash):
+
         pass
