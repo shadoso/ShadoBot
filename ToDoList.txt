@@ -1,6 +1,3 @@
-add a function that check if it passed 1 day and update the image just once.
-organize all constants
-add you have shdocoins
 add a problem handling on password.
 add house as a property
 add quiz to choose the house
