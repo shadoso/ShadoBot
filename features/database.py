@@ -46,6 +46,6 @@ class Manager:
         return 'Created'
 
     def update_cash(self, cash):
-        self.cur.execute(UPDATE_CASH1 + cash + UPDATE_CASH2)
+        self.cur.execute(UPDATE_CASH1 + cash + UPDATE_CASH2 + self.user_id)
         self.conn.commit()
         return 'Updated'
