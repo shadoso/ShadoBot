@@ -9,11 +9,13 @@ BACK_DECRIPTION = "**Puts... olha pra você não falar que eu nunca te ajudei to
 LOSE = "https://cdn.discordapp.com/attachments/935364491804303392/940466618432094208/TK_Sticker.gif"
 WIN = "https://cdn.discordapp.com/attachments/935364491804303392/940466807674925116/Poppy_Sticker.gif"
 BACK = "https://cdn.discordapp.com/attachments/935364491804303392/940470569978167357/Sad_Poro_Sticker.gif"
-MULTIPLIER = 45
+MULTIPLIER = 65
 INDEX = 0
 SHADOCOIN = 11
 DICE_SIZE = 120
 ONE = 1
+
+JACKPOT = []
 
 
 class Game(commands.Cog):
@@ -31,10 +33,13 @@ class Game(commands.Cog):
             if cash >= msg:
 
                 if DICE_SIZE == dice:
-                    prize = msg * MULTIPLIER
+                    result = msg * MULTIPLIER
+                    prize = result + cash
                     dices = discord.Embed(title=f"**:game_die: {dice}**", description=WIN_DESCRIPTION, color=0xffc700)
-                    dices.add_field(name="Prêmio", value=f"**:credit_card: {prize:.2f}**")
+                    dices.add_field(name="Prêmio", value=f"**:credit_card: {result:.2f}**")
                     dices.set_thumbnail(url=WIN)
+                    account.update_cash(str(prize))
+                    account.close_query()
                     return await ctx.send(embed=dices)
 
                 if ONE == dice:
@@ -43,8 +48,11 @@ class Game(commands.Cog):
                     return await ctx.send(embed=dices)
 
                 elif DICE_SIZE != dice:
+                    loss = cash - msg
                     dices = discord.Embed(title=f"**:game_die: {dice}**", description=DICE_DESCRIPTION, color=0xffc700)
                     dices.set_thumbnail(url=LOSE)
+                    account.update_cash(str(loss))
+                    account.close_query()
                     return await ctx.send(embed=dices)
 
             else:
