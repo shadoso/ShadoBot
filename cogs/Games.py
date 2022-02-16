@@ -2,6 +2,7 @@ import discord
 from secrets import randbelow
 from discord.ext import commands
 from features.database import Manager
+from features.slot_machine import SlotMachine
 
 DICE_DESCRIPTION = "**Não foi dessa vez... me passa o :credit_card: hehehe**"
 WIN_DESCRIPTION = "**Não pode ser... o coração dos dados!!!**"
@@ -15,15 +16,14 @@ SHADOCOIN = 11
 DICE_SIZE = 120
 ONE = 1
 
-JACKPOT = []
 
-
+# add problem handler and max bet
 class Game(commands.Cog):
     def __init__(self, bot):
         self.__bot = bot
 
     @commands.command()
-    async def dados(self, ctx, msg=25.00):
+    async def dados(self, ctx, msg=15.00):
         account = Manager(str(ctx.author.id), str(ctx.author.name))
         verify = account.verify_user()
 
@@ -61,8 +61,13 @@ class Game(commands.Cog):
             return await ctx.send("Se cadastra primeiro :v")
 
     @commands.command()
-    async def jack(self, ctx):
-        pass
+    async def jack(self, ctx, msg=30.00):
+        slot = SlotMachine(msg)
+        result = slot.pot()
+        if type(result) is not str:
+            return await ctx.send(f"{result[0]:.2f}\n{result[1]}")
+        else:
+            return await ctx.send(f"{result}")
 
     @commands.command()
     async def dardos(self, ctx):

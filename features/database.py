@@ -28,7 +28,7 @@ class Manager:
 
     def verify_user(self):
         """
-        :return: None if user doesn't exist, else return user list
+        :return: None if user doesn't exist, else return user data
         """
         self.cur.execute(QUERY_USER + str(self.user_id))
         data = self.cur.fetchall()
