@@ -1,5 +1,5 @@
 from discord.ext import commands
-from features.password import Generator
+from app.old_not_in_use.features.password import Generator
 
 MSG_MISSING = "Ta faltando a palavra"
 

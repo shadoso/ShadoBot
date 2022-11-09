@@ -2,7 +2,7 @@ import datetime
 
 import discord
 from discord.ext import commands
-from epic_games.free_game import FireFox
+from app.old_not_in_use.epic_games.free_game import FireFox
 
 MSG_UPDATE = "Dia mudou, screenshot mudou, me da 5 segundos"
 MSG_FREE = f"Esses são os jogos gratis dessa semana na **Epic Games**\n"

@@ -1,8 +1,8 @@
 import discord
 from secrets import randbelow
 from discord.ext import commands
-from features.database import Manager
-from features.slot_machine import SlotMachine
+from app.old_not_in_use.features.database import Manager
+from app.old_not_in_use.features.slot_machine import SlotMachine
 
 DICE_DESCRIPTION = "**Não foi dessa vez... me passa o :credit_card: hehehe**"
 WIN_DESCRIPTION = "**Não pode ser... o coração dos dados!!!**"

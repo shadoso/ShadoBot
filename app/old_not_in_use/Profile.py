@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from features.database import Manager
+from app.old_not_in_use.features.database import Manager
 
 # Text ----------------------------------------------------------------
 MSG_UNIVERSE = "O universo é pequeno demais para contemplar seu maior feito!"
