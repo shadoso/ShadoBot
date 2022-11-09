@@ -1,5 +1,0 @@
-add a problem handling on password.
-add house as a property
-add quiz to choose the house
-add some games to profit
-add update to manager
