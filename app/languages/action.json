@@ -1,0 +1,123 @@
+{
+  "social": {
+    "name": "social",
+    "name_localizations": {
+      "pt-BR": "social"
+    },
+    "description": "Interact with friends :D",
+    "description_localizations": {
+      "pt-BR": "Interaja com os amiguinhos :D"
+    }
+  },
+  "who": {
+    "name": "who",
+    "name_localizations": {
+      "pt-BR": "quem"
+    },
+    "description": "Who do you want to interact with",
+    "description_localizations": {
+      "pt-BR": "Pessoa na qual você deseja interagir"
+    }
+  },
+  "type": {
+    "name": "type",
+    "name_localizations": {
+      "pt-BR": "tipos"
+    },
+    "description": "Choose the type of interaction",
+    "description_localizations": {
+      "pt-BR": "Escolha o tipo de interação"
+    },
+    "choices": {
+      "angry": "angry",
+      "bored": "bored",
+      "cry": "cry",
+      "happy": "happy",
+      "hug": "hug",
+      "kick": "kick",
+      "kiss": "kiss",
+      "lick": "lick",
+      "punch": "punch",
+      "slap": "slap"
+    },
+    "choice_localizations": {
+      "angry": {
+        "pt-BR": "Bravo"
+      },
+      "bored": {
+        "pt-BR": "Entediado"
+      },
+      "cry": {
+        "pt-BR": "Chorar"
+      },
+      "happy": {
+        "pt-BR": "Feliz"
+      },
+      "hug": {
+        "pt-BR": "Abraçar"
+      },
+      "kick": {
+        "pt-BR": "Chutar"
+      },
+      "kiss": {
+        "pt-BR": "Beijar"
+      },
+      "lick": {
+        "pt-BR": "Lamber"
+      },
+      "punch": {
+        "pt-BR": "Socar"
+      },
+      "slap": {
+        "pt-BR": "Tapa"
+      }
+    }
+  },
+  "not_found": {
+    "pt-BR": "Fodeu lek ta dando algum erro",
+    "default": "Houston, we have a problem"
+  },
+  "response": {
+    "angry": {
+      "pt-BR": "está bravo com",
+      "default": "is mad with"
+    },
+    "bored": {
+      "pt-BR": "está entediado com",
+      "default": "is bored with"
+    },
+    "cry": {
+      "pt-BR": "está triste com",
+      "default": "is sad with"
+    },
+    "happy": {
+      "pt-BR": "está feliz com",
+      "default": "is happy with"
+    },
+    "hug": {
+      "pt-BR": "deu um abraço em",
+      "default": "hugged"
+    },
+    "kick": {
+      "pt-BR": "deu um chute em",
+      "default": "kicked"
+    },
+    "kiss": {
+      "pt-BR": "deu um beijo em",
+      "default": "kissed"
+    },
+    "lick": {
+      "pt-BR": "deu uma lambida em",
+      "default": "licked"
+    },
+    "punch": {
+      "pt-BR": "deu um soco em",
+      "default": "punched"
+    },
+    "slap": {
+      "pt-BR": "deu um tapa em",
+      "default": "slapped"
+    }
+  }
+}
+

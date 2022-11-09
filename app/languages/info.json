@@ -1,0 +1,16 @@
+{
+  "language": {
+    "name": "language",
+    "name_localizations": {
+      "pt-BR": "idioma"
+    },
+    "description": "Description in English",
+    "description_localizations": {
+      "pt-BR": "Descrição em Português Brasileiro"
+    }
+  },
+  "responses": {
+    "pt-BR": "Neeko - \"Não cabe mais problema no meu vida, só mais... Pão de queijo\"",
+    "default": "Jinx - \"What if I had a gun that... shot other guns ?\""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "names": {
+      "pt-BR": "personagem"
+    },
+    "descriptions": {
+      "pt-BR": "Cria personagens aleatórios"
+    }
+  },
+  "country": {
+    "names": {
+      "pt-BR": "pais"
+    },
+    "descriptions": {
+      "pt-BR": "Escolhe a nacionalidade do personagem"
+    },
+    "choices": {
+      "br": ":flag_br:",
+      "fr": ":flag_fr:",
+      "jp": ":flag_jp:",
+      "ru": ":flag_ru:",
+      "us": ":flag_us:",
+      "ph": ":flag_ph:"
+    }
+  },
+  "gender": {
+    "names": {
+      "pt-BR": "sexo"
+    },
+    "descriptions": {
+      "pt-BR": "Escolhe o gênero sexual do personagem"
+    },
+    "choices": {
+      "xx": ":female_sign:",
+      "xy": ":male_sign:"
+    }
+  },
+  "quantity": {
+    "names": {
+      "pt-BR": "quantidade"
+    },
+    "descriptions": {
+      "pt-BR": "Quantidade de personagens, 1 até 15"
+    }
+  }
+}
