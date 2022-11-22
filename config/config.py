@@ -1,5 +1,5 @@
 from pydantic import BaseSettings
-from abs_pth import arquive
+from abs_pth import root_path
 
 
 class Settings(BaseSettings):
@@ -16,7 +16,7 @@ class Settings(BaseSettings):
 
     class Config:
         where = ["config", ".env"]
-        env_file = arquive(where=where)
+        env_file = root_path(where=where)
 
 
 settings = Settings()
