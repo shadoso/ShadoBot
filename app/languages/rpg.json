@@ -1,46 +1,86 @@
 {
-  "character": {
-    "names": {
-      "pt-BR": "personagem"
+  "characters": {
+    "name": "characters",
+    "name_localizations": {
+      "pt-BR": "personagens"
     },
-    "descriptions": {
+    "description": "Creates random characters",
+    "description_localizations": {
       "pt-BR": "Cria personagens aleatórios"
     }
   },
   "country": {
-    "names": {
-      "pt-BR": "pais"
+    "name": "country",
+    "name_localizations": {
+      "pt-BR": "país"
     },
-    "descriptions": {
-      "pt-BR": "Escolhe a nacionalidade do personagem"
+    "description": "Choose character nationality",
+    "description_localizations": {
+      "pt-BR": "Escolha a nacionalidade do personagem"
     },
     "choices": {
-      "br": ":flag_br:",
-      "fr": ":flag_fr:",
-      "jp": ":flag_jp:",
-      "ru": ":flag_ru:",
-      "us": ":flag_us:",
-      "ph": ":flag_ph:"
+      "brazil": "Brazil",
+      "france": "France",
+      "japan": "Japan",
+      "philippines": "Philippines",
+      "russia": "Russia",
+      "spain": "Spain",
+      "usa": "USA"
+    },
+    "choice_localizations": {
+      "brazil": {
+        "pt-BR": "Brasil"
+      },
+      "france": {
+        "pt-BR": "França"
+      },
+      "japan": {
+        "pt-BR": "Japão"
+      },
+      "philippines": {
+        "pt-BR": "Filipinas"
+      },
+      "russia": {
+        "pt-BR": "Rússia"
+      },
+      "spain": {
+        "pt-BR": "Espanha"
+      },
+      "usa": {
+        "pt-BR": "USA"
+      }
     }
   },
   "gender": {
-    "names": {
-      "pt-BR": "sexo"
+    "name": "gender",
+    "name_localizations": {
+      "pt-BR": "gênero"
     },
-    "descriptions": {
-      "pt-BR": "Escolhe o gênero sexual do personagem"
+    "description": "Choose character gender",
+    "description_localizations": {
+      "pt-BR": "Escolha o gênero do personagem"
     },
     "choices": {
-      "xx": ":female_sign:",
-      "xy": ":male_sign:"
+      "female": "Female",
+      "male": "Male"
+    },
+    "choice_localizations": {
+      "female": {
+        "pt-BR": "Feminino"
+      },
+      "male": {
+        "pt-BR": "Masculino"
+      }
     }
   },
   "quantity": {
-    "names": {
+    "name": "quantity",
+    "name_localizations": {
       "pt-BR": "quantidade"
     },
-    "descriptions": {
-      "pt-BR": "Quantidade de personagens, 1 até 15"
+    "description": "Quantity of characters",
+    "description_localizations": {
+      "pt-BR": "Quantidade de personagens"
     }
   }
 }
