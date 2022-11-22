@@ -30,46 +30,66 @@
     },
     "choices": {
       "angry": "angry",
+      "bite": "bite",
       "bored": "bored",
       "cry": "cry",
+      "cuddle": "cuddle",
+      "glare": "glare",
       "happy": "happy",
       "hug": "hug",
       "kick": "kick",
       "kiss": "kiss",
       "lick": "lick",
+      "pat": "pat",
+      "poke": "poke",
       "punch": "punch",
       "slap": "slap"
     },
     "choice_localizations": {
       "angry": {
-        "pt-BR": "Bravo"
+        "pt-BR": "bravo"
+      },
+      "bite": {
+        "pt-BR": "morder"
       },
       "bored": {
-        "pt-BR": "Entediado"
+        "pt-BR": "entediado"
       },
       "cry": {
-        "pt-BR": "Chorar"
+        "pt-BR": "chorar"
+      },
+      "cuddle": {
+        "pt-BR": "conchinha"
+      },
+      "glare": {
+        "pt-BR": "olhar"
       },
       "happy": {
-        "pt-BR": "Feliz"
+        "pt-BR": "feliz"
       },
       "hug": {
-        "pt-BR": "Abraçar"
+        "pt-BR": "abraçar"
       },
       "kick": {
-        "pt-BR": "Chutar"
+        "pt-BR": "chutar"
       },
       "kiss": {
-        "pt-BR": "Beijar"
+        "pt-BR": "beijar"
       },
       "lick": {
-        "pt-BR": "Lamber"
+        "pt-BR": "lamber"
+      },
+      "pat": {
+        "pt-BR": "acariciar"
+      },
+      "poke": {
+        "pt-BR": "cutucar"
       },
       "punch": {
-        "pt-BR": "Socar"
+        "pt-BR": "socar"
       },
       "slap": {
-        "pt-BR": "Tapa"
+        "pt-BR": "tapa"
       }
     }
   },
@@ -82,6 +102,10 @@
       "pt-BR": "está bravo com",
       "default": "is mad with"
     },
+    "bite": {
+      "pt-BR": "está mordendo",
+      "default": "is biting"
+    },
     "bored": {
       "pt-BR": "está entediado com",
       "default": "is bored with"
@@ -89,6 +113,14 @@
     "cry": {
       "pt-BR": "está triste com",
       "default": "is sad with"
+    },
+    "cuddle": {
+      "pt-BR": "está de conchinha com",
+      "default": "is cuddling"
+    },
+    "glare": {
+      "pt-BR": "está observando",
+      "default": "is glaring"
     },
     "happy": {
       "pt-BR": "está feliz com",
@@ -109,6 +141,14 @@
     "lick": {
       "pt-BR": "deu uma lambida em",
       "default": "licked"
+    },
+    "pat": {
+      "pt-BR": "está acariciando",
+      "default": "is patting"
+    },
+    "poke": {
+      "pt-BR": "está cutucando",
+      "default": "is poking"
     },
     "punch": {
       "pt-BR": "deu um soco em",
