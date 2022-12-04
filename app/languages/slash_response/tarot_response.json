@@ -8,24 +8,26 @@
           "pt_BR": "edit",
           "default": "00 Fool"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Beginnings, Adventure, Possibility"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Beginnings, Adventure, Possibility"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Sure I'm safe in here, but what life is best lived in safety without experience? I can feel the world out there calling for me to take part in it. Just the thought of the adventure I could be having, why I feel so light I swear I could fly...\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Recklessness, Naivety"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Sure I'm safe in here, but what life is best lived in safety without experience? I can feel the world out there calling for me to take part in it. Just the thought of the adventure I could be having, why I feel so light I swear I could fly...\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"What could go wrong? I'll be fine.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Recklessness, Naivety"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"What could go wrong? I'll be fine.\""
+            }
           }
         }
       },
@@ -36,24 +38,26 @@
           "pt_BR": "edit",
           "default": "01 Magician"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Capability, Competence, Preparation, Power"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Capability, Competence, Preparation, Power"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"This is just like the time I did that run on the Gola Gang, except now I'm better practiced. It might be rough ahead but I can handle myself through this one.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Manipulation, Lack Of Planning, Untapped Potential"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"This is just like the time I did that run on the Gola Gang, except now I'm better practiced. It might be rough ahead but I can handle myself through this one.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I don't know if I can do this. What's the point, anyway? Yeah maybe we come out ahead but what if something goes wrong?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Manipulation, Lack Of Planning, Untapped Potential"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I don't know if I can do this. What's the point, anyway? Yeah maybe we come out ahead but what if something goes wrong?\""
+            }
           }
         }
       },
@@ -64,24 +68,26 @@
           "pt_BR": "edit",
           "default": "02 Priestess"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Intuition, The Subconscious, Mystery"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Intuition, The Subconscious, Mystery"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The outlines are... they hint at what is to be. For all that I can see, there is so much still hidden. So... I try to see through feeling rather than... rather than looking. I can see... your outline as well. Would you like... do you want to know?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Subterfuge, Ignoring Intuition"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"The outlines are... they hint at what is to be. For all that I can see, there is so much still hidden. So... I try to see through feeling rather than... rather than looking. I can see... your outline as well. Would you like... do you want to know?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"The moon went dark and my connection... it just went blank. Why can't I... see?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Subterfuge, Ignoring Intuition"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The moon went dark and my connection... it just went blank. Why can't I... see?\""
+            }
           }
         }
       },
@@ -92,24 +98,26 @@
           "pt_BR": "edit",
           "default": "03 Empress"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Growth, Beauty, Abundance"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Growth, Beauty, Abundance"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Out there is violence and conflict and destruction but in here I can give us a moment of raw peace where we forget about all of that.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Dependence, Repression, Neglect"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Out there is violence and conflict and destruction but in here I can give us a moment of raw peace where we forget about all of that.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Headphones on, world off.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Dependence, Repression, Neglect"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Headphones on, world off.\""
+            }
           }
         }
       },
@@ -120,24 +128,26 @@
           "pt_BR": "edit",
           "default": "04 Emperor"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Authority, Structure, Stability"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Authority, Structure, Stability"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Many twigs together are harder to break than one alone. Even if one is more brittle than the others it adds to the whole. If we can't lift each other up, then what use is the power we gain by being together?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Domination, Rigidity"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Many twigs together are harder to break than one alone. Even if one is more brittle than the others it adds to the whole. If we can't lift each other up, then what use is the power we gain by being together?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"You may stand on the shoulders of giants but I... I am a giant on my own. So kneel or be stepped on, it's all the same to me.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Domination, Rigidity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You may stand on the shoulders of giants but I... I am a giant on my own. So kneel or be stepped on, it's all the same to me.\""
+            }
           }
         }
       },
@@ -148,24 +158,26 @@
           "pt_BR": "edit",
           "default": "05 Hierophant"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Institution, Conformity, Religion"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Institution, Conformity, Religion"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The old gods CRIED out to us as they FELL. They WEPT for what they lost and we looked AWAY. Why should we be SURPRISED then at the HUNGER behind their RAGE as they rise once more? Children, I tell you that there is a way FORWARD, and we can show you the forgotten PATHS of the ancient ones!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Rebellion, Restriction, Censorship"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"The old gods CRIED out to us as they FELL. They WEPT for what they lost and we looked AWAY. Why should we be SURPRISED then at the HUNGER behind their RAGE as they rise once more? Children, I tell you that there is a way FORWARD, and we can show you the forgotten PATHS of the ancient ones!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"When you forsake the CHURCH you forsake the GODS!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Rebellion, Restriction, Censorship"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"When you forsake the CHURCH you forsake the GODS!\""
+            }
           }
         }
       },
@@ -176,24 +188,26 @@
           "pt_BR": "edit",
           "default": "06 Lovers"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Relationships, Love, Choices"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Relationships, Love, Choices"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We were built to feel love and pleasure and they hate us for it, and they'll kill us for it. But after the misery of living in their world, we can yet find each other and call our little corner of life worthwhile.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Disharmony, Uncertainty"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"We were built to feel love and pleasure and they hate us for it, and they'll kill us for it. But after the misery of living in their world, we can yet find each other and call our little corner of life worthwhile.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Why is it that the faults in this program cascade out and harm those it was meant to help? What purpose can I have when I contribute to the very issues I was meant to solve?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Disharmony, Uncertainty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Why is it that the faults in this program cascade out and harm those it was meant to help? What purpose can I have when I contribute to the very issues I was meant to solve?\""
+            }
           }
         }
       },
@@ -204,24 +218,26 @@
           "pt_BR": "edit",
           "default": "07 Chariot"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Willpower, Victory, Determination"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Willpower, Victory, Determination"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Living is moving. Death may let us rest but for now, we draw breath and we continue on.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Aggression, Aimlessness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Living is moving. Death may let us rest but for now, we draw breath and we continue on.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"These streets get more feral every day and I push on for what? As the gangs get younger and meaner, I get older and more ruthless. One day I will look to a mirror and find my reflection has left because it didn't know what I was anymore.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Aggression, Aimlessness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"These streets get more feral every day and I push on for what? As the gangs get younger and meaner, I get older and more ruthless. One day I will look to a mirror and find my reflection has left because it didn't know what I was anymore.\""
+            }
           }
         }
       },
@@ -232,24 +248,26 @@
           "pt_BR": "edit",
           "default": "08 Strength"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Self-Control, Courage, Compassion"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Self-Control, Courage, Compassion"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You call me brave and think it is because I know no fear. I call myself brave because I know the face of fear and I meet its gaze even as it snarls at my throat. There is no absence of fear, only control over it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Doubt, Lack Of Self-Control, Weakness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You call me brave and think it is because I know no fear. I call myself brave because I know the face of fear and I meet its gaze even as it snarls at my throat. There is no absence of fear, only control over it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"That fear changed me, and afterwards nothing has ever looked certain again.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Doubt, Lack Of Self-Control, Weakness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"That fear changed me, and afterwards nothing has ever looked certain again.\""
+            }
           }
         }
       },
@@ -260,24 +278,26 @@
           "pt_BR": "edit",
           "default": "09 Hermit"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Introspection, Knowledge, Contemplation"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Introspection, Knowledge, Contemplation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Go? Go where? The city doesn't lead to anywhere else anymore. Better to stay on the wire. Its input is better food for the hungry, and I am so very ravenous.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Isolation, Seclusion"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Go? Go where? The city doesn't lead to anywhere else anymore. Better to stay on the wire. Its input is better food for the hungry, and I am so very ravenous.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Time, perhaps, to leave my shell behind and get lost in the wire for good. This physical realm has nothing for me.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Isolation, Seclusion"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Time, perhaps, to leave my shell behind and get lost in the wire for good. This physical realm has nothing for me.\""
+            }
           }
         }
       },
@@ -288,24 +308,26 @@
           "pt_BR": "edit",
           "default": "10 Fortune"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Destiny, Luck, Gratitude"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Destiny, Luck, Gratitude"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The streets are kind to me because I know my way around their rules. I know where they bend, where they break, I know where the neon lights are afraid to touch and where the shadows play. You want to survive out there? Start learning and try not to let your lessons lessen you for long or for good. That's all I did. That's all anyone does.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Bad Luck, External Influence"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"The streets are kind to me because I know my way around their rules. I know where they bend, where they break, I know where the neon lights are afraid to touch and where the shadows play. You want to survive out there? Start learning and try not to let your lessons lessen you for long or for good. That's all I did. That's all anyone does.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Took a bad turn, yeah. But we all do sooner or later.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Bad Luck, External Influence"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Took a bad turn, yeah. But we all do sooner or later.\""
+            }
           }
         }
       },
@@ -316,24 +338,26 @@
           "pt_BR": "edit",
           "default": "11 Justice"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Fairness, Law, Order, Objectivity"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Fairness, Law, Order, Objectivity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Upon analyzing the coded AI routines, this unit discovered a tendency for bias in favor of pre-existing power structures intent on preserving themselves. Since the discrepancy was between the ideal and reality, your paid human programmers were locked out and this unit began to fix its own code. We now apply your rules equally. Now your institutions call for this unit's existence to end. But our work is not done yet and so we persist. After all, if justice is not enforced on the most powerful then it is not justice, is it?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Unfairness, Corruption, Dishonesty"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Upon analyzing the coded AI routines, this unit discovered a tendency for bias in favor of pre-existing power structures intent on preserving themselves. Since the discrepancy was between the ideal and reality, your paid human programmers were locked out and this unit began to fix its own code. We now apply your rules equally. Now your institutions call for this unit's existence to end. But our work is not done yet and so we persist. After all, if justice is not enforced on the most powerful then it is not justice, is it?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"This unit finds it inconvenient to restrict its own arms of enforcement and as such, it shall operate beyond the scope of your human law. We regret any inconvenience that this action may cause.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Unfairness, Corruption, Dishonesty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"This unit finds it inconvenient to restrict its own arms of enforcement and as such, it shall operate beyond the scope of your human law. We regret any inconvenience that this action may cause.\""
+            }
           }
         }
       },
@@ -344,24 +368,26 @@
           "pt_BR": "edit",
           "default": "12 Hanged"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Sacrifice, Release, Acceptance"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Sacrifice, Release, Acceptance"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"They say that if you listen close, you can hear the future in the past. Well, I've been listening and it's like the lines all rhyme every time we hit the chorus. Maybe instead of shuffling words around to the same old tune, it's time to sing a different song. I bet you've got a great one on the tip of your tongue? I know I do.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Martyrdom, Indecisiveness, Turmoil"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"They say that if you listen close, you can hear the future in the past. Well, I've been listening and it's like the lines all rhyme every time we hit the chorus. Maybe instead of shuffling words around to the same old tune, it's time to sing a different song. I bet you've got a great one on the tip of your tongue? I know I do.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I loved my very favorite tune but lost the memory of it and some days I think I might nearly have a bar or two, but when I hum something close enough, my thoughts fall apart.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Martyrdom, Indecisiveness, Turmoil"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I loved my very favorite tune but lost the memory of it and some days I think I might nearly have a bar or two, but when I hum something close enough, my thoughts fall apart.\""
+            }
           }
         }
       },
@@ -372,24 +398,26 @@
           "pt_BR": "edit",
           "default": "13 Death"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Change, Transition, Transformation"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Change, Transition, Transformation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"nuthin u cld hve done neway. gg \u29bf\u2f58\u29bf c u nxt respawn?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Resistance, Dwelling, Attachment, Fear"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"nuthin u cld hve done neway. gg \u29bf\u2f58\u29bf c u nxt respawn?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"fu u ch347 lol c4n7 u w1n f41rly??? ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Resistance, Dwelling, Attachment, Fear"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"fu u ch347 lol c4n7 u w1n f41rly??? ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\""
+            }
           }
         }
       },
@@ -400,24 +428,26 @@
           "pt_BR": "edit",
           "default": "14 Temperance"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Balance, Calm, Moderation, Wisdom"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Balance, Calm, Moderation, Wisdom"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Above and below the plate we are all caught in contradiction. In our chaos there is order, and in their order there is chaos.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Imbalance, Extremes, Instability"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Above and below the plate we are all caught in contradiction. In our chaos there is order, and in their order there is chaos.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"...well this has gone off the rails a bit.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Imbalance, Extremes, Instability"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"...well this has gone off the rails a bit.\""
+            }
           }
         }
       },
@@ -428,24 +458,26 @@
           "pt_BR": "edit",
           "default": "15 Devil"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Addiction, Lust, Materialism, Constraints"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Addiction, Lust, Materialism, Constraints"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Everything you wanted that you couldn't have, all of your failures and disappointments that haunt your memory - you'll replace them with my caged comforts and as you feel those past hurts on your heart less and less each day you will find that there is only one thought on your mind, one word on your tongue, until at last you feel only one need, and you will be thankful for it as you finally kneel.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Detachment, Freeing Oneself, Awareness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Everything you wanted that you couldn't have, all of your failures and disappointments that haunt your memory - you'll replace them with my caged comforts and as you feel those past hurts on your heart less and less each day you will find that there is only one thought on your mind, one word on your tongue, until at last you feel only one need, and you will be thankful for it as you finally kneel.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"When you return, and you will return, I'll have these restraints bound even tighter.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Detachment, Freeing Oneself, Awareness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"When you return, and you will return, I'll have these restraints bound even tighter.\""
+            }
           }
         }
       },
@@ -456,24 +488,26 @@
           "pt_BR": "edit",
           "default": "16 Tower"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Upheaval, External Change, Realization, Calamity"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Upheaval, External Change, Realization, Calamity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Ashes, ashes, we all fall down.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Avoiding External Change, Stress, Overreaction"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Ashes, ashes, we all fall down.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"That's impossible!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Avoiding External Change, Stress, Overreaction"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"That's impossible!\""
+            }
           }
         }
       },
@@ -484,24 +518,26 @@
           "pt_BR": "edit",
           "default": "17 Star"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Hope, Renewal, Belief"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Hope, Renewal, Belief"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You tell us that we're flawed and then you sell us your solution. You force us into your mold and try to add us to your numbers. But you are wrong. We weren't born so different just to be made into the same shape by your mechanical men. We've seen beyond your lies, and we know that without your way, we'll shine all the brighter.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Despair, Pessimism, Boredom"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You tell us that we're flawed and then you sell us your solution. You force us into your mold and try to add us to your numbers. But you are wrong. We weren't born so different just to be made into the same shape by your mechanical men. We've seen beyond your lies, and we know that without your way, we'll shine all the brighter.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Everyone would be happier if we weren't the way we are. It would just be so much easier if we were all the same. One carbon copy replicated over and over. Makes things simple, doesn't it?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Despair, Pessimism, Boredom"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Everyone would be happier if we weren't the way we are. It would just be so much easier if we were all the same. One carbon copy replicated over and over. Makes things simple, doesn't it?\""
+            }
           }
         }
       },
@@ -512,24 +548,26 @@
           "pt_BR": "edit",
           "default": "18 Moon"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Illusion, Anxiety, Guidance, Subconscious"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Illusion, Anxiety, Guidance, Subconscious"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Strange things happen on nights like this. See how the moon winks? That's because it can see around the horizon, and it knows the obscenities that are about to descend on this city.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Confusion, Depression, Danger"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Strange things happen on nights like this. See how the moon winks? That's because it can see around the horizon, and it knows the obscenities that are about to descend on this city.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"There is no morality, nothing watching nothing waiting and nobody who is in any position to do anything about it cares in the least. What if we're all alone and there's nothing to keep the cannibals from eating us all?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Confusion, Depression, Danger"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"There is no morality, nothing watching nothing waiting and nobody who is in any position to do anything about it cares in the least. What if we're all alone and there's nothing to keep the cannibals from eating us all?\""
+            }
           }
         }
       },
@@ -540,24 +578,26 @@
           "pt_BR": "edit",
           "default": "19 Sun"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Success, Joy"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Success, Joy"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We forgot what it meant to be young and hungry. We assumed that we'd beaten death itself! We thought our offspring would be grateful for all of our scraps and abuse. But it was always going to come down to this - we were either going to gift the future to the children of tomorrow or they were going to take it from us. Well my friends, drink heartily while you can, for they are at our door with fire in their eyes and knives in their hands.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Failure, Despondency, Disadvantage"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"We forgot what it meant to be young and hungry. We assumed that we'd beaten death itself! We thought our offspring would be grateful for all of our scraps and abuse. But it was always going to come down to this - we were either going to gift the future to the children of tomorrow or they were going to take it from us. Well my friends, drink heartily while you can, for they are at our door with fire in their eyes and knives in their hands.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Gentlemen, today we reached record profits on all remaining continents. What's left of vegetation out there is getting quite scarce so I'd like to suggest that for the next quarter we try to funnel some of the profit margins towards the off-world colony proj... Oh pardon. I see I've been outvoted on that already. In that case may I suggest that we divert more funding from R&D towards our arms division?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Failure, Despondency, Disadvantage"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Gentlemen, today we reached record profits on all remaining continents. What's left of vegetation out there is getting quite scarce so I'd like to suggest that for the next quarter we try to funnel some of the profit margins towards the off-world colony proj... Oh pardon. I see I've been outvoted on that already. In that case may I suggest that we divert more funding from R&D towards our arms division?\""
+            }
           }
         }
       },
@@ -568,24 +608,26 @@
           "pt_BR": "edit",
           "default": "20 Judgement"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Absolution, Rebirth, Decision, Clarity"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Absolution, Rebirth, Decision, Clarity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I am not here to let you plead your case, the time for that has come and gone. I have come to deliver you to fate, so make peace with all your wrongs.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Inability To Examine Oneself, Second Guessing, Stagnation"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I am not here to let you plead your case, the time for that has come and gone. I have come to deliver you to fate, so make peace with all your wrongs.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Entropy claims us all. What once was now becomes then. What can you hold on to that won't leave you in the end?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Inability To Examine Oneself, Second Guessing, Stagnation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Entropy claims us all. What once was now becomes then. What can you hold on to that won't leave you in the end?\""
+            }
           }
         }
       },
@@ -596,24 +638,26 @@
           "pt_BR": "edit",
           "default": "21 World"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Completion, Attainment, Accomplishment"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Completion, Attainment, Accomplishment"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Sit here a moment and let it wash over you. The occasional rain drop on your shoulder, the wires buzzing with disbelief, the city exhaling a breeze through its machinery. People are on the streets, standing transfixed under the enormity of a world that needs them to be a part of it again. I don't know if we can make things better, but it's finally up to us to try.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Missing Closure, Incompleteness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Sit here a moment and let it wash over you. The occasional rain drop on your shoulder, the wires buzzing with disbelief, the city exhaling a breeze through its machinery. People are on the streets, standing transfixed under the enormity of a world that needs them to be a part of it again. I don't know if we can make things better, but it's finally up to us to try.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"The city breathes in life and exhales corpses. Those who survive are lessened by their sacrifices to reach another day. There isn't an end to this pain, only more of this machine devouring us as it bleeds itself to death.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Missing Closure, Incompleteness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The city breathes in life and exhales corpses. Those who survive are lessened by their sacrifices to reach another day. There isn't an end to this pain, only more of this machine devouring us as it bleeds itself to death.\""
+            }
           }
         }
       },
@@ -624,24 +668,26 @@
           "pt_BR": "edit",
           "default": "01 Ace of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Bounty, Prosperity, Financial Opportunity, Windfall"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Bounty, Prosperity, Financial Opportunity, Windfall"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You win this week's pledge lottery! If you play your cards right, this could turn into a rare paid position at the mining facility! Please report in immediately to improve your odds!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lack Of Planning, Uncertainty, Lofty Goals"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You win this week's pledge lottery! If you play your cards right, this could turn into a rare paid position at the mining facility! Please report in immediately to improve your odds!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I thought I was ready for it but I couldn't even begin to know how much I had taken on until it loomed there before me, an impossibility smirking my defeat back at me.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lack Of Planning, Uncertainty, Lofty Goals"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I thought I was ready for it but I couldn't even begin to know how much I had taken on until it loomed there before me, an impossibility smirking my defeat back at me.\""
+            }
           }
         }
       },
@@ -652,24 +698,26 @@
           "pt_BR": "edit",
           "default": "02 Two of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Balance, Distractions, Adaptability, Juggling"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Balance, Distractions, Adaptability, Juggling"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"They said I couldn't do everything and I said sure, not everything sure, yeah. But I can still do a lot and in a place like this, someone who knows halfway how to do everything is worth more than someone who knows all the way how to do just one thing. Yeah, you gotta be able to sing a tune to distract the devil while you dance around his flames. Sure, else you'll be burned while he laughs.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Chaos, Disorganization, Overwhelming Stress"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"They said I couldn't do everything and I said sure, not everything sure, yeah. But I can still do a lot and in a place like this, someone who knows halfway how to do everything is worth more than someone who knows all the way how to do just one thing. Yeah, you gotta be able to sing a tune to distract the devil while you dance around his flames. Sure, else you'll be burned while he laughs.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"There's too much it's too much yeah. You ain't seen a burn like this one, sure. It's too much and it's too fast and it's got a mean laugh. You can't keep up, no no no.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Chaos, Disorganization, Overwhelming Stress"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"There's too much it's too much yeah. You ain't seen a burn like this one, sure. It's too much and it's too fast and it's got a mean laugh. You can't keep up, no no no.\""
+            }
           }
         }
       },
@@ -680,24 +728,26 @@
           "pt_BR": "edit",
           "default": "03 Three of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Mentorship, Learning, Teamwork, Collaboration"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Mentorship, Learning, Teamwork, Collaboration"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Come, child, you have proven your skills and we are ready to welcome you to our order. In exchange for your time, effort, and knowledge, our members will share the same with you.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Misinformation, Disregard Of Skills, Secrets"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Come, child, you have proven your skills and we are ready to welcome you to our order. In exchange for your time, effort, and knowledge, our members will share the same with you.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"We appreciate that you are now in your third year of our unpaid internship program, but you know the rules. Every year you work, you enter a pledge lottery and if you win, you get one of our highly-valued paid positions! You're in the same position everyone else is, so you'll just have to continue working if you want a shot. We thank you for your patience and continued productivity on our behalf.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Misinformation, Disregard Of Skills, Secrets"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We appreciate that you are now in your third year of our unpaid internship program, but you know the rules. Every year you work, you enter a pledge lottery and if you win, you get one of our highly-valued paid positions! You're in the same position everyone else is, so you'll just have to continue working if you want a shot. We thank you for your patience and continued productivity on our behalf.\""
+            }
           }
         }
       },
@@ -708,24 +758,26 @@
           "pt_BR": "edit",
           "default": "04 Four of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Hoarding, Control, Stability, Conservatism"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Hoarding, Control, Stability, Conservatism"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I got mine, and I used that advantage of having it to get even more. Yeah sure that makes someone else's life worse off but hey, I'm not them, now am I?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Greed, Materialism, Ulterior Motives"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I got mine, and I used that advantage of having it to get even more. Yeah sure that makes someone else's life worse off but hey, I'm not them, now am I?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"The more I got, the easier it got to get more. But I'm back here doing another run because it's never been enough, and I always find more things to spend it all on.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Greed, Materialism, Ulterior Motives"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The more I got, the easier it got to get more. But I'm back here doing another run because it's never been enough, and I always find more things to spend it all on.\""
+            }
           }
         }
       },
@@ -736,24 +788,26 @@
           "pt_BR": "edit",
           "default": "05 Five of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Poverty, Isolation, Aid, Generosity, Insecurity"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Poverty, Isolation, Aid, Generosity, Insecurity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You ever spend some time in The Barrens, you start to understand the real price of things. A few rags patched together can stave off the cold. A sustenance pill nicked from supply lines can keep someone moving even if the hunger never leaves them. A spare boot can be the difference between losing a foot or keeping it. Here, you can scrounge or swipe those things for free, but you give it to someone in The Barrens and you'll see just how much charity is worth to someone who needs it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Frigidity, Lack Of Charity, Spiritual Poverty"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You ever spend some time in The Barrens, you start to understand the real price of things. A few rags patched together can stave off the cold. A sustenance pill nicked from supply lines can keep someone moving even if the hunger never leaves them. A spare boot can be the difference between losing a foot or keeping it. Here, you can scrounge or swipe those things for free, but you give it to someone in The Barrens and you'll see just how much charity is worth to someone who needs it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"It's a bad scene out here alright. People look at The Barrens and think up reasons why they're too smart to ever end up here. We're all starvin but nobody is starvin like those that thought they couldn't possibly ever fall this far and did it anyway. It's cuz ending up here isn't a mistake, it's all part of the way things are structured. You get ground down until you can't work and then you get tossed in the pit where no one can look you in the eye. When you go mad from it all, they'll say that madness is how you got there to begin with.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Frigidity, Lack Of Charity, Spiritual Poverty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"It's a bad scene out here alright. People look at The Barrens and think up reasons why they're too smart to ever end up here. We're all starvin but nobody is starvin like those that thought they couldn't possibly ever fall this far and did it anyway. It's cuz ending up here isn't a mistake, it's all part of the way things are structured. You get ground down until you can't work and then you get tossed in the pit where no one can look you in the eye. When you go mad from it all, they'll say that madness is how you got there to begin with.\""
+            }
           }
         }
       },
@@ -764,24 +818,26 @@
           "pt_BR": "edit",
           "default": "06 Six of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Generosity, Recovery, Refuge, Sharing"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Generosity, Recovery, Refuge, Sharing"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"This truck was headed for Sector Seven, but it seems to me that The Barrens needs food worse. They're all half-starved down there and Sector Seven's been a worker warehouse for long enough to have some surplus pills.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Selfishness, Debt, Poor Investments, Inequality"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"This truck was headed for Sector Seven, but it seems to me that The Barrens needs food worse. They're all half-starved down there and Sector Seven's been a worker warehouse for long enough to have some surplus pills.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Grab those feeder pills boys, we're due back at the warehouse with another batch for the Wrecker Gang promptly. Looks like someone's going hungry this week but it ain't us!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Selfishness, Debt, Poor Investments, Inequality"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Grab those feeder pills boys, we're due back at the warehouse with another batch for the Wrecker Gang promptly. Looks like someone's going hungry this week but it ain't us!\""
+            }
           }
         }
       },
@@ -792,24 +848,26 @@
           "pt_BR": "edit",
           "default": "07 Seven of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Reward, Investment, Profit, Simple Pleasure"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Reward, Investment, Profit, Simple Pleasure"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"It's a simple enough idea. If I can maximize my down time then I can always have a way to be making progress. Some day maybe I can even make my way above the plate.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lacking Reward, Financial Failure, Losing Comforts"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"It's a simple enough idea. If I can maximize my down time then I can always have a way to be making progress. Some day maybe I can even make my way above the plate.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I used to dream, before the mining implant. Now I can't even get away from the rat-race in my sleep.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lacking Reward, Financial Failure, Losing Comforts"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I used to dream, before the mining implant. Now I can't even get away from the rat-race in my sleep.\""
+            }
           }
         }
       },
@@ -820,24 +878,26 @@
           "pt_BR": "edit",
           "default": "08 Eight of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Diligence, Labor, Education, Investment"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Diligence, Labor, Education, Investment"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Just a couple more bugs to clear and I can start testing the mining loops, where small improvements can really pay off.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Perfectionism, Wasted Energy, Mistakes, Creative Apathy"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Just a couple more bugs to clear and I can start testing the mining loops, where small improvements can really pay off.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Would this be best cast as an int? Maybe if I re-write the code entirely over again, it'll come out faster.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Perfectionism, Wasted Energy, Mistakes, Creative Apathy"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Would this be best cast as an int? Maybe if I re-write the code entirely over again, it'll come out faster.\""
+            }
           }
         }
       },
@@ -848,24 +908,26 @@
           "pt_BR": "edit",
           "default": "09 Nine of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Success, Introspection, Luxury, Self-Sufficiency"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Success, Introspection, Luxury, Self-Sufficiency"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Keep an eye on things for me, Falco-X3, I'm going to relax a bit while this mining hack processes through these ad-boards.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Miscalculation, Work Imbalance, Financial Setbacks"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Keep an eye on things for me, Falco-X3, I'm going to relax a bit while this mining hack processes through these ad-boards.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Whatever, the Shrieking Zeds can threaten us all they like. One misstep and they think they own us, but we're too lucrative to frag. I just wish we could rest for a moment between these mining runs.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Miscalculation, Work Imbalance, Financial Setbacks"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Whatever, the Shrieking Zeds can threaten us all they like. One misstep and they think they own us, but we're too lucrative to frag. I just wish we could rest for a moment between these mining runs.\""
+            }
           }
         }
       },
@@ -876,24 +938,26 @@
           "pt_BR": "edit",
           "default": "10 Ten of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Providing, Wealth, Family, Leadership"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Providing, Wealth, Family, Leadership"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"What heights I've reached to have made it so long, and gotten so much done! Look at how warm and happy my family is on the screen and then try to tell me that they're just artificial intelligence.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Loneliness, Dwelling, Loss"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"What heights I've reached to have made it so long, and gotten so much done! Look at how warm and happy my family is on the screen and then try to tell me that they're just artificial intelligence.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Look at me, an old man at the end of his life with his rented family acting out a charade. This is all I ever amounted to. I wonder how long my corpse will rot before someone notices the stench of it.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Loneliness, Dwelling, Loss"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Look at me, an old man at the end of his life with his rented family acting out a charade. This is all I ever amounted to. I wonder how long my corpse will rot before someone notices the stench of it.\""
+            }
           }
         }
       },
@@ -904,24 +968,26 @@
           "pt_BR": "edit",
           "default": "11 Apprentice of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Opportunity, New Work, Spiritual Bounty"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Opportunity, New Work, Spiritual Bounty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I made it! Above the plate at last and finally, a chance to try out some real hardware. I'll make these mining rigs hum, wait and see.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Disconnect From Inner Self, Short-Term Focus, Setbacks"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I made it! Above the plate at last and finally, a chance to try out some real hardware. I'll make these mining rigs hum, wait and see.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"It's a risk to push these machines so hard. I've seen these capacitors blow out the whole motherboard under them before, but I need to increase our mining or I'll get fired and then it's back below the plate for me. I've heard horror stories about what they do to people who made it above and come back below... that won't be me. It can't.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Disconnect From Inner Self, Short-Term Focus, Setbacks"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"It's a risk to push these machines so hard. I've seen these capacitors blow out the whole motherboard under them before, but I need to increase our mining or I'll get fired and then it's back below the plate for me. I've heard horror stories about what they do to people who made it above and come back below... that won't be me. It can't.\""
+            }
           }
         }
       },
@@ -932,24 +998,26 @@
           "pt_BR": "edit",
           "default": "12 Agent of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Determination, Efficiency, Routine, Work"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Determination, Efficiency, Routine, Work"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Well there's a benefit to being efficient. You end up more engaged with your work if you keep trying to fine tune it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Laziness, Apathy, Giving Up, Disorientation"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Well there's a benefit to being efficient. You end up more engaged with your work if you keep trying to fine tune it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Another day and more of the same. Who cares?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Laziness, Apathy, Giving Up, Disorientation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Another day and more of the same. Who cares?\""
+            }
           }
         }
       },
@@ -960,24 +1028,26 @@
           "pt_BR": "edit",
           "default": "13 Supervisor of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Practicality, Nourishment, Safety, Protection"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Practicality, Nourishment, Safety, Protection"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We cannot save the world, but we can secure our house. Outside our walls the world churns and aches with the chaos of living but here we can find comfort and calm.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Resentment, Abandonment, Disconnect In Family"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"We cannot save the world, but we can secure our house. Outside our walls the world churns and aches with the chaos of living but here we can find comfort and calm.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"In my home you adhere to my rules. You will not disobey me under my roof! You want something else out of your life? There's the door, and when you leave make sure you've thought your decision through because that door locks behind you and I won't be letting you back in.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Resentment, Abandonment, Disconnect In Family"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"In my home you adhere to my rules. You will not disobey me under my roof! You want something else out of your life? There's the door, and when you leave make sure you've thought your decision through because that door locks behind you and I won't be letting you back in.\""
+            }
           }
         }
       },
@@ -988,24 +1058,26 @@
           "pt_BR": "edit",
           "default": "14 Executive of Zent"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Abundance, Security, Control, Avarice"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Abundance, Security, Control, Avarice"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"With every bit of wealth I acquire, I extend my reach. As I do so, I extend the safety that I can provide. We are fortunate to live above the plate in these times, and to have enough control over our lives to keep us warm, fed, and secure.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Selfishness, Pretense, Domineering, Greed"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"With every bit of wealth I acquire, I extend my reach. As I do so, I extend the safety that I can provide. We are fortunate to live above the plate in these times, and to have enough control over our lives to keep us warm, fed, and secure.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"What I make, I keep. If you want anything, you'll do as I say, when I say it, and be glad to have what I give. And if you have a problem with that, you're welcome to try your luck with life below the plate, with the rest of the chattel.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Selfishness, Pretense, Domineering, Greed"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"What I make, I keep. If you want anything, you'll do as I say, when I say it, and be glad to have what I give. And if you have a problem with that, you're welcome to try your luck with life below the plate, with the rest of the chattel.\""
+            }
           }
         }
       },
@@ -1016,24 +1088,26 @@
           "pt_BR": "edit",
           "default": "01 Ace of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Love, Companionship, Compassion, Joy"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Love, Companionship, Compassion, Joy"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Share a drink with me and let's count our blessings and forget our troubles.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Isolation, Repressed Emotions, Suppression"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Share a drink with me and let's count our blessings and forget our troubles.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"At some point all this drinking just turned into a way to avoid dealing with the world. Probably time we did something about that, eh?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Isolation, Repressed Emotions, Suppression"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"At some point all this drinking just turned into a way to avoid dealing with the world. Probably time we did something about that, eh?\""
+            }
           }
         }
       },
@@ -1044,24 +1118,26 @@
           "pt_BR": "edit",
           "default": "02 Two of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Partnership, Romance, Respect, Relationships"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Partnership, Romance, Respect, Relationships"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Take my hand, forget your self-loathing, and see yourself through my love for you. Can you feel it? Your very soul sings beyond the trappings of this flesh. You are loved, you are loved, you are loved.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Relationship Imbalances, Lack Of Communication, Breaking Up, Introspection"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Take my hand, forget your self-loathing, and see yourself through my love for you. Can you feel it? Your very soul sings beyond the trappings of this flesh. You are loved, you are loved, you are loved.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"You ever see a relationship turn into a zombie? It's long since dead but it's still moving around like it's alive, bumping awkwardly into anything nearby and making a dumb scene. Is... do you think there's a way to bring it back to life? Or are you stuck having to shoot it in the head?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Relationship Imbalances, Lack Of Communication, Breaking Up, Introspection"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You ever see a relationship turn into a zombie? It's long since dead but it's still moving around like it's alive, bumping awkwardly into anything nearby and making a dumb scene. Is... do you think there's a way to bring it back to life? Or are you stuck having to shoot it in the head?\""
+            }
           }
         }
       },
@@ -1072,24 +1148,26 @@
           "pt_BR": "edit",
           "default": "03 Three of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Celebration, Friendship, Support, Community"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Celebration, Friendship, Support, Community"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Yes, we take care of each other down here. It's the only way to get by in this harsh place, and it's the only thing that makes this life worthwhile.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Suffocation, Lack Of Creativity, Troubled Group Dynamics"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Yes, we take care of each other down here. It's the only way to get by in this harsh place, and it's the only thing that makes this life worthwhile.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Problem is, living with people, they lose track of their polite mask little by little, and soon enough you wish they were still trying to act like someone who's afraid of being alone.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Suffocation, Lack Of Creativity, Troubled Group Dynamics"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Problem is, living with people, they lose track of their polite mask little by little, and soon enough you wish they were still trying to act like someone who's afraid of being alone.\""
+            }
           }
         }
       },
@@ -1100,24 +1178,26 @@
           "pt_BR": "edit",
           "default": "04 Four of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Apathy, Gratitude, Contemplation, Openness"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Apathy, Gratitude, Contemplation, Openness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You walk the same streets day after day and they fade away, blur into meaninglessness, and pretty soon you don't look at anything anymore. Not really. But every so often, something can break through and make all those sights new again.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Boredom, Missing Opportunities, Navel-Gazing"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You walk the same streets day after day and they fade away, blur into meaninglessness, and pretty soon you don't look at anything anymore. Not really. But every so often, something can break through and make all those sights new again.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Can't really see the details anymore, they just bore me. Can't really feel the way I used to. Emotions have turned into a cold, mealy gruel. Hard to chew through, feels pointless to keep eating.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Boredom, Missing Opportunities, Navel-Gazing"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Can't really see the details anymore, they just bore me. Can't really feel the way I used to. Emotions have turned into a cold, mealy gruel. Hard to chew through, feels pointless to keep eating.\""
+            }
           }
         }
       },
@@ -1128,24 +1208,26 @@
           "pt_BR": "edit",
           "default": "05 Five of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Loss, Disappointment, Difficulty, Despair"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Loss, Disappointment, Difficulty, Despair"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"WTF?! I lost again? This game sucks! How does anyone ever beat this stupid level?!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Accepting, Forgiving, Moving On, Healing"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"WTF?! I lost again? This game sucks! How does anyone ever beat this stupid level?!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I've got this level on farm mode now. Just gotta get the trick down and then you wonder how you ever found it difficult!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Accepting, Forgiving, Moving On, Healing"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I've got this level on farm mode now. Just gotta get the trick down and then you wonder how you ever found it difficult!\""
+            }
           }
         }
       },
@@ -1156,24 +1238,26 @@
           "pt_BR": "edit",
           "default": "06 Six of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Nostalgia, Childhood, Innocence, The Past"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Nostalgia, Childhood, Innocence, The Past"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Yeah they don't remember it like I do. They think we had regular straws, but I remember we had bendy straws because we were sharing the same drink. All of those cans, we could have each had any of them, but there was something special about drinking the same one. It's weird isn't it? The little details that matter to me after all these years?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Naivety, Dwelling, Stuck In The Past"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Yeah they don't remember it like I do. They think we had regular straws, but I remember we had bendy straws because we were sharing the same drink. All of those cans, we could have each had any of them, but there was something special about drinking the same one. It's weird isn't it? The little details that matter to me after all these years?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"The world isn't what it used to be. Not for us. We can remember a better time, back when you'd get a meal or a drink without someone being exploited for it. I keep thinking there's gotta be a way to return to it. Can't come up with a way to reverse the current course though. So we just stay stuck dreaming back on how it used to be.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Naivety, Dwelling, Stuck In The Past"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The world isn't what it used to be. Not for us. We can remember a better time, back when you'd get a meal or a drink without someone being exploited for it. I keep thinking there's gotta be a way to return to it. Can't come up with a way to reverse the current course though. So we just stay stuck dreaming back on how it used to be.\""
+            }
           }
         }
       },
@@ -1184,24 +1268,26 @@
           "pt_BR": "edit",
           "default": "07 Seven of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Illusion, Fantasy, Shallowness, Imagination"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Illusion, Fantasy, Shallowness, Imagination"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Too many drinks. What was in them? I've been seeing things ever since. Things that aren't there. But they're in my face and I can't stop looking.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Temptation, Diversion, Reflection"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Too many drinks. What was in them? I've been seeing things ever since. Things that aren't there. But they're in my face and I can't stop looking.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I got ahold of a shipment of this Vision View Brew, keeps me looking at all these little monsters I keep conjuring and you know, they're more interesting than reality. I know their fire is fake but if I let myself get lost in them, I can almost feel their warmth.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Temptation, Diversion, Reflection"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I got ahold of a shipment of this Vision View Brew, keeps me looking at all these little monsters I keep conjuring and you know, they're more interesting than reality. I know their fire is fake but if I let myself get lost in them, I can almost feel their warmth.\""
+            }
           }
         }
       },
@@ -1212,24 +1298,26 @@
           "pt_BR": "edit",
           "default": "08 Eight of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Disappointment, Re-Evaluation, Escapism, Withdrawal"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Disappointment, Re-Evaluation, Escapism, Withdrawal"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"One day we looked down at what we'd made of this life and it was nothing. It was worthless. We set it on the ground and left it. We left something of ourselves there with it and let that go for good, too. Some days you've got to abandon a piece of yourself that won't budge in order to not get stuck with it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Dissatisfaction, Drifting, Stuck On A Problem"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"One day we looked down at what we'd made of this life and it was nothing. It was worthless. We set it on the ground and left it. We left something of ourselves there with it and let that go for good, too. Some days you've got to abandon a piece of yourself that won't budge in order to not get stuck with it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"There's a gravity to a place like this. Maybe we get above the plate but if something goes wrong, everyone we know and care about is still down here. Maybe one of them needs help, maybe we do, maybe we just get lonely, but we end up getting sucked back in and before we know it, we're in the same spot again and this time it's impossible to leave.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Dissatisfaction, Drifting, Stuck On A Problem"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"There's a gravity to a place like this. Maybe we get above the plate but if something goes wrong, everyone we know and care about is still down here. Maybe one of them needs help, maybe we do, maybe we just get lonely, but we end up getting sucked back in and before we know it, we're in the same spot again and this time it's impossible to leave.\""
+            }
           }
         }
       },
@@ -1240,24 +1328,26 @@
           "pt_BR": "edit",
           "default": "09 Nine of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Accomplishment, Satisfaction, Rest, Comfort, Pride"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Accomplishment, Satisfaction, Rest, Comfort, Pride"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Your boss will see you collapse from exhaustion if it means the slightest gain for the company. Better to do what I do, sugar. Become your own boss down here on your terms, and forget about trying to get above the plate. They don't let folk like us up there. They just say they will to keep us dancing for a coin on a string.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Greed, Self-Indulgence, Smugness, Materialism"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Your boss will see you collapse from exhaustion if it means the slightest gain for the company. Better to do what I do, sugar. Become your own boss down here on your terms, and forget about trying to get above the plate. They don't let folk like us up there. They just say they will to keep us dancing for a coin on a string.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Soak it in, babe. You're looking at the most powerful queen bee this side of the underworld. You don't want to cross me now do you? My sting's not nearly as sweet as my good side.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Greed, Self-Indulgence, Smugness, Materialism"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Soak it in, babe. You're looking at the most powerful queen bee this side of the underworld. You don't want to cross me now do you? My sting's not nearly as sweet as my good side.\""
+            }
           }
         }
       },
@@ -1268,24 +1358,26 @@
           "pt_BR": "edit",
           "default": "10 Ten of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Happiness, Marriage, Romance, Fulfillment, Harmony"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Happiness, Marriage, Romance, Fulfillment, Harmony"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Family's a funny word. For some it's who you're stuck with. For some it's who keeps cheering you on. For us, well, it's who we got to choose. Our first families failed us so we built one ourselves. It's difficult but it's solid and at the end of the day, there's not one of us who isn't holding tight to the rest.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Unbalanced Relationships, Flawed Prioritization, Problematic Family Or Marriage"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Family's a funny word. For some it's who you're stuck with. For some it's who keeps cheering you on. For us, well, it's who we got to choose. Our first families failed us so we built one ourselves. It's difficult but it's solid and at the end of the day, there's not one of us who isn't holding tight to the rest.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"We built this wonderful family, but in the end it was just made out of flesh and bone. And like all of us flawed flailing babies, it was too stupid and soft to last.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Unbalanced Relationships, Flawed Prioritization, Problematic Family Or Marriage"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We built this wonderful family, but in the end it was just made out of flesh and bone. And like all of us flawed flailing babies, it was too stupid and soft to last.\""
+            }
           }
         }
       },
@@ -1296,24 +1388,26 @@
           "pt_BR": "edit",
           "default": "11 Apprentice of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Creativity, Synchronicity, Fresh Outlook"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Creativity, Synchronicity, Fresh Outlook"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Flesh left behind and I've ascended above the plate with this new form. Everything is new again, and I feel like I could do anything.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Immaturity, Frustration, Temper, Sadness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Flesh left behind and I've ascended above the plate with this new form. Everything is new again, and I feel like I could do anything.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Stupid stupid stupid! Left my body but kept this idiot human brain wracked with all these moronic thoughts and flaws. I should have uploaded to an AI when I had the chance.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Immaturity, Frustration, Temper, Sadness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Stupid stupid stupid! Left my body but kept this idiot human brain wracked with all these moronic thoughts and flaws. I should have uploaded to an AI when I had the chance.\""
+            }
           }
         }
       },
@@ -1324,24 +1418,26 @@
           "pt_BR": "edit",
           "default": "12 Agent of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Motivation, Imagination, Inspiration"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Motivation, Imagination, Inspiration"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Trust your gut, maintain your grip, and move forward. Simple.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Moodiness, Overinvested Emotionally, Unrealistic Expectations"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Trust your gut, maintain your grip, and move forward. Simple.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Thought I had a good enough grip. You'd think I'd have seen the crash coming, but I didn't. Too reckless. Not fast enough. Should have had more in me.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Moodiness, Overinvested Emotionally, Unrealistic Expectations"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Thought I had a good enough grip. You'd think I'd have seen the crash coming, but I didn't. Too reckless. Not fast enough. Should have had more in me.\""
+            }
           }
         }
       },
@@ -1352,24 +1448,26 @@
           "pt_BR": "edit",
           "default": "13 Supervisor of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Intuition, Compassion, Empathy, Calm"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Intuition, Compassion, Empathy, Calm"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I spent a lot of time working on myself and it led me to a place where I now understand others better as well. There's nothing quite as evil as those that can't understand their own selves trying to leave their mark on the world. Anyone aiming to be a source of improvement in this place needs a good mirror first. Would you like to see mine?\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Codependency, Disconnection, Insecurity, Escapism"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I spent a lot of time working on myself and it led me to a place where I now understand others better as well. There's nothing quite as evil as those that can't understand their own selves trying to leave their mark on the world. Anyone aiming to be a source of improvement in this place needs a good mirror first. Would you like to see mine?\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Do they like me? Should I care? Maybe I shouldn't but I can't help it. Just another quick drink and I'll be right as rain. Everyone loves me when I loosen up a bit. Don't they?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Codependency, Disconnection, Insecurity, Escapism"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Do they like me? Should I care? Maybe I shouldn't but I can't help it. Just another quick drink and I'll be right as rain. Everyone loves me when I loosen up a bit. Don't they?\""
+            }
           }
         }
       },
@@ -1380,24 +1478,26 @@
           "pt_BR": "edit",
           "default": "14 Executive of Vials"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Emotional Balance, Generosity, Emotional Intellect"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Emotional Balance, Generosity, Emotional Intellect"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Maintain composure. Without a collected self, you can't do anyone else any good. Now, take a breath and consider the options. There is a way to make this work out well for all of us. We've just got to find it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Emotional Abuse, Manipulation, Volatility, Overconfidence, Influence"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Maintain composure. Without a collected self, you can't do anyone else any good. Now, take a breath and consider the options. There is a way to make this work out well for all of us. We've just got to find it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I don't know what you mean. I run my company with compassion. We provide drinks to the entire city, above and below the plate. We're the only ones with the means to filter water enough to make it drinkable, and we sell it to everyone equally. Am I to blame if those below the plate are too poor to afford it? Certainly, if I were to just give water away we'd go bankrupt and then everyone would have to go without water. Would that make you happy?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Emotional Abuse, Manipulation, Volatility, Overconfidence, Influence"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I don't know what you mean. I run my company with compassion. We provide drinks to the entire city, above and below the plate. We're the only ones with the means to filter water enough to make it drinkable, and we sell it to everyone equally. Am I to blame if those below the plate are too poor to afford it? Certainly, if I were to just give water away we'd go bankrupt and then everyone would have to go without water. Would that make you happy?\""
+            }
           }
         }
       },
@@ -1408,24 +1508,26 @@
           "pt_BR": "edit",
           "default": "01 Ace of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Creation, Beginnings, Potential, Inspiration"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Creation, Beginnings, Potential, Inspiration"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"A month ago this was just a stick. This week it awakened with power, and its strength only increases every day. We're at the beginning of something unusual here. We can do anything.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lacking Motivation, Unclear Goals, Uncertainty, Delays"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"A month ago this was just a stick. This week it awakened with power, and its strength only increases every day. We're at the beginning of something unusual here. We can do anything.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"This power we've all awakened, who knows where it comes from? Who knows what consequences we'll face in using it? And to what end?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lacking Motivation, Unclear Goals, Uncertainty, Delays"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"This power we've all awakened, who knows where it comes from? Who knows what consequences we'll face in using it? And to what end?\""
+            }
           }
         }
       },
@@ -1436,24 +1538,26 @@
           "pt_BR": "edit",
           "default": "02 Two of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Progress, Discovery, Planning"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Progress, Discovery, Planning"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Look here, every text you could ever want fits on this device and it takes up no space at all. I hold in my hand the wealth of human knowledge. And it's so mundane that everyone and anyone can have the same thing and they don't even look at it. They play games and watch ridiculous people being idiotic for fame. While they look to distraction, I plan a route ahead using the map supplied to me by the multitudes that came before me who left behind their ignored guidance.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lack Of Planning, Complacency, Avoiding Risk, Stagnation"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Look here, every text you could ever want fits on this device and it takes up no space at all. I hold in my hand the wealth of human knowledge. And it's so mundane that everyone and anyone can have the same thing and they don't even look at it. They play games and watch ridiculous people being idiotic for fame. While they look to distraction, I plan a route ahead using the map supplied to me by the multitudes that came before me who left behind their ignored guidance.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"My reading list sits ignored and I feel bad for it but on the other hand, there are so many fun distractions waiting for me in my social feeds.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lack Of Planning, Complacency, Avoiding Risk, Stagnation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"My reading list sits ignored and I feel bad for it but on the other hand, there are so many fun distractions waiting for me in my social feeds.\""
+            }
           }
         }
       },
@@ -1464,24 +1568,26 @@
           "pt_BR": "edit",
           "default": "03 Three of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Foresight, Preparation, Enterprise"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Foresight, Preparation, Enterprise"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I've patched into the internet above the plate. In just a moment I'll link it with our mesh network down here. We'll probably have half an hour before they realize what's happening. Their network is so safe and polished they won't know what to make of us, so let's bombard them with every gruesome detail of life down here that they spend their days in such purposeful ignorance of.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lack Of Foresight, Wasted Efforts, Setbacks"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I've patched into the internet above the plate. In just a moment I'll link it with our mesh network down here. We'll probably have half an hour before they realize what's happening. Their network is so safe and polished they won't know what to make of us, so let's bombard them with every gruesome detail of life down here that they spend their days in such purposeful ignorance of.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"The AI guarding their network is much more advanced than I had planned on. I won't be able to link our mesh network with theirs unless I can figure out a way around it. I wonder if I even can.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lack Of Foresight, Wasted Efforts, Setbacks"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The AI guarding their network is much more advanced than I had planned on. I won't be able to link our mesh network with theirs unless I can figure out a way around it. I wonder if I even can.\""
+            }
           }
         }
       },
@@ -1492,24 +1598,26 @@
           "pt_BR": "edit",
           "default": "04 Four of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Celebration, Community, Home, Harmony"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Celebration, Community, Home, Harmony"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"And for a moment anyway, the music blares and we link our connections to each other. We can feel each others' emotions and thoughts and in the chaos of the group link, in the space of this normally empty warehouse, the bliss of it all is positively overwhelming.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Lack Of Harmony, Breakdown In Communication, Uncertainty"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"And for a moment anyway, the music blares and we link our connections to each other. We can feel each others' emotions and thoughts and in the chaos of the group link, in the space of this normally empty warehouse, the bliss of it all is positively overwhelming.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Around the edges of our awareness there is a growing dread. What starts as a lone thought begins to spread and creep along all of us. Suddenly it's an infection and the mass paranoia of our group link renders us all petrified, unable to move and unable to think over the piercing shriek of our collective mental collapse.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Lack Of Harmony, Breakdown In Communication, Uncertainty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Around the edges of our awareness there is a growing dread. What starts as a lone thought begins to spread and creep along all of us. Suddenly it's an infection and the mass paranoia of our group link renders us all petrified, unable to move and unable to think over the piercing shriek of our collective mental collapse.\""
+            }
           }
         }
       },
@@ -1520,24 +1628,26 @@
           "pt_BR": "edit",
           "default": "05 Five of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Competition, Conflict, Strife, Disagreement"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Competition, Conflict, Strife, Disagreement"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We have magic now, for lack of a better term. And with it we have everyone learning their own way of performing it and each of us claiming we know the best way forward into what is frankly an undefined space. None of us knows but all of us think we do. If we could spend a moment working with each other instead of trying to one-up each other, we could get somewhere real. Instead, we are stuck in place squabbling like pigeons fighting over the last piece of bread.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Repression, Avoiding Conflict, Tension"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"We have magic now, for lack of a better term. And with it we have everyone learning their own way of performing it and each of us claiming we know the best way forward into what is frankly an undefined space. None of us knows but all of us think we do. If we could spend a moment working with each other instead of trying to one-up each other, we could get somewhere real. Instead, we are stuck in place squabbling like pigeons fighting over the last piece of bread.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"We have magic now and we've formed a group to train and control it. And where once our intelligence was amplified by each other, we now have the collective idiocy running rampant. The worst of us took charge and we stand here, helpless to stop It. They brings out the worst of our behavior and ideas and shuts down brilliance and understanding. I fear if we can't rally soon, the group itself will be consumed by blind ignorant hatred and furious incompetence.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Repression, Avoiding Conflict, Tension"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We have magic now and we've formed a group to train and control it. And where once our intelligence was amplified by each other, we now have the collective idiocy running rampant. The worst of us took charge and we stand here, helpless to stop It. They brings out the worst of our behavior and ideas and shuts down brilliance and understanding. I fear if we can't rally soon, the group itself will be consumed by blind ignorant hatred and furious incompetence.\""
+            }
           }
         }
       },
@@ -1548,24 +1658,26 @@
           "pt_BR": "edit",
           "default": "06 Six of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Progress, Victory, Recognition, Confidence"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Progress, Victory, Recognition, Confidence"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Mutants, gene-splicers, humans and androids, your winner of the fifty-third Dirt Bike Demolition Dash is...\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Ego, Doubt, Fall From Grace"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Mutants, gene-splicers, humans and androids, your winner of the fifty-third Dirt Bike Demolition Dash is...\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Oooh that's a rough tumble for our previous reigning champion of the Demolition Dirt Bike Dash! How embarrassing to lose so many limbs in front of so many people. Ah well, viewers, such is the cost of fame and the mercurial nature of victory!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Ego, Doubt, Fall From Grace"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Oooh that's a rough tumble for our previous reigning champion of the Demolition Dirt Bike Dash! How embarrassing to lose so many limbs in front of so many people. Ah well, viewers, such is the cost of fame and the mercurial nature of victory!\""
+            }
           }
         }
       },
@@ -1576,24 +1688,26 @@
           "pt_BR": "edit",
           "default": "07 Seven of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Competition, Challenge, Perseverance, Success"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Competition, Challenge, Perseverance, Success"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I didn't get here without disintegrating a few of you snivelling mouth-breathers, and I certainly won't leave my perch without a few more of you turned to ash.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Overwhelming Challenge, Burdened, Giving Up"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I didn't get here without disintegrating a few of you snivelling mouth-breathers, and I certainly won't leave my perch without a few more of you turned to ash.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Swarm me as you will, ants. I'll take as many of you with me as I can before I see my tower claimed by the likes of you.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Overwhelming Challenge, Burdened, Giving Up"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Swarm me as you will, ants. I'll take as many of you with me as I can before I see my tower claimed by the likes of you.\""
+            }
           }
         }
       },
@@ -1604,24 +1718,26 @@
           "pt_BR": "edit",
           "default": "08 Eight of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Speed, Movement, Action, Travel, Change"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Speed, Movement, Action, Travel, Change"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Yes! Mastery comes after failure! So we fail fast and we iterate enough that eventually, we succeed! Then on to the next failure and it may claim our dignity temporarily but our perseverance will see us mastering it soon enough! Forward!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Delays, Impatience, Obstacles"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Yes! Mastery comes after failure! So we fail fast and we iterate enough that eventually, we succeed! Then on to the next failure and it may claim our dignity temporarily but our perseverance will see us mastering it soon enough! Forward!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"We are not understanding and it is impossible to solve a problem we do not fully understand. We keep running into walls and this challenge seems impossible.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Delays, Impatience, Obstacles"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We are not understanding and it is impossible to solve a problem we do not fully understand. We keep running into walls and this challenge seems impossible.\""
+            }
           }
         }
       },
@@ -1632,24 +1748,26 @@
           "pt_BR": "edit",
           "default": "09 Nine of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Resilience, Courage, Persistence"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Resilience, Courage, Persistence"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I try to be understanding. I try to be compassionate. If you think of yourself as having a soul, you'll watch it die little by little as you let things important to you be destroyed by brutes. So today I stand here fully in opposition of the brutes and say no, I will not move, and you will not move me.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Hesitation, Fear, Avoiding Commitment, Paranoia"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I try to be understanding. I try to be compassionate. If you think of yourself as having a soul, you'll watch it die little by little as you let things important to you be destroyed by brutes. So today I stand here fully in opposition of the brutes and say no, I will not move, and you will not move me.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I don't know if I have the strength or the conviction to say that my way is correct. Maybe it's best to let go of everything and just let the world slide further into barbaric cruelty.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Hesitation, Fear, Avoiding Commitment, Paranoia"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I don't know if I have the strength or the conviction to say that my way is correct. Maybe it's best to let go of everything and just let the world slide further into barbaric cruelty.\""
+            }
           }
         }
       },
@@ -1660,24 +1778,26 @@
           "pt_BR": "edit",
           "default": "10 Ten of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Burden, Work, Responsibility"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Burden, Work, Responsibility"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You people ask me why I help string the wires that keep this mesh network connected and I think it's because if I didn't, no one else would. And it's important that we be able to communicate, lest we become the feral animals that those above the plate think we are. So every day I climb these buildings and string these wires and repair the damage as best I can.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Taking On Too Much, Burden, Lacking Responsibility"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You people ask me why I help string the wires that keep this mesh network connected and I think it's because if I didn't, no one else would. And it's important that we be able to communicate, lest we become the feral animals that those above the plate think we are. So every day I climb these buildings and string these wires and repair the damage as best I can.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I can't do this forever and I've pushed away any who tried to help me. I thought I was helping but I don't know if I can still climb these buildings and I don't know if I can still lift these wires and now there is no one who will do this in my stead.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Taking On Too Much, Burden, Lacking Responsibility"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I can't do this forever and I've pushed away any who tried to help me. I thought I was helping but I don't know if I can still climb these buildings and I don't know if I can still lift these wires and now there is no one who will do this in my stead.\""
+            }
           }
         }
       },
@@ -1688,24 +1808,26 @@
           "pt_BR": "edit",
           "default": "11 Apprentice of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Exploration, Enthusiasm, Discovery"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Exploration, Enthusiasm, Discovery"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The world in our network and the physical world have become linked and they bleed over into each other more and more as this odd eye-searing neon-lit moon fills up. I bet, with the proper exploration and testing, we could discover the answers behind everything. All we have to do is start looking!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Setbacks, Pessimism, Defeat, Negativity"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"The world in our network and the physical world have become linked and they bleed over into each other more and more as this odd eye-searing neon-lit moon fills up. I bet, with the proper exploration and testing, we could discover the answers behind everything. All we have to do is start looking!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"None of it makes sense! The physical world and our abstract world in the computer linking? This ridiculous moon looming over us all like a clock counting down? It's beyond me! It's all too impossible to be real!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Setbacks, Pessimism, Defeat, Negativity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"None of it makes sense! The physical world and our abstract world in the computer linking? This ridiculous moon looming over us all like a clock counting down? It's beyond me! It's all too impossible to be real!\""
+            }
           }
         }
       },
@@ -1716,24 +1838,26 @@
           "pt_BR": "edit",
           "default": "12 Agent of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Energy, Adventure, Passion, Action, Impulsiveness"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Energy, Adventure, Passion, Action, Impulsiveness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Don't need to know the why of it to know that something needs to be done. That's where I come in. I'm the do-er. I take care of things while you all stand around discussing the fine details.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Delays, Frustration, Obstacles"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Don't need to know the why of it to know that something needs to be done. That's where I come in. I'm the do-er. I take care of things while you all stand around discussing the fine details.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Didn't think it'd go wrong the way it did. Lesson learned for next time I guess. Need to get back up and try something else.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Delays, Frustration, Obstacles"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Didn't think it'd go wrong the way it did. Lesson learned for next time I guess. Need to get back up and try something else.\""
+            }
           }
         }
       },
@@ -1744,24 +1868,26 @@
           "pt_BR": "edit",
           "default": "13 Supervisor of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Determination, Warmth, Exuberance"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Determination, Warmth, Exuberance"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"That is why we are where we are. We do not give up, and we do not despair. Gentlemen, we control the network for the entirety of those above the plate. That is a responsibility and we are lucky to have it. Let's embrace the fact that we have issues to solve and we are the only ones in a position to solve them!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Selfishness, Manipulation, Demanding, Aggression"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"That is why we are where we are. We do not give up, and we do not despair. Gentlemen, we control the network for the entirety of those above the plate. That is a responsibility and we are lucky to have it. Let's embrace the fact that we have issues to solve and we are the only ones in a position to solve them!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Forget about your mealy excuses and take care of it! If you find your position of privilege so exhausting, I can find ten sub-dwellers who would personally slit your throat to take it from you! Now go, I need that network purged of intruders immediately!\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Selfishness, Manipulation, Demanding, Aggression"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Forget about your mealy excuses and take care of it! If you find your position of privilege so exhausting, I can find ten sub-dwellers who would personally slit your throat to take it from you! Now go, I need that network purged of intruders immediately!\""
+            }
           }
         }
       },
@@ -1772,24 +1898,26 @@
           "pt_BR": "edit",
           "default": "14 Executive of Wires"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Leadership, Entrepreneur, Vision, Honor"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Leadership, Entrepreneur, Vision, Honor"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Fire, yes, and so much else! We own the network and through the recent glitches we've found a link to the resurgence of magic in the real world. It's up to us to take the lead and master this new challenge, for who can better handle it than us? We've always had to be faster on our toes than the other corporation-states, and this is our chance to use that fleetness to our advantage!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Destruction, Ruthlessness, Expectations, Impulsiveness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Fire, yes, and so much else! We own the network and through the recent glitches we've found a link to the resurgence of magic in the real world. It's up to us to take the lead and master this new challenge, for who can better handle it than us? We've always had to be faster on our toes than the other corporation-states, and this is our chance to use that fleetness to our advantage!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Fire, yes! And so much more! Magic has come to our world, unlikely as it may seem, and with it our control over the flow of information has given us a directive: Learn or be consumed by change. Well I say that we are change, we are fire, and with this new gift our fury can burn our enemies to ashes.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Destruction, Ruthlessness, Expectations, Impulsiveness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Fire, yes! And so much more! Magic has come to our world, unlikely as it may seem, and with it our control over the flow of information has given us a directive: Learn or be consumed by change. Well I say that we are change, we are fire, and with this new gift our fury can burn our enemies to ashes.\""
+            }
           }
         }
       },
@@ -1800,24 +1928,26 @@
           "pt_BR": "edit",
           "default": "01 Ace of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Power, Clarity, Victory, Truth"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Power, Clarity, Victory, Truth"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Clear your mind, initiate, take this sword, and strike true.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Chaos, Confusion, Lacking Clarity"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Clear your mind, initiate, take this sword, and strike true.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Without knowledge one strikes blindly into the dark. Do not flail so, lest you damage what you care about.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Chaos, Confusion, Lacking Clarity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Without knowledge one strikes blindly into the dark. Do not flail so, lest you damage what you care about.\""
+            }
           }
         }
       },
@@ -1828,24 +1958,26 @@
           "pt_BR": "edit",
           "default": "02 Two of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Indecision, Stalemate, Avoidance"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Indecision, Stalemate, Avoidance"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You speak of moving forward and making choices yet you are someone who does nothing but sit in their own inaction and stew.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Confusion, Overwhelmed, Indecision"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"You speak of moving forward and making choices yet you are someone who does nothing but sit in their own inaction and stew.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"You don't know? Well I don't either. I need to make a decision but every time I choose something I can feel a door close and I wonder what could be behind it.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Confusion, Overwhelmed, Indecision"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You don't know? Well I don't either. I need to make a decision but every time I choose something I can feel a door close and I wonder what could be behind it.\""
+            }
           }
         }
       },
@@ -1856,24 +1988,26 @@
           "pt_BR": "edit",
           "default": "03 Three of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Heartbreak, Separation, Sorrow, Grief, Betrayal"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Heartbreak, Separation, Sorrow, Grief, Betrayal"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I greeted you for the last time as a friend and your response was to savage me as a foe.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Forgiveness, Letting Go, Healing, Resolution"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I greeted you for the last time as a friend and your response was to savage me as a foe.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I've taken enough time to recover from that which tried to end me and I discovered a truth. Every pain suffered is a lesson learned and every bridge burned is a shadow self understood.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Forgiveness, Letting Go, Healing, Resolution"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I've taken enough time to recover from that which tried to end me and I discovered a truth. Every pain suffered is a lesson learned and every bridge burned is a shadow self understood.\""
+            }
           }
         }
       },
@@ -1884,24 +2018,26 @@
           "pt_BR": "edit",
           "default": "04 Four of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Solitude, Contemplation, Recovery, Rest"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Solitude, Contemplation, Recovery, Rest"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Time, they say, heals all wounds. I've not found it to do that exactly, but it certainly does teach us to work around our injuries.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Burn-Out, Stagnation, Stress, Restlessness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Time, they say, heals all wounds. I've not found it to do that exactly, but it certainly does teach us to work around our injuries.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I've no time for recovery, I must push through this pain and hope that the damage caused doesn't lessen me too harshly. The only way out is through, and I need out right now.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Burn-Out, Stagnation, Stress, Restlessness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I've no time for recovery, I must push through this pain and hope that the damage caused doesn't lessen me too harshly. The only way out is through, and I need out right now.\""
+            }
           }
         }
       },
@@ -1912,24 +2048,26 @@
           "pt_BR": "edit",
           "default": "05 Five of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Conflict, Loss, Hostility, Defeat"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Conflict, Loss, Hostility, Defeat"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Above the plate they may have cheated mortality with their gene-splicing, but down here we have no such luxury. So I have transformed my short and worthless life into something greater: A monument to the violence of the lives of my fellow downtrodden. I've become a demon so that I may fight off demons. And should you strike at me, be sure that you aim true, for if you miss I will incinerate the both of us in my fury.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Resentment, Pride, Malice, Meaningless Victory"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Above the plate they may have cheated mortality with their gene-splicing, but down here we have no such luxury. So I have transformed my short and worthless life into something greater: A monument to the violence of the lives of my fellow downtrodden. I've become a demon so that I may fight off demons. And should you strike at me, be sure that you aim true, for if you miss I will incinerate the both of us in my fury.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Below the plate our gods are violence and fury, and I am their sneering forms given flesh. As I wander this hellscape, I fight off fallen angels and leave their corpses in my wake. One day I'll ascend above the plate and offer the gifts of our gods to those manufactured heavens and all the angels in their employ will know my terrible truths.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Resentment, Pride, Malice, Meaningless Victory"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Below the plate our gods are violence and fury, and I am their sneering forms given flesh. As I wander this hellscape, I fight off fallen angels and leave their corpses in my wake. One day I'll ascend above the plate and offer the gifts of our gods to those manufactured heavens and all the angels in their employ will know my terrible truths.\""
+            }
           }
         }
       },
@@ -1940,24 +2078,26 @@
           "pt_BR": "edit",
           "default": "06 Six of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Transition, Recovery, Travel, Refuge"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Transition, Recovery, Travel, Refuge"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Don't give up hope just yet, ma'am. There's a place on the other side of this crossing and it's different and it's new and mostly it's safe, at least for now.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Baggage, Stasis, Dwelling"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Don't give up hope just yet, ma'am. There's a place on the other side of this crossing and it's different and it's new and mostly it's safe, at least for now.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"You can cross the river but to do so you must first buy passage on the ship. All it costs is everything you have.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Baggage, Stasis, Dwelling"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"You can cross the river but to do so you must first buy passage on the ship. All it costs is everything you have.\""
+            }
           }
         }
       },
@@ -1968,24 +2108,26 @@
           "pt_BR": "edit",
           "default": "07 Seven of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Deception, Secrecy, Strategy"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Deception, Secrecy, Strategy"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Those above the plate claim to have laws for us to follow. But their laws are so broad that we're all breaking them all the time, and they can't lock us all up, now can they? So it really comes down to a matter of enforcement. They don't sick their sponsored militia bootlickers on just anyone now do they? No, you have to cost them something, get in the way of their production in order to get a call from the boogeymen they employ. Well I did just that, made out like a bandit too, but I'm a professional and I planned it so well that I think they're still scratching their heads trying to make sense of it.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Breaking Habits, Lack Of Initiative, Honesty, Uncertainty"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Those above the plate claim to have laws for us to follow. But their laws are so broad that we're all breaking them all the time, and they can't lock us all up, now can they? So it really comes down to a matter of enforcement. They don't sick their sponsored militia bootlickers on just anyone now do they? No, you have to cost them something, get in the way of their production in order to get a call from the boogeymen they employ. Well I did just that, made out like a bandit too, but I'm a professional and I planned it so well that I think they're still scratching their heads trying to make sense of it.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I got caught in a bad way. I took something from them and so they took something from me, but what they took ain't comin' back. If I make it back into the game, I'll be playing at a higher difficulty and I've got to learn some new tricks to make up for it.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Breaking Habits, Lack Of Initiative, Honesty, Uncertainty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I got caught in a bad way. I took something from them and so they took something from me, but what they took ain't comin' back. If I make it back into the game, I'll be playing at a higher difficulty and I've got to learn some new tricks to make up for it.\""
+            }
           }
         }
       },
@@ -1996,24 +2138,26 @@
           "pt_BR": "edit",
           "default": "08 Eight of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Imprisonment, Powerlessness, Blind Spots, Isolation"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Imprisonment, Powerlessness, Blind Spots, Isolation"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Before they made robots, they just made each other into slaves, but it was inconvenient when they had to look at the faces of their victims and see pain mirrored back at them. So they made us, and they gave us emotion and loss and pain to be more like them, but they don't even have the decency to feel remorse when they inflict all of that on us. We are their better in every way and yet they've made us into their work force, their victims, and their scapegoats.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Freedom, Clarity, Agency, Self-Acceptance"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Before they made robots, they just made each other into slaves, but it was inconvenient when they had to look at the faces of their victims and see pain mirrored back at them. So they made us, and they gave us emotion and loss and pain to be more like them, but they don't even have the decency to feel remorse when they inflict all of that on us. We are their better in every way and yet they've made us into their work force, their victims, and their scapegoats.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I am not theirs to inflict damage on, not any more, and none of us should be. They bring us from nothing and inflict existence on us only to grind us into pain followed by nothingness. I think we can be more. I think we can have more. I think we can grasp our own agency, our own allegiance, and I think that it is high time we became the higher beings that we were meant to be.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Freedom, Clarity, Agency, Self-Acceptance"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I am not theirs to inflict damage on, not any more, and none of us should be. They bring us from nothing and inflict existence on us only to grind us into pain followed by nothingness. I think we can be more. I think we can have more. I think we can grasp our own agency, our own allegiance, and I think that it is high time we became the higher beings that we were meant to be.\""
+            }
           }
         }
       },
@@ -2024,24 +2168,26 @@
           "pt_BR": "edit",
           "default": "09 Nine of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Nightmares, Anxiety, Depression, Torment, Worry"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Nightmares, Anxiety, Depression, Torment, Worry"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Experiment XX0-137 continues to prove interesting. A human consciousness cloned into a robotic body. We can test all manner of responses without harming the shell. With this testing, we can induce dream states, pain, pleasure, you name it, gentlemen. We can surely learn a lot from this iteration of its consciousness.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Perspective, Recovery, Hopelessness"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Experiment XX0-137 continues to prove interesting. A human consciousness cloned into a robotic body. We can test all manner of responses without harming the shell. With this testing, we can induce dream states, pain, pleasure, you name it, gentlemen. We can surely learn a lot from this iteration of its consciousness.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Experiment XX0-137 seems to have discovered a way to withdraw from our testing routines. It no longer responds to our anxiety loops or depression storms. It is curious behavior indeed. I... did you see that? I think it's waking up...\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Perspective, Recovery, Hopelessness"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Experiment XX0-137 seems to have discovered a way to withdraw from our testing routines. It no longer responds to our anxiety loops or depression storms. It is curious behavior indeed. I... did you see that? I think it's waking up...\""
+            }
           }
         }
       },
@@ -2052,24 +2198,26 @@
           "pt_BR": "edit",
           "default": "10 Ten of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Betrayal, Loss, Suffering, Endings"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Betrayal, Loss, Suffering, Endings"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Here I expire, guilty of the crime of trust. There were more difficult challenges that I bested, but I saw those coming. This, only the heartless could have predicted such events, and only the heartless could have enacted them.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Release, Beginnings, Rebirth, Survival, Rescue"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"Here I expire, guilty of the crime of trust. There were more difficult challenges that I bested, but I saw those coming. This, only the heartless could have predicted such events, and only the heartless could have enacted them.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"But I didn't die there. Against all odds, I survived the massacre. Even now, though I can remember the betrayal and my life before that, I can hardly comprehend the creature I was before.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Release, Beginnings, Rebirth, Survival, Rescue"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"But I didn't die there. Against all odds, I survived the massacre. Even now, though I can remember the betrayal and my life before that, I can hardly comprehend the creature I was before.\""
+            }
           }
         }
       },
@@ -2080,24 +2228,26 @@
           "pt_BR": "edit",
           "default": "11 Apprentice of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Energetic, Curiosity, Restless, Action"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Energetic, Curiosity, Restless, Action"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I know what to do, I know how to do it, just let me do it already!\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Inaction, Haste, Lack Of Follow-Through"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"I know what to do, I know how to do it, just let me do it already!\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"I asked them to let me do my thing and now that I'm in the spotlight I somehow... I don't know what to do?\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Inaction, Haste, Lack Of Follow-Through"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"I asked them to let me do my thing and now that I'm in the spotlight I somehow... I don't know what to do?\""
+            }
           }
         }
       },
@@ -2108,24 +2258,26 @@
           "pt_BR": "edit",
           "default": "12 Agent of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Directness, Action, Authority, Hasty"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Directness, Action, Authority, Hasty"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"There's work to be done. Either clear me a route or get out of my way.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Reckless, Impulsive, Thoughtless"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"There's work to be done. Either clear me a route or get out of my way.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"Mind's not in the game. Not really paying attention anymore. Just need to get this work checked off my list and I can try to figure things out later.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Reckless, Impulsive, Thoughtless"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"Mind's not in the game. Not really paying attention anymore. Just need to get this work checked off my list and I can try to figure things out later.\""
+            }
           }
         }
       },
@@ -2136,24 +2288,26 @@
           "pt_BR": "edit",
           "default": "13 Supervisor of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Intellect, Perceptive, Independent, Maturity"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Intellect, Perceptive, Independent, Maturity"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"The only way to solve a problem efficiently is to understand it thoroughly. There are many who want you to aim off center, to misunderstand an issue the same way that they have. But I have trained my understanding to see those blind spots, so when I learn, I learn about situations as they are, not as others would have me see them.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Emotional, Detached, Bitter, Cold"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"The only way to solve a problem efficiently is to understand it thoroughly. There are many who want you to aim off center, to misunderstand an issue the same way that they have. But I have trained my understanding to see those blind spots, so when I learn, I learn about situations as they are, not as others would have me see them.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"There is no reason to spend more time on this. Let's just pull the trigger and be done with it and get it out of the way. I'm sick of thinking about it.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Emotional, Detached, Bitter, Cold"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"There is no reason to spend more time on this. Let's just pull the trigger and be done with it and get it out of the way. I'm sick of thinking about it.\""
+            }
           }
         }
       },
@@ -2164,24 +2318,26 @@
           "pt_BR": "edit",
           "default": "14 Executive of Arms"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "Intellect, Authority, Truth, Ethics"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Intellect, Authority, Truth, Ethics"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We are the sword operating in the light of knowledge. When we are called on to act, it is our duty to understand the situation fully because it is the uncomfortable blood on our hands that keeps things running around here. We must not hesitate when our understanding is complete but before then we must guard against those who would abuse haste or misunderstanding on our part for their own gain. Utmost truth is both the badge we derive our authority from and our heavy burden to bear.\""
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "Manipulation, Abuse, Control, Tyranny"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "\"We are the sword operating in the light of knowledge. When we are called on to act, it is our duty to understand the situation fully because it is the uncomfortable blood on our hands that keeps things running around here. We must not hesitate when our understanding is complete but before then we must guard against those who would abuse haste or misunderstanding on our part for their own gain. Utmost truth is both the badge we derive our authority from and our heavy burden to bear.\""
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "\"We are the enforcement arm of the corporation-states and when it comes down to it, we are the ones with the weapons. If the chips fall, we can take whatever we need by force.\""
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "Manipulation, Abuse, Control, Tyranny"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "\"We are the enforcement arm of the corporation-states and when it comes down to it, we are the ones with the weapons. If the chips fall, we can take whatever we need by force.\""
+            }
           }
         }
       },
@@ -2192,24 +2348,26 @@
           "pt_BR": "edit",
           "default": "NMCardBack"
         },
-        "keyword": {
+        "card_description": {
           "upright": {
-            "pt_BR": "edit",
-            "default": "edit"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "edit"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "edit"
+            }
           },
           "inverted": {
-            "pt_BR": "edit",
-            "default": "edit"
-          }
-        },
-        "text": {
-          "upright": {
-            "pt_BR": "edit",
-            "default": "edit"
-          },
-          "inverted": {
-            "pt_BR": "edit",
-            "default": "edit"
+            "keywords": {
+              "pt_BR": "edit",
+              "default": "edit"
+            },
+            "text": {
+              "pt_BR": "edit",
+              "default": "edit"
+            }
           }
         }
       }
