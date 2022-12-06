@@ -1,12 +1,39 @@
 {
   "response": {
+    "fields": {
+      "archetype": {
+        "pt_BR": "edit",
+        "default": "Card Archetype"
+      },
+      "upright": {
+        "keywords": {
+          "pt_BR": "edit",
+          "default": "Upright Keywords"
+        },
+        "text": {
+          "pt_BR": "edit",
+          "default": "edit"
+        }
+      },
+      "inverted": {
+        "keywords": {
+          "pt_BR": "edit",
+          "default": "Inverted Keywords"
+        },
+        "text": {
+          "pt_BR": "edit",
+          "default": "edit"
+        }
+      }
+    },
     "deck": [
       {
         "number": 0,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886398756458568/00_Fool.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "00 Fool"
+          "default": "00 The Fool"
         },
         "card_description": {
           "upright": {
@@ -21,7 +48,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Imprudência, Ingenuidade",
               "default": "Recklessness, Naivety"
             },
             "text": {
@@ -34,14 +61,15 @@
       {
         "number": 1,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886400392249364/01_Magician.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "01 Magician"
+          "default": "01 The Magician"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Capacidade, Competência, Preparação, Poder",
               "default": "Capability, Competence, Preparation, Power"
             },
             "text": {
@@ -51,7 +79,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Manipulação, Falta De Planejamento, Potencial Inexplorado",
               "default": "Manipulation, Lack Of Planning, Untapped Potential"
             },
             "text": {
@@ -64,14 +92,15 @@
       {
         "number": 2,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886400685838356/02_Priestess.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "02 Priestess"
+          "default": "02 The Priestess"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Intuição, O Subconsciente, Mistério",
               "default": "Intuition, The Subconscious, Mystery"
             },
             "text": {
@@ -81,7 +110,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Subterfúgio, Ignorando a Intuição",
               "default": "Subterfuge, Ignoring Intuition"
             },
             "text": {
@@ -94,14 +123,15 @@
       {
         "number": 3,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886427915272222/03_Empress.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "03 Empress"
+          "default": "03 The Empress"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Crescimento, Beleza, Abundância",
               "default": "Growth, Beauty, Abundance"
             },
             "text": {
@@ -111,7 +141,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Dependência, Repressão, Negligência",
               "default": "Dependence, Repression, Neglect"
             },
             "text": {
@@ -124,14 +154,15 @@
       {
         "number": 4,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886429769138176/04_Emperor.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "04 Emperor"
+          "default": "04 The Emperor"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Autoridade, Estrutura, Estabilidade",
               "default": "Authority, Structure, Stability"
             },
             "text": {
@@ -141,7 +172,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Dominação, Rigidez",
               "default": "Domination, Rigidity"
             },
             "text": {
@@ -154,14 +185,15 @@
       {
         "number": 5,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886458101678090/05_Hierophant.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "05 Hierophant"
+          "default": "05 The Hierophant"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Instituição, Conformidade, Religião",
               "default": "Institution, Conformity, Religion"
             },
             "text": {
@@ -171,7 +203,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Rebelião, Restrição, Censura",
               "default": "Rebellion, Restriction, Censorship"
             },
             "text": {
@@ -184,14 +216,15 @@
       {
         "number": 6,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886458600804365/06_Lovers.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "06 Lovers"
+          "default": "06 The Lovers"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Relacionamentos, Amor, Escolhas",
               "default": "Relationships, Love, Choices"
             },
             "text": {
@@ -201,7 +234,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Desarmonia, Incerteza",
               "default": "Disharmony, Uncertainty"
             },
             "text": {
@@ -214,14 +247,15 @@
       {
         "number": 7,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886487335964712/07_Chariot.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "07 Chariot"
+          "default": "07 The Chariot"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Força De Vontade, Vitória, Determinação",
               "default": "Willpower, Victory, Determination"
             },
             "text": {
@@ -231,7 +265,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Agressão, Falta De Rumo",
               "default": "Aggression, Aimlessness"
             },
             "text": {
@@ -244,6 +278,7 @@
       {
         "number": 8,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886519506284554/08_Strength.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "08 Strength"
@@ -251,7 +286,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Autocontrole, Coragem, Compaixão",
               "default": "Self-Control, Courage, Compassion"
             },
             "text": {
@@ -261,7 +296,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Dúvida, Falta De Autocontrole, Fraqueza",
               "default": "Doubt, Lack Of Self-Control, Weakness"
             },
             "text": {
@@ -274,14 +309,15 @@
       {
         "number": 9,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886519976050709/09_Hermit.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "09 Hermit"
+          "default": "09 The Hermit"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Introspecção, Conhecimento, Contemplação",
               "default": "Introspection, Knowledge, Contemplation"
             },
             "text": {
@@ -291,7 +327,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Isolamento, Reclusão",
               "default": "Isolation, Seclusion"
             },
             "text": {
@@ -304,6 +340,7 @@
       {
         "number": 10,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886522136100864/10_Fortune.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "10 Fortune"
@@ -311,7 +348,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Destino, Sorte, Gratidão",
               "default": "Destiny, Luck, Gratitude"
             },
             "text": {
@@ -321,7 +358,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Azar, influência externa",
               "default": "Bad Luck, External Influence"
             },
             "text": {
@@ -334,6 +371,7 @@
       {
         "number": 11,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886547775901736/11_Justice.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "11 Justice"
@@ -341,7 +379,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Justiça, Lei, Ordem, Objetividade",
               "default": "Fairness, Law, Order, Objectivity"
             },
             "text": {
@@ -351,7 +389,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Injustiça, Corrupção, Desonestidade",
               "default": "Unfairness, Corruption, Dishonesty"
             },
             "text": {
@@ -364,14 +402,15 @@
       {
         "number": 12,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886572606181396/12_Hanged.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "12 Hanged"
+          "default": "12 The Hanged"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Sacrifício, Liberação, Aceitação",
               "default": "Sacrifice, Release, Acceptance"
             },
             "text": {
@@ -381,7 +420,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Martírio, Indecisão, Tumulto",
               "default": "Martyrdom, Indecisiveness, Turmoil"
             },
             "text": {
@@ -394,6 +433,7 @@
       {
         "number": 13,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886572903960666/13_Death.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "13 Death"
@@ -401,7 +441,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Mudança, Transição, Transformação",
               "default": "Change, Transition, Transformation"
             },
             "text": {
@@ -411,7 +451,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Resistência, Habitação, Apego, Medo",
               "default": "Resistance, Dwelling, Attachment, Fear"
             },
             "text": {
@@ -424,6 +464,7 @@
       {
         "number": 14,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886594252976208/14_Temperance.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "14 Temperance"
@@ -431,7 +472,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Equilíbrio, Calma, Moderação, Sabedoria",
               "default": "Balance, Calm, Moderation, Wisdom"
             },
             "text": {
@@ -441,7 +482,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Desequilíbrio, Extremos, Instabilidade",
               "default": "Imbalance, Extremes, Instability"
             },
             "text": {
@@ -454,14 +495,15 @@
       {
         "number": 15,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886595096018964/15_Devil.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "15 Devil"
+          "default": "15 The Devil"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Vício, Luxúria, Materialismo, Restrições",
               "default": "Addiction, Lust, Materialism, Constraints"
             },
             "text": {
@@ -471,7 +513,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Desapego, Libertar-se, Consciência",
               "default": "Detachment, Freeing Oneself, Awareness"
             },
             "text": {
@@ -484,14 +526,15 @@
       {
         "number": 16,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886595398025248/16_Tower.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "16 Tower"
+          "default": "16 The Tower"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Reviravolta, Mudança Externa, Realização, Calamidade",
               "default": "Upheaval, External Change, Realization, Calamity"
             },
             "text": {
@@ -501,7 +544,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Evitando Mudanças Externas, Estresse, Reação Exagerada",
               "default": "Avoiding External Change, Stress, Overreaction"
             },
             "text": {
@@ -514,14 +557,15 @@
       {
         "number": 17,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886595771314256/17_Star.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "17 Star"
+          "default": "17 The Star"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Esperança, Renovação, Crença",
               "default": "Hope, Renewal, Belief"
             },
             "text": {
@@ -531,7 +575,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Desespero, Pessimismo, Tédio",
               "default": "Despair, Pessimism, Boredom"
             },
             "text": {
@@ -544,14 +588,15 @@
       {
         "number": 18,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886596136206346/18_Moon.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "18 Moon"
+          "default": "18 The Moon"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Ilusão, Ansiedade, Orientação, Subconsciente",
               "default": "Illusion, Anxiety, Guidance, Subconscious"
             },
             "text": {
@@ -561,7 +606,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Confusão, Depressão, Perigo",
               "default": "Confusion, Depression, Danger"
             },
             "text": {
@@ -574,14 +619,15 @@
       {
         "number": 19,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886596475961384/19_Sun.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "19 Sun"
+          "default": "19 The Sun"
         },
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR":  "Sucesso, Alegria",
               "default": "Success, Joy"
             },
             "text": {
@@ -591,7 +637,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Fracasso, Desânimo, Desvantagem",
               "default": "Failure, Despondency, Disadvantage"
             },
             "text": {
@@ -604,6 +650,7 @@
       {
         "number": 20,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886596857638962/20_Judgement.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
           "default": "20 Judgement"
@@ -611,7 +658,7 @@
         "card_description": {
           "upright": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Autoaceitação, Renascimento, Decisão, Clareza",
               "default": "Absolution, Rebirth, Decision, Clarity"
             },
             "text": {
@@ -621,7 +668,7 @@
           },
           "inverted": {
             "keywords": {
-              "pt_BR": "edit",
+              "pt_BR": "Incapacidade De Examinar a Si Mesmo, Autojulgamento, Estagnação",
               "default": "Inability To Examine Oneself, Second Guessing, Stagnation"
             },
             "text": {
@@ -634,9 +681,10 @@
       {
         "number": 21,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597172199454/21_World.png",
+        "archetype": "Major Arcana",
         "name": {
           "pt_BR": "edit",
-          "default": "21 World"
+          "default": "21 The World"
         },
         "card_description": {
           "upright": {
@@ -664,6 +712,7 @@
       {
         "number": 22,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886400052502579/01_Ace_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "01 Ace of Zent"
@@ -694,6 +743,7 @@
       {
         "number": 23,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886427625852960/02_Two_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "02 Two of Zent"
@@ -724,6 +774,7 @@
       {
         "number": 24,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886429353918534/03_Three_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "03 Three of Zent"
@@ -754,6 +805,7 @@
       {
         "number": 25,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886455874498580/04_Four_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "04 Four of Zent"
@@ -784,6 +836,7 @@
       {
         "number": 26,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886457694826576/05_Five_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "05 Five of Zent"
@@ -814,6 +867,7 @@
       {
         "number": 27,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886487017209856/06_Six_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "06 Six of Zent"
@@ -844,6 +898,7 @@
       {
         "number": 28,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886488703315999/07_Seven_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "07 Seven of Zent"
@@ -874,6 +929,7 @@
       {
         "number": 29,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886490049691688/08_Eight_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "08 Eight of Zent"
@@ -904,6 +960,7 @@
       {
         "number": 30,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886521695711272/09_Nine_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "09 Nine of Zent"
@@ -934,6 +991,7 @@
       {
         "number": 31,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886546026872872/10_Ten_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "10 Ten of Zent"
@@ -964,6 +1022,7 @@
       {
         "number": 32,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886547436159016/11_Apprentice_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "11 Apprentice of Zent"
@@ -994,6 +1053,7 @@
       {
         "number": 33,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886549378121798/12_Agent_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "12 Agent of Zent"
@@ -1024,6 +1084,7 @@
       {
         "number": 34,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886574556532756/13_Supervisor_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "13 Supervisor of Zent"
@@ -1054,6 +1115,7 @@
       {
         "number": 35,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886575953219634/14_Executive_of_Zent.png",
+        "archetype": "Minor Arcana Zent",
         "name": {
           "pt_BR": "edit",
           "default": "14 Executive of Zent"
@@ -1084,6 +1146,7 @@
       {
         "number": 36,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886399347867668/01_Ace_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "01 Ace of Vials"
@@ -1114,6 +1177,7 @@
       {
         "number": 37,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886401604390952/02_Two_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "02 Two of Vials"
@@ -1144,6 +1208,7 @@
       {
         "number": 38,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886428561182770/03_Three_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "03 Three of Vials"
@@ -1174,6 +1239,7 @@
       {
         "number": 39,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886430545100892/04_Four_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "04 Four of Vials"
@@ -1204,6 +1270,7 @@
       {
         "number": 40,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886456767885362/05_Five_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "05 Five of Vials"
@@ -1234,6 +1301,7 @@
       {
         "number": 41,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886459674546227/06_Six_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "06 Six of Vials"
@@ -1264,6 +1332,7 @@
       {
         "number": 42,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886488049008650/07_Seven_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "07 Seven of Vials"
@@ -1294,6 +1363,7 @@
       {
         "number": 43,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886489403756554/08_Eight_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "08 Eight of Vials"
@@ -1324,6 +1394,7 @@
       {
         "number": 44,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886520777158707/09_Nine_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "09 Nine of Vials"
@@ -1354,6 +1425,7 @@
       {
         "number": 45,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886522828161034/10_Ten_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "10 Ten of Vials"
@@ -1384,6 +1456,7 @@
       {
         "number": 46,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886546672795678/11_Apprentice_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "11 Apprentice of Vials"
@@ -1414,6 +1487,7 @@
       {
         "number": 47,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886548535066666/12_Agent_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "12 Agent of Vials"
@@ -1444,6 +1518,7 @@
       {
         "number": 48,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886573700894720/13_Supervisor_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "13 Supervisor of Vials"
@@ -1474,6 +1549,7 @@
       {
         "number": 49,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886575248572416/14_Executive_of_Vials.png",
+        "archetype": "Minor Arcana Vials",
         "name": {
           "pt_BR": "edit",
           "default": "14 Executive of Vials"
@@ -1504,6 +1580,7 @@
       {
         "number": 50,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886399687594014/01_Ace_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "01 Ace of Wires"
@@ -1534,6 +1611,7 @@
       {
         "number": 51,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886401939939408/02_Two_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "02 Two of Wires"
@@ -1564,6 +1642,7 @@
       {
         "number": 52,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886428972220436/03_Three_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "03 Three of Wires"
@@ -1594,6 +1673,7 @@
       {
         "number": 53,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886430914183178/04_Four_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "04 Four of Wires"
@@ -1624,6 +1704,7 @@
       {
         "number": 54,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886457296375858/05_Five_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "05 Five of Wires"
@@ -1654,6 +1735,7 @@
       {
         "number": 55,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886460106555412/06_Six_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "06 Six of Wires"
@@ -1684,6 +1766,7 @@
       {
         "number": 56,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886488384540743/07_Seven_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "07 Seven of Wires"
@@ -1714,6 +1797,7 @@
       {
         "number": 57,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886489718337566/08_Eight_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "08 Eight of Wires"
@@ -1744,6 +1828,7 @@
       {
         "number": 58,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886521263689749/09_Nine_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "09 Nine of Wires"
@@ -1774,6 +1859,7 @@
       {
         "number": 59,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886523239215134/10_Ten_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "10 Ten of Wires"
@@ -1804,6 +1890,7 @@
       {
         "number": 60,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886547104813056/11_Apprentice_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "11 Apprentice of Wires"
@@ -1834,6 +1921,7 @@
       {
         "number": 61,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886548946092093/12_Agent_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "12 Agent of Wires"
@@ -1864,6 +1952,7 @@
       {
         "number": 62,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886574116110426/13_Supervisor_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "13 Supervisor of Wires"
@@ -1894,6 +1983,7 @@
       {
         "number": 63,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886575630274600/14_Executive_of_Wires.png",
+        "archetype": "Minor Arcana Wires",
         "name": {
           "pt_BR": "edit",
           "default": "14 Executive of Wires"
@@ -1924,6 +2014,7 @@
       {
         "number": 64,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886399054258216/01_Ace_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "01 Ace of Arms"
@@ -1954,6 +2045,7 @@
       {
         "number": 65,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886401105281044/02_Two_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "02 Two of Arms"
@@ -1984,6 +2076,7 @@
       {
         "number": 66,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886428204662814/03_Three_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "03 Three of Arms"
@@ -2014,6 +2107,7 @@
       {
         "number": 67,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886430108880927/04_Four_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "04 Four of Arms"
@@ -2044,6 +2138,7 @@
       {
         "number": 68,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886456222633994/05_Five_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "05 Five of Arms"
@@ -2074,6 +2169,7 @@
       {
         "number": 69,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886459221553172/06_Six_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "06 Six of Arms"
@@ -2104,6 +2200,7 @@
       {
         "number": 70,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886487675711539/07_Seven_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "07 Seven of Arms"
@@ -2134,6 +2231,7 @@
       {
         "number": 71,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886489076613200/08_Eight_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "08 Eight of Arms"
@@ -2164,6 +2262,7 @@
       {
         "number": 72,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886520349331497/09_Nine_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "09 Nine of Arms"
@@ -2194,6 +2293,7 @@
       {
         "number": 73,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886522517794837/10_Ten_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "10 Ten of Arms"
@@ -2224,6 +2324,7 @@
       {
         "number": 74,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886546345644093/11_Apprentice_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "11 Apprentice of Arms"
@@ -2254,6 +2355,7 @@
       {
         "number": 75,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886548161757234/12_Agent_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "12 Agent of Arms"
@@ -2284,6 +2386,7 @@
       {
         "number": 76,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886573302415390/13_Supervisor_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "13 Supervisor of Arms"
@@ -2314,6 +2417,7 @@
       {
         "number": 77,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886574875283486/14_Executive_of_Arms.png",
+        "archetype": "Minor Arcana Arms",
         "name": {
           "pt_BR": "edit",
           "default": "14 Executive of Arms"
@@ -2344,6 +2448,7 @@
       {
         "number": 78,
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png",
+        "archetype": null,
         "name": {
           "pt_BR": "edit",
           "default": "NMCardBack"
