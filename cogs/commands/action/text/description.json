@@ -1,0 +1,101 @@
+{
+  "social": {
+    "name": "social",
+    "name_localizations": {
+      "pt-BR": "social"
+    },
+    "description": "Interact with friends :D",
+    "description_localizations": {
+      "pt-BR": "Interaja com os amiguinhos :D"
+    }
+  },
+  "who": {
+    "name": "who",
+    "name_localizations": {
+      "pt-BR": "quem"
+    },
+    "description": "Who do you want to interact with",
+    "description_localizations": {
+      "pt-BR": "Pessoa na qual você deseja interagir"
+    }
+  },
+  "action": {
+    "name": "type",
+    "name_localizations": {
+      "pt-BR": "tipos"
+    },
+    "description": "Choose the type of interaction",
+    "description_localizations": {
+      "pt-BR": "Escolha o tipo de interação"
+    },
+    "choices": [
+      "angry",
+      "bite",
+      "bored",
+      "cry",
+      "cuddle",
+      "glare",
+      "happy",
+      "hug",
+      "kick",
+      "kiss",
+      "lick",
+      "pat",
+      "poke",
+      "punch",
+      "slap"
+    ],
+    "choice_localizations": {
+      "angry": {
+        "pt-BR": "bravo"
+      },
+      "bite": {
+        "pt-BR": "morder"
+      },
+      "bored": {
+        "pt-BR": "entediado"
+      },
+      "cry": {
+        "pt-BR": "chorar"
+      },
+      "cuddle": {
+        "pt-BR": "conchinha"
+      },
+      "glare": {
+        "pt-BR": "olhar"
+      },
+      "happy": {
+        "pt-BR": "feliz"
+      },
+      "hug": {
+        "pt-BR": "abraçar"
+      },
+      "kick": {
+        "pt-BR": "chutar"
+      },
+      "kiss": {
+        "pt-BR": "beijar"
+      },
+      "lick": {
+        "pt-BR": "lamber"
+      },
+      "pat": {
+        "pt-BR": "acariciar"
+      },
+      "poke": {
+        "pt-BR": "cutucar"
+      },
+      "punch": {
+        "pt-BR": "socar"
+      },
+      "slap": {
+        "pt-BR": "tapa"
+      }
+    }
+  },
+  "not_found": {
+    "pt-BR": "Fodeu lek ta dando algum erro",
+    "default": "Houston, we have a problem"
+  }
+}
+

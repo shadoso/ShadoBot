@@ -1,0 +1,162 @@
+{
+  "title": {
+    "pt_BR": "Compatibilidade do casal: ",
+    "default": "Couple compatibility: "
+  },
+  "response": [
+    {
+      "key": 0,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 4,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 9,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 14,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 19,
+      "text": {
+        "pt_BR": "Forçando a barra da pra falar que se conhecem",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 24,
+      "text": {
+        "pt_BR": "Puts acho que nem amizade rola...",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 29,
+      "text": {
+        "pt_BR": "O que separa isso de uma amizade é o último pedaço de pizza",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 34,
+      "text": {
+        "pt_BR": "Apenas amigos",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 39,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 44,
+      "text": {
+        "pt_BR": "Preparem-se para encrenca! encrenca em dobro!",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 49,
+      "text": {
+        "pt_BR": "Sem dúvidas melhores amigos!!",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 54,
+      "text": {
+        "pt_BR": "Além dos vales da amizade, BRODERAGEM!!",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 59,
+      "text": {
+        "pt_BR": "Sou fofoqueiro mesmo, são amigos com benefícios!!",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 64,
+      "text": {
+        "pt_BR": "Um passarinho me contou que estão ficando...",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 69,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 74,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 79,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 84,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 89,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 94,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 99,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    },
+    {
+      "key": 100,
+      "text": {
+        "pt_BR": "Edit",
+        "default": "Edit"
+      }
+    }
+  ]
+}

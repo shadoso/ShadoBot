@@ -1,5 +1,6 @@
 from pydantic import BaseSettings
 from abs_pth import root_path
+import asyncio
 
 
 class Settings(BaseSettings):

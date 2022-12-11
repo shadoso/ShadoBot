@@ -1,5 +1,6 @@
 import os
 import json
+import asyncio
 
 
 class Dotted(dict):
@@ -15,7 +16,7 @@ def root_path(where: list):
     :return: Absolute Path
     """
     first_element = 0
-    abs_path = os.path.dirname(os.path.abspath(__file__))
+    abs_path = os.path.dirname(__file__)
     where.insert(first_element, abs_path)
 
     return "/".join(where)
@@ -40,12 +41,12 @@ def json_text(where: list, commands: list):
 
 if __name__ == "__main__":
     url = ["config", ".env"]
-    testing = root_path(url)
-    print(testing)
-    many_files = ["app", "old_not_in_use", "features"]
-    testing1 = filenames(many_files)
-    print(testing1)
+    root_test = root_path(url)
+    print(root_test)
+    many_files = ["cogs"]
+    filename_test = filenames(many_files)
+    print(filename_test)
     js = ["app", "languages", "info.json"]
     rs = ["language"]
-    testing2 = json_text(where=js, commands=rs)
-    print(testing2.language)
+    text_test = json_text(where=js, commands=rs)
+    print(text_test.language)

@@ -2,51 +2,51 @@
   "tarot": {
     "name": "tarot",
     "name_localizations": {
-      "pt_BR": "taro"
+      "pt-BR": "taro"
     },
     "description": "Have a session with our cyberpunk fortune teller Margaret",
     "description_localizations": {
-      "pt_BR": "Tenha uma sessão com a nossa cartomante cyberpunk a Margaret"
+      "pt-BR": "Tenha uma sessão com a nossa cartomante cyberpunk a Margaret"
     }
   },
   "card": {
     "name": "card",
     "name_localizations": {
-      "pt_BR": "carta"
+      "pt-BR": "carta"
     },
     "description": "Choose the card number you want to know the meaning",
     "description_localizations": {
-      "pt_BR": "Escolha o numero da carta que você quer saber o significado"
+      "pt-BR": "Escolha o numero da carta que você quer saber o significado"
     }
   },
   "number": {
     "name": "number",
     "name_localizations": {
-      "pt_BR": "numero"
+      "pt-BR": "numero"
     },
     "description": "Card number",
     "description_localizations": {
-      "pt_BR": "Número da carta"
+      "pt-BR": "Número da carta"
     }
   },
   "spread": {
     "name": "spread",
     "name_localizations": {
-      "pt_BR": "leitura"
+      "pt-BR": "leitura"
     },
     "description": "Have a session with our fortune teller Margaret",
     "description_localizations": {
-      "pt_BR": "Tenha uma sessão com a nossa cartomante Margaret"
+      "pt-BR": "Tenha uma sessão com a nossa cartomante Margaret"
     }
   },
   "style": {
     "name": "style",
     "name_localizations": {
-      "pt_BR": "estilo"
+      "pt-BR": "estilo"
     },
     "description": "Choose a spread style",
     "description_localizations": {
-      "pt_BR": "Escolha um estilo de leitura"
+      "pt-BR": "Escolha um estilo de leitura"
     },
     "choices": {
       "destiny": 1,
@@ -55,54 +55,62 @@
     },
     "choice_localizations": {
       "destiny": {
-        "pt_BR": "destino"
+        "pt-BR": "destino"
       },
       "trinity": {
-        "pt_BR": "trindade"
+        "pt-BR": "trindade"
       },
       "chimera": {
-        "pt_BR": "quimera"
+        "pt-BR": "quimera"
       }
     }
   },
   "question": {
     "name": "question",
     "name_localizations": {
-      "pt_BR": "pergunta"
+      "pt-BR": "pergunta"
     },
     "description": "The answer you are looking for",
     "description_localizations": {
-      "pt_BR": "A resposta que você está procurando"
-    }
+      "pt-BR": "A resposta que você está procurando"
+    },
+    "min_length": 15,
+    "max_length": 35
   },
   "day": {
     "name": "day",
     "name_localizations": {
-      "pt_BR": "dia"
+      "pt-BR": "dia"
     },
     "description": "Choose a day",
     "description_localizations": {
-      "pt_BR": "Escolha um dia"
-    }
+      "pt-BR": "Escolha um dia"
+    },
+    "min_value": 1,
+    "max_value": 31
   },
   "month": {
     "name": "month",
     "name_localizations": {
-      "pt_BR": "mes"
+      "pt-BR": "mes"
     },
     "description": "Choose a month",
     "description_localizations": {
-      "pt_BR": "Escolha um mês"
-    }
+      "pt-BR": "Escolha um mês"
+    },
+    "min_value": 1,
+    "max_value": 12
   },
   "year": {
     "name": "year",
     "name_localizations": {
-      "pt_BR": "ano"
+      "pt-BR": "ano"
     },
     "description": "Choose a year from 1912 to 7648",
     "description_localizations": {
-      "pt_BR": "Escolha um ano de 1912 até 7648"
-    }
+      "pt-BR": "Escolha um ano de 1912 até 7648"
+    },
+    "min_value": 1912,
+    "max_value": 7648
   }
 }

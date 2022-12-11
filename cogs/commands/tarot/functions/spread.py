@@ -1,8 +1,9 @@
 from datetime import datetime
 import numpy as np
+import asyncio
 
 
-async def generate_spread(
+async def get_spread(
         user: str, style: int, question: str,
         day: str = None, month: str = None, year: str = None
 ):
@@ -56,3 +57,15 @@ async def generate_spread(
             available.sort()
 
     return cards
+
+
+if __name__ == "__main__":
+    generating = asyncio.run(get_spread(
+        user="1050127323795570750",
+        style=5,
+        question="Esse comando vai gerar o que eu quero ?",
+        day="11",
+        month="6",
+        year="1999"
+    ))
+    print(generating)

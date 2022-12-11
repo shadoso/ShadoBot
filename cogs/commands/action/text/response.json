@@ -1,0 +1,64 @@
+{
+  "response": {
+    "angry": {
+      "pt_BR": "está bravo com",
+      "default": "is mad with"
+    },
+    "bite": {
+      "pt_BR": "está mordendo",
+      "default": "is biting"
+    },
+    "bored": {
+      "pt_BR": "está entediado com",
+      "default": "is bored with"
+    },
+    "cry": {
+      "pt_BR": "está triste com",
+      "default": "is sad with"
+    },
+    "cuddle": {
+      "pt_BR": "está de conchinha com",
+      "default": "is cuddling"
+    },
+    "glare": {
+      "pt_BR": "está observando",
+      "default": "is glaring"
+    },
+    "happy": {
+      "pt_BR": "está feliz com",
+      "default": "is happy with"
+    },
+    "hug": {
+      "pt_BR": "deu um abraço em",
+      "default": "hugged"
+    },
+    "kick": {
+      "pt_BR": "deu um chute em",
+      "default": "kicked"
+    },
+    "kiss": {
+      "pt_BR": "deu um beijo em",
+      "default": "kissed"
+    },
+    "lick": {
+      "pt_BR": "deu uma lambida em",
+      "default": "licked"
+    },
+    "pat": {
+      "pt_BR": "está acariciando",
+      "default": "is patting"
+    },
+    "poke": {
+      "pt_BR": "está cutucando",
+      "default": "is poking"
+    },
+    "punch": {
+      "pt_BR": "deu um soco em",
+      "default": "punched"
+    },
+    "slap": {
+      "pt_BR": "deu um tapa em",
+      "default": "slapped"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ship": {
+    "name": "ship",
+    "name_localizations": {
+      "pt-BR": "casal"
+    },
+    "description": "Show couple compatibility",
+    "description_localizations": {
+      "pt-BR": "Mostra a compatibilidade do casal"
+    }
+  },
+  "crush": {
+    "name": "crush",
+    "name_localizations": {
+      "pt-BR": "paixonite"
+    },
+    "description": "If only this field is selected, will be returned YOU + OTHER MEMBER",
+    "description_localizations": {
+      "pt-BR": "Se apenas este campo estiver selecionado, será retornado VOCÊ + OUTRO MEMBRO"
+    }
+  },
+  "who": {
+    "name": "who",
+    "name_localizations": {
+      "pt-BR": "quem"
+    },
+    "description": "If the field CRUSH and WHO is selected, the ship will be between them",
+    "description_localizations": {
+      "pt-BR": "Se o campo PAIXONITE e QUEM for selecionado, o crush será entre eles"
+    }
+  }
+}
