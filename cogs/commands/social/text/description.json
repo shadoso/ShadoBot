@@ -19,10 +19,10 @@
       "pt-BR": "Pessoa na qual você deseja interagir"
     }
   },
-  "action": {
+  "type": {
     "name": "type",
     "name_localizations": {
-      "pt-BR": "tipos"
+      "pt-BR": "tipo"
     },
     "description": "Choose the type of interaction",
     "description_localizations": {

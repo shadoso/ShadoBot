@@ -35,15 +35,15 @@
     {
       "key": 19,
       "text": {
-        "pt_BR": "Forçando a barra da pra falar que se conhecem",
+        "pt_BR": "Puts acho que nem amizade rola...",
         "default": "Edit"
       }
     },
     {
       "key": 24,
       "text": {
-        "pt_BR": "Puts acho que nem amizade rola...",
-        "default": "Edit"
+        "pt_BR": "Forçando a barra da pra falar que se conhecem",
+        "default": "Pushing it we can say they know each other"
       }
     },
     {
@@ -133,8 +133,8 @@
     {
       "key": 89,
       "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
+        "pt_BR": "Esta é a vida real? Isso é apenas fantasia? Como pode existir um casal tão incrivel assim?",
+        "default": "Is this the real life? Is this just fantasy? How can there be such an amazing couple?"
       }
     },
     {
