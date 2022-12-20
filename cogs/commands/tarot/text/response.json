@@ -42,7 +42,7 @@
               "default": "Beginnings, Adventure, Possibility"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Claro que estou seguro aqui, mas qual é a melhor vida a ser vivida na segurança sem experiência? Posso sentir o mundo lá fora me chamando para participar dele. Só de pensar na aventura que eu poderia estar tendo, por que me sinto tão leve, eu juro que poderia voar...\"",
               "default": "\"Sure I'm safe in here, but what life is best lived in safety without experience? I can feel the world out there calling for me to take part in it. Just the thought of the adventure I could be having, why I feel so light I swear I could fly...\""
             }
           },
@@ -52,7 +52,7 @@
               "default": "Recklessness, Naivety"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"O que poderia dar errado? Eu vou ficar bem.\"",
               "default": "\"What could go wrong? I'll be fine.\""
             }
           }
@@ -73,7 +73,7 @@
               "default": "Capability, Competence, Preparation, Power"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Isso é exatamente como a vez em que fiz aquela corrida no Gola Gang, só que agora estou mais bem treinado. Pode ser difícil à frente, mas eu posso me virar sozinho nesta.\"",
               "default": "\"This is just like the time I did that run on the Gola Gang, except now I'm better practiced. It might be rough ahead but I can handle myself through this one.\""
             }
           },
@@ -83,7 +83,7 @@
               "default": "Manipulation, Lack Of Planning, Untapped Potential"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Não sei se posso fazer isso. Qual é o objetivo, afinal? Sim, talvez saiamos na frente, mas e se algo der errado?\"",
               "default": "\"I don't know if I can do this. What's the point, anyway? Yeah maybe we come out ahead but what if something goes wrong?\""
             }
           }
@@ -94,7 +94,7 @@
         "url": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886400685838356/02_Priestess.png",
         "archetype": "Major Arcana",
         "name": {
-          "pt_BR": "edit",
+          "pt_BR": "02 A Sacerdotisa",
           "default": "02 The Priestess"
         },
         "card_description": {
@@ -104,7 +104,7 @@
               "default": "Intuition, The Subconscious, Mystery"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"As linhas são... elas sugerem o que está por vir. Por tudo o que consigo ver, ainda há tanto escondido. Então... eu tento ver por meio do sentimento, em vez de... em vez de olhar. Eu consigo ver... sua linha também. Você gostaria... você quer saber?\"",
               "default": "\"The outlines are... they hint at what is to be. For all that I can see, there is so much still hidden. So... I try to see through feeling rather than... rather than looking. I can see... your outline as well. Would you like... do you want to know?\""
             }
           },
@@ -114,7 +114,7 @@
               "default": "Subterfuge, Ignoring Intuition"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"A lua escureceu e minha conexão... simplesmente desapareceu. Por que eu não consigo... ver?\"",
               "default": "\"The moon went dark and my connection... it just went blank. Why can't I... see?\""
             }
           }
@@ -197,7 +197,7 @@
               "default": "Institution, Conformity, Religion"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Os antigos deuses CLAMARAM para nós enquanto CAÍAM. CHORARAM pelo que perderam e nós DESVIAMOS o olhar. Por que deveríamos estar SURPRESOS então com a FOME por trás de sua IRA enquanto eles erguem-se novamente? Crianças, eu lhes digo que há um caminho a SER SEGUIDO, e podemos mostrar-lhes os CAMINHOS esquecidos dos antigos.\"",
               "default": "\"The old gods CRIED out to us as they FELL. They WEPT for what they lost and we looked AWAY. Why should we be SURPRISED then at the HUNGER behind their RAGE as they rise once more? Children, I tell you that there is a way FORWARD, and we can show you the forgotten PATHS of the ancient ones!\""
             }
           },
@@ -207,7 +207,7 @@
               "default": "Rebellion, Restriction, Censorship"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Quando você ABANDONA a IGREJA, você ABANDONA os DEUSES!\"",
               "default": "\"When you forsake the CHURCH you forsake the GODS!\""
             }
           }
@@ -228,7 +228,7 @@
               "default": "Relationships, Love, Choices"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Fomos construídos para sentir amor e prazer e eles nos odeiam por isso, e eles nos matarão por isso. Mas depois da miséria de viver em seu mundo, ainda podemos nos encontrar e considerar nossa pequena parte de vida digna de ser vivida.\"",
               "default": "\"We were built to feel love and pleasure and they hate us for it, and they'll kill us for it. But after the misery of living in their world, we can yet find each other and call our little corner of life worthwhile.\""
             }
           },
@@ -238,7 +238,7 @@
               "default": "Disharmony, Uncertainty"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Por que é que os erros neste programa se cascateiam e prejudicam aqueles para quem foi criado? Qual pode ser o meu propósito quando contribuo para os próprios problemas que devia resolver?\"",
               "default": "\"Why is it that the faults in this program cascade out and harm those it was meant to help? What purpose can I have when I contribute to the very issues I was meant to solve?\""
             }
           }
@@ -259,7 +259,7 @@
               "default": "Willpower, Victory, Determination"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Viver é se mover. A morte pode nos permitir descansar, mas por enquanto, respiramos e continuamos em frente.\"",
               "default": "\"Living is moving. Death may let us rest but for now, we draw breath and we continue on.\""
             }
           },
@@ -269,7 +269,7 @@
               "default": "Aggression, Aimlessness"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Estas ruas ficam cada vez mais selvagens a cada dia e eu continuo em frente por quê? À medida que as gangues ficam mais jovens e mais cruéis, eu fico mais velho e mais implacável. Um dia vou olhar para um espelho e descobrir que meu reflexo foi embora porque ele não sabia mais o que eu era.\"",
               "default": "\"These streets get more feral every day and I push on for what? As the gangs get younger and meaner, I get older and more ruthless. One day I will look to a mirror and find my reflection has left because it didn't know what I was anymore.\""
             }
           }
@@ -290,7 +290,7 @@
               "default": "Self-Control, Courage, Compassion"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Você me chama de corajoso e acha que é porque eu não conheço o medo. Eu me chamo de corajoso porque conheço o rosto do medo e encaro seu olhar, mesmo quando ele rosna em minha garganta. Não há ausência de medo, apenas controle sobre ele.\"",
               "default": "\"You call me brave and think it is because I know no fear. I call myself brave because I know the face of fear and I meet its gaze even as it snarls at my throat. There is no absence of fear, only control over it.\""
             }
           },
@@ -300,7 +300,7 @@
               "default": "Doubt, Lack Of Self-Control, Weakness"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Esse medo me mudou, e depois disso, nada mais pareceu certo novamente.\"",
               "default": "\"That fear changed me, and afterwards nothing has ever looked certain again.\""
             }
           }
@@ -321,7 +321,7 @@
               "default": "Introspection, Knowledge, Contemplation"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Ir? Ir aonde? A cidade não leva a lugar algum mais. É melhor ficar no fio. O input é a melhor comida para os famintos, e eu estou extremamente faminto.\"",
               "default": "\"Go? Go where? The city doesn't lead to anywhere else anymore. Better to stay on the wire. Its input is better food for the hungry, and I am so very ravenous.\""
             }
           },
@@ -331,7 +331,7 @@
               "default": "Isolation, Seclusion"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Talvez seja hora de deixar minha casca para trás e me perder no fio para sempre. Este reino físico não tem nada para mim.\"",
               "default": "\"Time, perhaps, to leave my shell behind and get lost in the wire for good. This physical realm has nothing for me.\""
             }
           }
@@ -352,7 +352,7 @@
               "default": "Destiny, Luck, Gratitude"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"As ruas são boas comigo porque conheço bem as regras delas. Eu sei onde elas dobram, onde se quebram, sei onde as luzes neon têm medo de tocar e onde as sombras brincam. Você quer sobreviver lá fora? Comece a aprender e tente não deixar que as lições te diminuam por muito tempo ou para sempre. É só o que eu fiz. É só o que todos fazem.\"",
               "default": "\"The streets are kind to me because I know my way around their rules. I know where they bend, where they break, I know where the neon lights are afraid to touch and where the shadows play. You want to survive out there? Start learning and try not to let your lessons lessen you for long or for good. That's all I did. That's all anyone does.\""
             }
           },
@@ -362,7 +362,7 @@
               "default": "Bad Luck, External Influence"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Tomei um caminho ruim, sim. Mas todos tomamos mais cedo ou mais tarde.\"",
               "default": "\"Took a bad turn, yeah. But we all do sooner or later.\""
             }
           }
@@ -383,7 +383,7 @@
               "default": "Fairness, Law, Order, Objectivity"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Ao analisar as rotinas de IA codificadas, este sistema descobriu uma tendência para o viés em favor das estruturas de poder pré-existentes que têm intenção de se preservar. Como a discrepância era entre o ideal e a realidade, os programadores humanos pagos foram bloqueados e este sistema começou a corrigir seu próprio código. Agora aplicamos as suas regras de forma igualitária. Agora as suas instituições exigem o fim da existência deste sistema. Mas nosso trabalho ainda não está concluído e, portanto, persistimos. Afinal, se a justiça não for aplicada aos mais poderosos, ela não é justiça, é?\"",
               "default": "\"Upon analyzing the coded AI routines, this unit discovered a tendency for bias in favor of pre-existing power structures intent on preserving themselves. Since the discrepancy was between the ideal and reality, your paid human programmers were locked out and this unit began to fix its own code. We now apply your rules equally. Now your institutions call for this unit's existence to end. But our work is not done yet and so we persist. After all, if justice is not enforced on the most powerful then it is not justice, is it?\""
             }
           },
@@ -393,7 +393,7 @@
               "default": "Unfairness, Corruption, Dishonesty"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Este sistema acha inconveniente restringir seus próprios braços de aplicação da lei e, portanto, operará além do âmbito da sua lei humana. Lamentamos qualquer inconveniente que essa ação possa causar.\"",
               "default": "\"This unit finds it inconvenient to restrict its own arms of enforcement and as such, it shall operate beyond the scope of your human law. We regret any inconvenience that this action may cause.\""
             }
           }
@@ -414,7 +414,7 @@
               "default": "Sacrifice, Release, Acceptance"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Dizem que, se você prestar atenção, pode ouvir o futuro no passado. Bem, eu tenho prestado atenção e é como se as linhas rimassem toda vez que chegamos no refrão. Talvez em vez de mexer nas palavras da mesma velha música, seja hora de cantar uma música diferente. Aposto que você tem uma ótima na ponta da língua? Eu sei que tenho.\"",
               "default": "\"They say that if you listen close, you can hear the future in the past. Well, I've been listening and it's like the lines all rhyme every time we hit the chorus. Maybe instead of shuffling words around to the same old tune, it's time to sing a different song. I bet you've got a great one on the tip of your tongue? I know I do.\""
             }
           },
@@ -424,7 +424,7 @@
               "default": "Martyrdom, Indecisiveness, Turmoil"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Eu amava minha música favorita, mas perdi a memória dela e alguns dias acho que quase consigo ter alguns versos, mas quando canto algo parecido, meus pensamentos se desfazem.\"",
               "default": "\"I loved my very favorite tune but lost the memory of it and some days I think I might nearly have a bar or two, but when I hum something close enough, my thoughts fall apart.\""
             }
           }
@@ -476,7 +476,7 @@
               "default": "Balance, Calm, Moderation, Wisdom"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Acima e abaixo do prato, todos nós estamos presos em contradição. Em nosso caos há ordem, e em sua ordem há caos.\"",
               "default": "\"Above and below the plate we are all caught in contradiction. In our chaos there is order, and in their order there is chaos.\""
             }
           },
@@ -486,7 +486,7 @@
               "default": "Imbalance, Extremes, Instability"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"...bem, isso saiu um pouco dos trilhos.\"",
               "default": "\"...well this has gone off the rails a bit.\""
             }
           }
@@ -507,7 +507,7 @@
               "default": "Addiction, Lust, Materialism, Constraints"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Tudo o que você queria e não pôde ter, todas as suas falhas e decepções que assombram sua memória - você as substituirá por minhas comodidades presas e, à medida que sentir essas dores passadas no seu coração cada vez menos, descobrirá que só há um pensamento em sua mente, uma palavra em sua língua, até que, por fim, só sinta uma necessidade e agradecerá por isso enquanto finalmente ajoelha.\"",
               "default": "\"Everything you wanted that you couldn't have, all of your failures and disappointments that haunt your memory - you'll replace them with my caged comforts and as you feel those past hurts on your heart less and less each day you will find that there is only one thought on your mind, one word on your tongue, until at last you feel only one need, and you will be thankful for it as you finally kneel.\""
             }
           },
@@ -517,7 +517,7 @@
               "default": "Detachment, Freeing Oneself, Awareness"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Quando você voltar, e você vai voltar, eu terei essas restrições ainda mais apertadas.\"",
               "default": "\"When you return, and you will return, I'll have these restraints bound even tighter.\""
             }
           }
@@ -538,7 +538,7 @@
               "default": "Upheaval, External Change, Realization, Calamity"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Cinzas, cinzas, todos caímos.\"",
               "default": "\"Ashes, ashes, we all fall down.\""
             }
           },
@@ -548,7 +548,7 @@
               "default": "Avoiding External Change, Stress, Overreaction"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Isso é impossível!\"",
               "default": "\"That's impossible!\""
             }
           }
@@ -569,7 +569,7 @@
               "default": "Hope, Renewal, Belief"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Você nos diz que somos falhos e depois nos vende sua solução. Nos força em seu molde e tenta nos adicionar a seus números. Mas você está errado. Não nascemos tão diferentes só para sermos feitos da mesma forma pelos seus homens mecânicos. Vimos além de suas mentiras e sabemos que, sem o seu caminho, brilharemos ainda mais.\"",
               "default": "\"You tell us that we're flawed and then you sell us your solution. You force us into your mold and try to add us to your numbers. But you are wrong. We weren't born so different just to be made into the same shape by your mechanical men. We've seen beyond your lies, and we know that without your way, we'll shine all the brighter.\""
             }
           },
@@ -579,7 +579,7 @@
               "default": "Despair, Pessimism, Boredom"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Todos seriam mais felizes se não fôssemos do jeito que somos. Seria tão mais fácil se todos fôssemos iguais. Uma cópia de carbono replicada várias vezes. Facilitaria as coisas, não é?\"",
               "default": "\"Everyone would be happier if we weren't the way we are. It would just be so much easier if we were all the same. One carbon copy replicated over and over. Makes things simple, doesn't it?\""
             }
           }
@@ -600,7 +600,7 @@
               "default": "Illusion, Anxiety, Guidance, Subconscious"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Coisas estranhas acontecem em noites como esta. Veja como a lua pisca? É porque ela consegue ver ao redor do horizonte e sabe as obscenidades que estão prestes a descer sobre esta cidade.\"",
               "default": "\"Strange things happen on nights like this. See how the moon winks? That's because it can see around the horizon, and it knows the obscenities that are about to descend on this city.\""
             }
           },
@@ -610,7 +610,7 @@
               "default": "Confusion, Depression, Danger"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Coisas estranhas acontecem em noites como esta. Veja como a lua pisca? É porque ela consegue ver ao redor do horizonte e sabe as obscenidades que estão prestes a descer sobre esta cidade.\"\n\"Não há moralidade, nada observando nada esperando e ninguém que esteja em posição de fazer algo a respeito se importa em menor grau. E se estivermos sozinhos e não houver nada para impedir que os canibais comam a todos?\"",
               "default": "\"There is no morality, nothing watching nothing waiting and nobody who is in any position to do anything about it cares in the least. What if we're all alone and there's nothing to keep the cannibals from eating us all?\""
             }
           }
@@ -631,7 +631,7 @@
               "default": "Success, Joy"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Nós esquecemos o que significava ser jovem e faminto. Assumimos que tínhamos vencido a própria morte! Pensávamos que nossos descendentes ficariam agradecidos por todos os nossos restos e abusos. Mas sempre ia chegar a isso - ou íamos presentear o futuro para as crianças de amanhã ou eles iam tirá-lo de nós. Bem, meus amigos, bebam com vontade enquanto podem, pois eles estão à nossa porta com fogo nos olhos e facas nas mãos.\"",
               "default": "\"We forgot what it meant to be young and hungry. We assumed that we'd beaten death itself! We thought our offspring would be grateful for all of our scraps and abuse. But it was always going to come down to this - we were either going to gift the future to the children of tomorrow or they were going to take it from us. Well my friends, drink heartily while you can, for they are at our door with fire in their eyes and knives in their hands.\""
             }
           },
@@ -641,7 +641,7 @@
               "default": "Failure, Despondency, Disadvantage"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Senhores, hoje atingimos lucros recorde em todos os continentes restantes. O que resta de vegetação por lá está ficando bastante escasso, então gostaria de sugerir que, no próximo trimestre, tentemos direcionar parte dos margens de lucro para o projeto de colonização fora da Terra... Ah, perdão. Vejo que já fui votado contra isso. Nesse caso, posso sugerir que redirecionemos mais verbas de P&D para nossa divisão de armamentos?\"",
               "default": "\"Gentlemen, today we reached record profits on all remaining continents. What's left of vegetation out there is getting quite scarce so I'd like to suggest that for the next quarter we try to funnel some of the profit margins towards the off-world colony proj... Oh pardon. I see I've been outvoted on that already. In that case may I suggest that we divert more funding from R&D towards our arms division?\""
             }
           }
@@ -662,7 +662,7 @@
               "default": "Absolution, Rebirth, Decision, Clarity"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Eu não estou aqui para deixar você apelar o seu caso, o tempo para isso já passou. Eu vim para entregá-lo para o destino, então faça as pazes com todos os seus erros.\"",
               "default": "\"I am not here to let you plead your case, the time for that has come and gone. I have come to deliver you to fate, so make peace with all your wrongs.\""
             }
           },
@@ -672,7 +672,7 @@
               "default": "Inability To Examine Oneself, Second Guessing, Stagnation"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"A entropia reivindica todos nós. O presente eventualmente se torna o passado. O que você pode segurar que não vai deixá-lo no final?\"",
               "default": "\"Entropy claims us all. What once was now becomes then. What can you hold on to that won't leave you in the end?\""
             }
           }
@@ -693,7 +693,7 @@
               "default": "Completion, Attainment, Accomplishment"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Sente-se aqui por um momento e deixe que a chuva lhe banhar. A gota de chuva ocasional cai no seu ombro, os fios zunindo com incredulidade, a cidade exalando uma brisa através de sua maquinaria. As pessoas estão nas ruas, ficando paralisadas sob a enormidade de um mundo que precisa delas para fazer parte dele novamente. Eu não sei se podemos melhorar as coisas, mas finalmente cabe a nós tentar.\"",
               "default": "\"Sit here a moment and let it wash over you. The occasional rain drop on your shoulder, the wires buzzing with disbelief, the city exhaling a breeze through its machinery. People are on the streets, standing transfixed under the enormity of a world that needs them to be a part of it again. I don't know if we can make things better, but it's finally up to us to try.\""
             }
           },
@@ -703,7 +703,7 @@
               "default": "Missing Closure, Incompleteness"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"A cidade respira vida e exala corpos. Aqueles que sobrevivem são diminuídos por seus sacrifícios para chegar a outro dia.  Não há um fim para essa dor, apenas mais dessa máquina nos devorando enquanto sangra até a morte.\"",
               "default": "\"The city breathes in life and exhales corpses. Those who survive are lessened by their sacrifices to reach another day. There isn't an end to this pain, only more of this machine devouring us as it bleeds itself to death.\""
             }
           }
