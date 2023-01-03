@@ -725,7 +725,7 @@
             },
             "text": {
               "pt_BR": "edit",
-              "default": "\"You win this week's pledge lottery! If you play your cards right, this could turn into a rare paid position at the mining facility! Please report in immediately to improve your odds!\""
+              "default": "\"You won this week's pledge lottery! If you play your cards right, this could turn into a rare paid position at the mining facility! Please report in immediately to improve your odds!\""
             }
           },
           "inverted": {
@@ -755,7 +755,7 @@
               "default": "Balance, Distractions, Adaptability, Juggling"
             },
             "text": {
-              "pt_BR": "edit",
+              "pt_BR": "\"Eles disseram que eu não poderia fazer tudo e eu disse claro, não tudo, claro. Mas ainda posso fazer muito e em um lugar como este, alguém que sabe a metade de como fazer tudo vale mais do que alguém que sabe todo o caminho de como fazer apenas uma coisa. Claro, você tem que saber cantar uma música para distrair o diabo enquanto dança ao redor de suas chamas. Senão você será queimado enquanto ele ri.\"",
               "default": "\"They said I couldn't do everything and I said sure, not everything sure, yeah. But I can still do a lot and in a place like this, someone who knows halfway how to do everything is worth more than someone who knows all the way how to do just one thing. Yeah, you gotta be able to sing a tune to distract the devil while you dance around his flames. Sure, else you'll be burned while he laughs.\""
             }
           },

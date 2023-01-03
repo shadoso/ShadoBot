@@ -2,12 +2,8 @@ from typing import Union
 from abs_pth import json_text
 from pydantic import BaseModel
 from nextcord import Embed
+from standardization.language import Languages, validating
 import asyncio
-
-
-class Languages(BaseModel):
-    pt_BR: str = "pt_BR"
-    default: str = "default"
 
 
 class KeyText(BaseModel):
@@ -43,10 +39,7 @@ class Deck(BaseModel):
             0: "upright",
             1: "inverted"
         }
-        language = language.replace("-", "_")
-
-        if language not in dir(Languages()):
-            language = Languages().default
+        language = validating(language=language)
 
         for card in cards:
             field = self.fields
@@ -71,11 +64,30 @@ class Deck(BaseModel):
             embeds.append(embed)
         return embeds
 
+    async def texts(self, language: str, cards: list[int]):
+        embeds = []
+        position = {
+            0: "upright",
+            1: "inverted"
+        }
+        language = validating(language=language)
+
+        for card in cards:
+            content = self.deck[card]
+            description = content.card_description
+
+            for index, subject in enumerate([description.upright, description.inverted]):
+                print(subject.text.__getattribute__(language))
+
+            print()
+
+        return None
+
 
 if __name__ == "__main__":
     where = ["cogs", "commands", "tarot", "text", "response.json"]
     command = ["response"]
     slash = json_text(where=where, commands=command)
-    cardss = [78, 0, 13, 48, 42]
-    x = asyncio.run(Deck(**slash.response).embeding("pt_BR", cards=cardss))
+    cardss = list(range(25, 32))
+    x = asyncio.run(Deck(**slash.response).texts("deafult", cards=cardss))
     print(x)

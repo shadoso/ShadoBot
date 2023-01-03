@@ -1,17 +1,17 @@
 from abs_pth import json_text
 from nextcord import Interaction, SlashOption
 from nextcord.ext import commands
-from cogs.commands.action.functions.tenor_gif import tenor
-from cogs.commands.action.embed import Gif
+from cogs.commands.social.functions.tenor_gif import tenor
+from cogs.commands.social.embed import Gif
 import nextcord
 from view.page import Page
 
-where = ["cogs", "commands", "action", "text", "description.json"]
-command = ["social", "who", "action", "not_found"]
+where = ["cogs", "commands", "social", "text", "description.json"]
+command = ["social", "who", "type", "not_found"]
 slash = json_text(where=where, commands=command)
 
 
-class Action(commands.Cog):
+class Social(commands.Cog):
     def __init__(self, client):
         self.__client = client
 
@@ -19,7 +19,7 @@ class Action(commands.Cog):
     async def social(self,
                      interaction: Interaction,
                      action: str = SlashOption(
-                         **slash.action,
+                         **slash.type,
                          required=True
                      ),
                      who: nextcord.Member = SlashOption(
@@ -36,7 +36,7 @@ class Action(commands.Cog):
             await interaction.response.send_message(slash.not_found)
 
         else:
-            root_path = ["cogs", "commands", "action", "text", "response.json"]
+            root_path = ["cogs", "commands", "social", "text", "response.json"]
             deck = ["response"]
             elements = json_text(where=root_path, commands=deck)
             embed = await Gif(**elements, **gif).embeding(
@@ -51,4 +51,4 @@ class Action(commands.Cog):
 
 
 def setup(client):
-    client.add_cog(Action(client))
+    client.add_cog(Social(client))

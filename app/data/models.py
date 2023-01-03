@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Enum, String, ARRAY, Numeric, DateTime, Integer
-from app.data.commands.data_types import Gender, Country, Verification
-from app.data.commands.schemas.game.coordinates_schemas import Biomes, Sector
+from app.data.data_types import Gender, Country, Verification
+from app.data.schemas.game.coordinates_schemas import Biomes, Sector
 from app.data.session import Base, engine
 
 

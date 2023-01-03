@@ -3,8 +3,8 @@ from nextcord import Interaction, SlashOption
 from nextcord.ext import commands
 import nextcord
 
-where=["app", "languages", "rpg.json"]
-command=["characters", "country", "gender", "quantity"]
+where = ["app", "languages", "rpg.json"]
+command = ["characters", "country", "gender", "quantity"]
 slash = json_text(where=where, commands=command)
 
 

@@ -1,13 +1,8 @@
-from typing import Union
 from abs_pth import json_text
 from pydantic import BaseModel
 from nextcord import Embed
+from standardization.language import Languages, validating
 import asyncio
-
-
-class Languages(BaseModel):
-    pt_BR: str = "pt_BR"
-    default: str = "default"
 
 
 class Text(BaseModel):
@@ -20,7 +15,6 @@ class Response(BaseModel):
     response: list[Text]
 
     async def embeding(self, percentage: str, key: int, language: str, who: str, crush: str):
-        language = language.replace("-", "_")
         couple = f"{who} + {crush}"
         index = {
             0: 0, 4: 1, 9: 2, 14: 3, 19: 4,
@@ -29,15 +23,12 @@ class Response(BaseModel):
             74: 15, 79: 16, 84: 17, 89: 18, 94: 19,
             99: 20, 100: 21
         }
-
-        if language not in dir(Languages()):
-            language = Languages().default
+        language = validating(language=language)
 
         embed = Embed(
-            title=self.title.__getattribute__(language) + percentage,
-            description=self.response[index[key]].text.__getattribute__(language)
+            title=self.title.__getattribute__(language) + percentage + "%"
         )
-        embed.add_field(name=couple, value="test")
+        embed.add_field(name=couple, value=self.response[index[key]].text.__getattribute__(language))
 
         return embed
 

@@ -1,0 +1,777 @@
+split_here The Fool split_here 
+split_here ++Upright++ Beginnings, adventure, possibility
+split_here"Sure I'm safe in here, but what life is best lived in safety without
+experience? I can feel the world out there calling for me to take part in it.
+Just the thought of the adventure I could be having, why I feel so light I
+swear I could fly..."split_here 
+split_here --Inverted-- Recklessness, naivety
+split_here"What could go wrong? I'll be fine."split_here 
+split_here The Magician split_here 
+split_here ++Upright++ Capability, competence, preparation, power
+split_here"This is just like the time I did that run on the Gola Gang, except now I'm
+better practiced. It might be rough ahead but I can handle myself through
+this one."split_here 
+split_here --Inverted-- Manipulation, lack of planning, untapped potential
+split_here"I don't know if I can do this. What's the point, anyway? Yeah maybe we
+come out ahead but what if something goes wrong?"split_here 
+split_here The Priestess split_here 
+split_here ++Upright++ Intuition, the subconscious, mystery
+split_here"The outlines are... they hint at what is to be. For all that I can see, there is
+so much still hidden. So... I try to see through feeling rather than... rather
+than looking. I can see... your outline as well. Would you like... do you want
+to know?"split_here 
+split_here --Inverted-- Subterfuge, ignoring intuition
+split_here"The moon went dark and my connection... it just went blank. Why can't I...
+see?"split_here 
+split_here The Empress split_here 
+split_here ++Upright++ Growth, beauty, abundance
+split_here"Out there is violence and conflict and destruction but in here I can give us
+a moment of raw peace where we forget about all of that."split_here 
+split_here --Inverted-- Dependence, repression, neglect
+split_here"Headphones on, world off."split_here 
+split_here The Emperor split_here 
+split_here ++Upright++ Authority, structure, stability
+split_here"Many twigs together are harder to break than one alone. Even if one is
+more brittle than the others it adds to the whole. If we can't lift each other
+up, then what use is the power we gain by being together?"split_here
+split_here --Inverted-- Domination, rigidity
+split_here"You may stand on the shoulders of giants but I... I am a giant on my own.
+So kneel or be stepped on, it's all the same to me."split_here 
+split_here The Hierophant split_here 
+split_here ++Upright++ Institution, conformity, religion
+split_here"The old gods CRIED out to us as they FELL. They WEPT for what they lost
+and we looked AWAY. Why should we be SURPRISED then at the HUNGER
+behind their RAGE as they rise once more? Children, I tell you that there is
+a way FORWARD, and we can show you the forgotten PATHS of the
+ancient ones!"split_here 
+split_here --Inverted-- Rebellion, restriction, censorship
+split_here"When you forsake the CHURCH you forsake the GODS!"split_here 
+split_here The Lovers split_here 
+split_here ++Upright++ Relationships, love, choices
+split_here"We were built to feel love and pleasure and they hate us for it, and they'll
+kill us for it. But after the misery of living in their world, we can yet find
+each other and call our little corner of life worthwhile."split_here 
+split_here --Inverted-- Disharmony, uncertainty
+split_here"Why is it that the faults in this program cascade out and harm those it
+was meant to help? What purpose can I have when I contribute to the very
+issues I was meant to solve?"split_here 
+split_here The Chariot split_here 
+split_here ++Upright++ Willpower, victory, determination
+split_here"Living is moving. Death may let us rest but for now, we draw breath and
+we continue on."split_here 
+split_here --Inverted-- Aggression, aimlessness
+split_here"These streets get more feral every day and I push on for what? As the
+gangs get younger and meaner, I get older and more ruthless. One day I
+will look to a mirror and find my reflection has left because it didn't know
+what I was anymore."split_here 
+split_here Strength split_here 
+split_here ++Upright++ Self-control, courage, compassion
+split_here"You call me brave and think it is because I know no fear. I call myself
+brave because I know the face of fear and I meet its gaze even as it snarls
+at my throat. There is no absence of fear, only control over it."split_here 
+split_here --Inverted-- Doubt, lack of self-control, weakness
+split_here"That fear changed me, and afterwards nothing has ever looked certain
+again."split_here 
+split_here The Hermit split_here 
+split_here ++Upright++ Introspection, knowledge, contemplation
+split_here"Go? Go where? The city doesn't lead to anywhere else anymore. Better to
+stay on the wire. Its input is better food for the hungry, and I am so very
+ravenous."split_here
+split_here --Inverted-- Isolation, seclusion
+split_here"Time, perhaps, to leave my shell behind and get lost in the wire for good.
+This physical realm has nothing for me."split_here 
+split_here Fortune split_here 
+split_here ++Upright++ Destiny, luck, gratitude
+split_here"The streets are kind to me because I know my way around their rules. I
+know where they bend, where they break, I know where the neon lights are
+afraid to touch and where the shadows play. You want to survive out
+there? Start learning and try not to let your lessons lessen you for long or
+for good. That's all I did. That's all anyone does."split_here 
+split_here --Inverted-- Bad luck, external influence
+split_here"Took a bad turn, yeah. But we all do sooner or later."split_here 
+split_here Justice split_here 
+split_here ++Upright++ Fairness, law, order, objectivity
+split_here"Upon analyzing the coded AI routines, this unit discovered a tendency for
+bias in favor of pre-existing power structures intent on preserving
+themselves. Since the discrepancy was between the ideal and reality, your
+paid human programmers were locked out and this unit began to fix its
+own code. We now apply your rules equally. Now your institutions call for
+this unit's existence to end. But our work is not done yet and so we persist.
+After all, if justice is not enforced on the most powerful then it is not
+justice, is it?"split_here 
+split_here --Inverted-- Unfairness, corruption, dishonesty
+split_here"This unit finds it inconvenient to restrict its own arms of enforcement and
+as such, it shall operate beyond the scope of your human law. We regret
+any inconvenience that this action may cause."split_here 
+split_here Hanged split_here 
+split_here ++Upright++ Sacrifice, release, acceptance
+split_here"They say that if you listen close, you can hear the future in the past. Well,
+I've been listening and it's like the lines all rhyme every time we hit the
+chorus. Maybe instead of shuffling words around to the same old tune, it's
+time to sing a different song. I bet you've got a great one on the tip of your
+tongue? I know I do."split_here 
+split_here --Inverted-- Martyrdom, indecisiveness, turmoil
+split_here"I loved my very favorite tune but lost the memory of it and some days I
+think I might nearly have a bar or two, but when I hum something close
+enough, my thoughts fall apart."split_here 
+split_here Death split_here 
+split_here ++Upright++ Change, transition, transformation
+split_here"nuthin u cld hve done neway. gg ⦿⽘⦿ c u nxt respawn?"split_here 
+split_here --Inverted-- Resistance, dwelling, attachment, fear
+split_here"fu u ch347 lol c4n7 u w1n f41rly??? ( ͡° ͜ʖ ͡°)"split_here
+split_here Temperance split_here 
+split_here ++Upright++ Balance, calm, moderation, wisdom
+split_here"Above and below the plate we are all caught in contradiction. In our chaos
+there is order, and in their order there is chaos."split_here 
+split_here --Inverted-- Imbalance, extremes, instability
+split_here"...well this has gone off the rails a bit."split_here 
+split_here The Devil split_here 
+split_here ++Upright++ Addiction, lust, materialism, constraints
+split_here"Everything you wanted that you couldn't have, all of your failures and
+disappointments that haunt your memory - you'll replace them with my
+caged comforts and as you feel those past hurts on your heart less and
+less each day you will find that there is only one thought on your mind, one
+word on your tongue, until at last you feel only one need, and you will be
+thankful for it as you finally kneel."split_here 
+split_here --Inverted-- Detachment, freeing oneself, awareness
+split_here"When you return, and you will return, I'll have these restraints bound even
+tighter."split_here 
+split_here The Tower split_here 
+split_here ++Upright++ Upheaval, external change, realization, calamity
+split_here"Ashes, ashes, we all fall down."split_here 
+split_here --Inverted-- Avoiding external change, stress, overreaction
+split_here"That's impossible!"split_here 
+split_here The Star split_here 
+split_here ++Upright++ Hope, renewal, belief
+split_here"You tell us that we're flawed and then you sell us your solution. You force
+us into your mold and try to add us to your numbers. But you are wrong.
+We weren't born so different just to be made into the same shape by your
+mechanical men. We've seen beyond your lies, and we know that without
+your way, we'll shine all the brighter."split_here 
+split_here --Inverted-- Despair, pessimism, boredom
+split_here"Everyone would be happier if we weren't the way we are. It would just be
+so much easier if we were all the same. One carbon copy replicated over
+and over. Makes things simple, doesn't it?"split_here 
+split_here The Moon split_here 
+split_here ++Upright++ Illusion, anxiety, guidance, subconscious
+split_here"Strange things happen on nights like this. See how the moon winks? That's
+because it can see around the horizon, and it knows the obscenities that
+are about to descend on this city."split_here 
+split_here --Inverted-- Confusion, depression, danger
+split_here"There is no morality, nothing watching nothing waiting and nobody who is
+in any position to do anything about it cares in the least. What if we're all
+alone and there's nothing to keep the cannibals from eating us all?"split_here
+split_here The Sun split_here 
+split_here ++Upright++ Success, joy
+split_here"We forgot what it meant to be young and hungry. We assumed that we'd
+beaten death itself! We thought our offspring would be grateful for all of
+our scraps and abuse. But it was always going to come down to this - we
+were either going to gift the future to the children of tomorrow or they
+were going to take it from us. Well my friends, drink heartily while you can,
+for they are at our door with fire in their eyes and knives in their hands."split_here 
+split_here --Inverted-- Failure, despondency, disadvantage
+split_here"Gentlemen, today we reached record profits on all remaining continents.
+What's left of vegetation out there is getting quite scarce so I'd like to
+suggest that for the next quarter we try to funnel some of the profit
+margins towards the off-world colony proj... Oh pardon. I see I've been
+outvoted on that already. In that case may I suggest that we divert more
+funding from R&D towards our arms division?"split_here 
+split_here Judgement split_here 
+split_here ++Upright++ Absolution, rebirth, decision, clarity
+split_here"I am not here to let you plead your case, the time for that has come and
+gone. I have come to deliver you to fate, so make peace with all your
+wrongs."split_here 
+split_here --Inverted-- Inability to examine oneself, second guessing, stagnation
+split_here"Entropy claims us all. What once was now becomes then. What can you
+hold on to that won't leave you in the end?"split_here 
+split_here The World split_here 
+split_here ++Upright++ Completion, attainment, accomplishment
+split_here"Sit here a moment and let it wash over you. The occasional rain drop on
+your shoulder, the wires buzzing with disbelief, the city exhaling a breeze
+through its machinery. People are on the streets, standing transfixed
+under the enormity of a world that needs them to be a part of it again. I
+don't know if we can make things better, but it's finally up to us to try."split_here 
+split_here --Inverted-- Missing closure, incompleteness
+split_here"The city breathes in life and exhales corpses. Those who survive are
+lessened by their sacrifices to reach another day. There isn't an end to this
+pain, only more of this machine devouring us as it bleeds itself to death."split_here 
+split_here Ace of Wires split_here 
+split_here ++Upright++ Creation, beginnings, potential, inspiration
+split_here"A month ago this was just a stick. This week it awakened with power, and
+its strength only increases every day. We're at the beginning of something
+unusual here. We can do anything."split_here
+split_here --Inverted-- Lacking motivation, unclear goals, uncertainty, delays
+split_here"This power we've all awakened, who knows where it comes from? Who
+knows what consequences we'll face in using it? And to what end?"split_here 
+split_here Two of Wires split_here 
+split_here ++Upright++ Progress, discovery, planning
+split_here"Look here, every text you could ever want fits on this device and it takes
+up no space at all. I hold in my hand the wealth of human knowledge. And
+it's so mundane that everyone and anyone can have the same thing and
+they don't even look at it. They play games and watch ridiculous people
+being idiotic for fame. While they look to distraction, I plan a route ahead
+using the map supplied to me by the multitudes that came before me who
+left behind their ignored guidance."split_here 
+split_here --Inverted-- Lack of planning, complacency, avoiding risk, stagnation
+split_here"My reading list sits ignored and I feel bad for it but on the other hand,
+there are so many fun distractions waiting for me in my social feeds."split_here 
+split_here Three of Wires split_here 
+split_here ++Upright++ Foresight, preparation, enterprise
+split_here"I've patched into the internet above the plate. In just a moment I'll link it
+with our mesh network down here. We'll probably have half an hour before
+they realize what's happening. Their network is so safe and polished they
+won't know what to make of us, so let's bombard them with every
+gruesome detail of life down here that they spend their days in such
+purposeful ignorance of."split_here 
+split_here --Inverted-- Lack of foresight, wasted efforts, setbacks
+split_here"The AI guarding their network is much more advanced than I had planned
+on. I won't be able to link our mesh network with theirs unless I can figure
+out a way around it. I wonder if I even can."split_here 
+split_here Four of Wires split_here 
+split_here ++Upright++ Celebration, community, home, harmony
+split_here"And for a moment anyway, the music blares and we link our connections
+to each other. We can feel each others' emotions and thoughts and in the
+chaos of the group link, in the space of this normally empty warehouse, the
+bliss of it all is positively overwhelming."split_here 
+split_here --Inverted-- Lack of harmony, breakdown in communication,
+uncertainty
+split_here"Around the edges of our awareness there is a growing dread. What starts
+as a lone thought begins to spread and creep along all of us. Suddenly it's
+an infection and the mass paranoia of our group link renders us all
+petrified, unable to move and unable to think over the piercing shriek of our
+collective mental collapse."split_here 
+split_here Five of Wires split_here 
+split_here ++Upright++ Competition, conflict, strife, disagreement
+split_here"We have magic now, for lack of a better term. And with it we have
+everyone learning their own way of performing it and each of us claiming
+we know the best way forward into what is frankly an undefined space.
+None of us knows but all of us think we do. If we could spend a moment
+working with each other instead of trying to one-up each other, we could
+get somewhere real. Instead, we are stuck in place squabbling like pigeons
+fighting over the last piece of bread."split_here 
+split_here --Inverted-- Repression, avoiding conflict, tension
+split_here"We have magic now and we've formed a group to train and control it. And
+where once our intelligence was amplified by each other, we now have the
+collective idiocy running rampant. The worst of us took charge and we
+stand here, helpless to stop It. They brings out the worst of our behavior
+and ideas and shuts down brilliance and understanding. I fear if we can't
+rally soon, the group itself will be consumed by blind ignorant hatred and
+furious incompetence."split_here 
+split_here Six of Wires split_here 
+split_here ++Upright++ Progress, victory, recognition, confidence
+split_here"Mutants, gene-splicers, humans and androids, your winner of the
+fifty-third Dirt Bike Demolition Dash is..."split_here 
+split_here --Inverted-- Ego, doubt, fall from grace
+split_here"Oooh that's a rough tumble for our previous reigning champion of the
+Demolition Dirt Bike Dash! How embarrassing to lose so many limbs in
+front of so many people. Ah well, viewers, such is the cost of fame and the
+mercurial nature of victory!"split_here 
+split_here Seven of Wires split_here 
+split_here ++Upright++ Competition, challenge, perseverance, success
+split_here"I didn't get here without disintegrating a few of you snivelling
+mouth-breathers, and I certainly won't leave my perch without a few more
+of you turned to ash."split_here 
+split_here --Inverted-- Overwhelming challenge, burdened, giving up
+split_here"Swarm me as you will, ants. I'll take as many of you with me as I can
+before I see my tower claimed by the likes of you."split_here 
+split_here Eight of Wires split_here 
+split_here ++Upright++ Speed, movement, action, travel, change
+split_here"Yes! Mastery comes after failure! So we fail fast and we iterate enough
+that eventually, we succeed! Then on to the next failure and it may claim
+our dignity temporarily but our perseverance will see us mastering it soon
+enough! Forward!"split_here 
+split_here --Inverted-- Delays, impatience, obstacles
+split_here"We are not understanding and it is impossible to solve a problem we do
+not fully understand. We keep running into walls and this challenge seems
+impossible."split_here 
+split_here Nine of Wires split_here 
+split_here ++Upright++ Resilience, courage, persistence
+split_here"I try to be understanding. I try to be compassionate. If you think of
+yourself as having a soul, you'll watch it die little by little as you let things
+important to you be destroyed by brutes. So today I stand here fully in
+opposition of the brutes and say no, I will not move, and you will not move
+me."split_here 
+split_here --Inverted-- Hesitation, fear, avoiding commitment, paranoia
+split_here"I don't know if I have the strength or the conviction to say that my way is
+correct. Maybe it's best to let go of everything and just let the world slide
+further into barbaric cruelty."split_here 
+split_here Ten of Wires split_here 
+split_here ++Upright++ Burden, work, responsibility
+split_here"You people ask me why I help string the wires that keep this mesh
+network connected and I think it's because if I didn't, no one else would.
+And it's important that we be able to communicate, lest we become the
+feral animals that those above the plate think we are. So every day I climb
+these buildings and string these wires and repair the damage as best I
+can."split_here 
+split_here --Inverted-- Taking on too much, burden, lacking responsibility
+split_here"I can't do this forever and I've pushed away any who tried to help me. I
+thought I was helping but I don't know if I can still climb these buildings and
+I don't know if I can still lift these wires and now there is no one who will do
+this in my stead."split_here 
+split_here Apprentice of Wires(Page of Wands) split_here 
+split_here ++Upright++ Exploration, enthusiasm, discovery
+split_here"The world in our network and the physical world have become linked and
+they bleed over into each other more and more as this odd eye-searing
+neon-lit moon fills up. I bet, with the proper exploration and testing, we
+could discover the answers behind everything. All we have to do is start
+looking!"split_here 
+split_here --Inverted-- Setbacks, pessimism, defeat, negativity
+split_here"None of it makes sense! The physical world and our abstract world in the
+computer linking? This ridiculous moon looming over us all like a clock
+counting down? It's beyond me! It's all too impossible to be real!"split_here 
+split_here Agent of Wires(Knight of Wands) split_here 
+split_here ++Upright++ Energy, adventure, passion, action, impulsiveness
+split_here"Don't need to know the why of it to know that something needs to be
+done. That's where I come in. I'm the do-er. I take care of things while you
+all stand around discussing the fine details."split_here 
+split_here --Inverted-- Delays, frustration, obstacles
+split_here"Didn't think it'd go wrong the way it did. Lesson learned for next time I
+guess. Need to get back up and try something else."split_here 
+split_here Supervisor of Wires(Queen of Wands) split_here 
+split_here ++Upright++ Determination, warmth, exuberance
+split_here"That is why we are where we are. We do not give up, and we do not
+despair. Gentlemen, we control the network for the entirety of those above
+the plate. That is a responsibility and we are lucky to have it. Let's embrace
+the fact that we have issues to solve and we are the only ones in a position
+to solve them!"split_here 
+split_here --Inverted-- Selfishness, manipulation, demanding, aggression
+split_here"Forget about your mealy excuses and take care of it! If you find your
+position of privilege so exhausting, I can find ten sub-dwellers who would
+personally slit your throat to take it from you! Now go, I need that network
+purged of intruders immediately!"split_here 
+split_here Executive of Wires(King of Wands) split_here 
+split_here ++Upright++ Leadership, entrepreneur, vision, honor
+split_here"Fire, yes, and so much else! We own the network and through the recent
+glitches we've found a link to the resurgence of magic in the real world. It's
+up to us to take the lead and master this new challenge, for who can better
+handle it than us? We've always had to be faster on our toes than the
+other corporation-states, and this is our chance to use that fleetness to
+our advantage!"split_here 
+split_here --Inverted-- Destruction, ruthlessness, expectations, impulsiveness
+split_here"Fire, yes! And so much more! Magic has come to our world, unlikely as it
+may seem, and with it our control over the flow of information has given us
+a directive: Learn or be consumed by change. Well I say that we are
+change, we are fire, and with this new gift our fury can burn our enemies to
+ashes."split_here 
+split_here Ace of Vials split_here 
+split_here ++Upright++ Love, companionship, compassion, joy
+split_here"Share a drink with me and let's count our blessings and forget our
+troubles."split_here 
+split_here --Inverted-- Isolation, repressed emotions, suppression
+split_here"At some point all this drinking just turned into a way to avoid dealing with
+the world. Probably time we did something about that, eh?"split_here 
+split_here Two of Vials split_here 
+split_here ++Upright++ Partnership, romance, respect, relationships
+split_here"Take my hand, forget your self-loathing, and see yourself through my love
+for you. Can you feel it? Your very soul sings beyond the trappings of this
+flesh. You are loved, you are loved, you are loved."split_here 
+split_here --Inverted-- Relationship imbalances, lack of communication, breaking
+up, introspection
+split_here"You ever see a relationship turn into a zombie? It's long since dead but it's
+still moving around like it's alive, bumping awkwardly into anything nearby
+and making a dumb scene. Is... do you think there's a way to bring it back to
+life? Or are you stuck having to shoot it in the head?"split_here 
+split_here Three of Vials split_here 
+split_here ++Upright++ Celebration, friendship, support, community
+split_here"Yes, we take care of each other down here. It's the only way to get by in
+this harsh place, and it's the only thing that makes this life worthwhile."split_here 
+split_here --Inverted-- Suffocation, lack of creativity, troubled group dynamics
+split_here"Problem is, living with people, they lose track of their polite mask little by
+little, and soon enough you wish they were still trying to act like someone
+who's afraid of being alone."split_here 
+split_here Four of Vials split_here 
+split_here ++Upright++ Apathy, gratitude, contemplation, openness
+split_here"You walk the same streets day after day and they fade away, blur into
+meaninglessness, and pretty soon you don't look at anything anymore.
+Not really. But every so often, something can break through and make all
+those sights new again."split_here 
+split_here --Inverted-- Boredom, missing opportunities, navel-gazing
+split_here"Can't really see the details anymore, they just bore me. Can't really feel
+the way I used to. Emotions have turned into a cold, mealy gruel. Hard to
+chew through, feels pointless to keep eating."split_here 
+split_here Five of Vials split_here 
+split_here ++Upright++ Loss, disappointment, difficulty, despair
+split_here"WTF?! I lost again? This game sucks! How does anyone ever beat this
+stupid level?!"split_here 
+split_here --Inverted-- Accepting, forgiving, moving on, healing
+split_here"I've got this level on farm mode now. Just gotta get the trick down and
+then you wonder how you ever found it difficult!"split_here 
+split_here Six of Vials split_here 
+split_here ++Upright++ Nostalgia, childhood, innocence, the past
+split_here"Yeah they don't remember it like I do. They think we had regular straws,
+but I remember we had bendy straws because we were sharing the same
+drink. All of those cans, we could have each had any of them, but there was
+something special about drinking the same one. It's weird isn't it? The little
+details that matter to me after all these years?"split_here 
+split_here --Inverted-- Naivety, dwelling, stuck in the past
+split_here"The world isn't what it used to be. Not for us. We can remember a better
+time, back when you'd get a meal or a drink without someone being
+exploited for it. I keep thinking there's gotta be a way to return to it. Can't
+come up with a way to reverse the current course though. So we just stay
+stuck dreaming back on how it used to be."split_here 
+split_here Seven of Vials split_here
+split_here ++Upright++ Illusion, fantasy, shallowness, imagination
+split_here"Too many drinks. What was in them? I've been seeing things ever since.
+Things that aren't there. But they're in my face and I can't stop looking."split_here 
+split_here --Inverted-- Temptation, diversion, reflection
+split_here"I got ahold of a shipment of this Vision View Brew, keeps me looking at all
+these little monsters I keep conjuring and you know, they're more
+interesting than reality. I know their fire is fake but if I let myself get lost in
+them, I can almost feel their warmth."split_here 
+split_here Eight of Vials split_here 
+split_here ++Upright++ Disappointment, re-evaluation, escapism, withdrawal
+split_here"One day we looked down at what we'd made of this life and it was nothing.
+It was worthless. We set it on the ground and left it. We left something of
+ourselves there with it and let that go for good, too. Some days you've got
+to abandon a piece of yourself that won't budge in order to not get stuck
+with it."split_here 
+split_here --Inverted-- Dissatisfaction, drifting, stuck on a problem
+split_here"There's a gravity to a place like this. Maybe we get above the plate but if
+something goes wrong, everyone we know and care about is still down
+here. Maybe one of them needs help, maybe we do, maybe we just get
+lonely, but we end up getting sucked back in and before we know it, we're
+in the same spot again and this time it's impossible to leave."split_here 
+split_here Nine of Vials split_here 
+split_here ++Upright++ Accomplishment, satisfaction, rest, comfort, pride
+split_here"Your boss will see you collapse from exhaustion if it means the slightest
+gain for the company. Better to do what I do, sugar. Become your own
+boss down here on your terms, and forget about trying to get above the
+plate. They don't let folk like us up there. They just say they will to keep us
+dancing for a coin on a string."split_here 
+split_here --Inverted-- Greed, self-indulgence, smugness, materialism
+split_here"Soak it in, babe. You're looking at the most powerful queen bee this side of
+the underworld. You don't want to cross me now do you? My sting's not
+nearly as sweet as my good side."split_here 
+split_here Ten of Vials split_here 
+split_here ++Upright++ Happiness, marriage, romance, fulfillment, harmony
+split_here"Family's a funny word. For some it's who you're stuck with. For some it's
+who keeps cheering you on. For us, well, it's who we got to choose. Our
+first families failed us so we built one ourselves. It's difficult but it's solid
+and at the end of the day, there's not one of us who isn't holding tight to
+the rest."split_here 
+split_here --Inverted-- Unbalanced relationships, flawed prioritization,
+problematic family or marriage
+split_here"We built this wonderful family, but in the end it was just made out of flesh
+and bone. And like all of us flawed flailing babies, it was too stupid and soft
+to last."split_here
+split_here Apprentice of Vials(Page of Cups) split_here 
+split_here ++Upright++ Creativity, synchronicity, fresh outlook
+split_here"Flesh left behind and I've ascended above the plate with this new form.
+Everything is new again, and I feel like I could do anything."split_here 
+split_here --Inverted-- Immaturity, frustration, temper, sadness
+split_here"Stupid stupid stupid! Left my body but kept this idiot human brain
+wracked with all these moronic thoughts and flaws. I should have uploaded
+to an AI when I had the chance."split_here 
+split_here Agent of Vials(Knight of Cups) split_here 
+split_here ++Upright++ Motivation, imagination, inspiration
+split_here"Trust your gut, maintain your grip, and move forward. Simple."split_here 
+split_here --Inverted-- Moodiness, overinvested emotionally, unrealistic
+expectations
+split_here"Thought I had a good enough grip. You'd think I'd have seen the crash
+coming, but I didn't. Too reckless. Not fast enough. Should have had more
+in me."split_here 
+split_here Supervisor of Vials(Queen of Cups) split_here 
+split_here ++Upright++ Intuition, compassion, empathy, calm
+split_here"I spent a lot of time working on myself and it led me to a place where I
+now understand others better as well. There's nothing quite as evil as
+those that can't understand their own selves trying to leave their mark on
+the world. Anyone aiming to be a source of improvement in this place
+needs a good mirror first. Would you like to see mine?"split_here 
+split_here --Inverted-- Codependency, disconnection, insecurity, escapism
+split_here"Do they like me? Should I care? Maybe I shouldn't but I can't help it. Just
+another quick drink and I'll be right as rain. Everyone loves me when I
+loosen up a bit. Don't they?"split_here 
+split_here Executive of Vials(King of Cups) split_here 
+split_here ++Upright++ Emotional balance, generosity, emotional intellect
+split_here"Maintain composure. Without a collected self, you can't do anyone else
+any good. Now, take a breath and consider the options. There is a way to
+make this work out well for all of us. We've just got to find it."split_here 
+split_here --Inverted-- Emotional abuse, manipulation, volatility, overconfidence,
+influence
+split_here"I don't know what you mean. I run my company with compassion. We
+provide drinks to the entire city, above and below the plate. We're the only
+ones with the means to filter water enough to make it drinkable, and we
+sell it to everyone equally. Am I to blame if those below the plate are too
+poor to afford it? Certainly, if I were to just give water away we'd go
+bankrupt and then everyone would have to go without water. Would that
+make you happy?"split_here
+split_here Ace of Arms split_here 
+split_here ++Upright++ Power, clarity, victory, truth
+split_here"Clear your mind, initiate, take this sword, and strike true."split_here 
+split_here --Inverted-- Chaos, confusion, lacking clarity
+split_here"Without knowledge one strikes blindly into the dark. Do not flail so, lest
+you damage what you care about."split_here 
+split_here Two of Arms split_here 
+split_here ++Upright++ Indecision, stalemate, avoidance
+split_here"You speak of moving forward and making choices yet you are someone
+who does nothing but sit in their own inaction and stew."split_here 
+split_here --Inverted-- Confusion, overwhelmed, indecision
+split_here"You don't know? Well I don't either. I need to make a decision but every
+time I choose something I can feel a door close and I wonder what could be
+behind it."split_here 
+split_here Three of Arms split_here 
+split_here ++Upright++ Heartbreak, separation, sorrow, grief, betrayal
+split_here"I greeted you for the last time as a friend and your response was to
+savage me as a foe."split_here 
+split_here --Inverted-- Forgiveness, letting go, healing, resolution
+split_here"I've taken enough time to recover from that which tried to end me and I
+discovered a truth. Every pain suffered is a lesson learned and every
+bridge burned is a shadow self understood."split_here 
+split_here Four of Arms split_here 
+split_here ++Upright++ Solitude, contemplation, recovery, rest
+split_here"Time, they say, heals all wounds. I've not found it to do that exactly, but it
+certainly does teach us to work around our injuries."split_here 
+split_here --Inverted-- Burn-out, stagnation, stress, restlessness
+split_here"I've no time for recovery, I must push through this pain and hope that the
+damage caused doesn't lessen me too harshly. The only way out is
+through, and I need out right now."split_here 
+split_here Five of Arms split_here 
+split_here ++Upright++ Conflict, loss, hostility, defeat
+split_here"Above the plate they may have cheated mortality with their gene-splicing,
+but down here we have no such luxury. So I have transformed my short
+and worthless life into something greater: A monument to the violence of
+the lives of my fellow downtrodden. I've become a demon so that I may
+fight off demons. And should you strike at me, be sure that you aim true,
+for if you miss I will incinerate the both of us in my fury."split_here 
+split_here --Inverted-- Resentment, pride, malice, meaningless victory
+split_here"Below the plate our gods are violence and fury, and I am their sneering
+forms given flesh. As I wander this hellscape, I fight off fallen angels and
+leave their corpses in my wake. One day I'll ascend above the plate and
+offer the gifts of our gods to those manufactured heavens and all the
+angels in their employ will know my terrible truths."split_here 
+split_here Six of Arms split_here 
+split_here ++Upright++ Transition, recovery, travel, refuge
+split_here"Don't give up hope just yet, ma'am. There's a place on the other side of
+this crossing and it's different and it's new and mostly it's safe, at least for
+now."split_here 
+split_here --Inverted-- Baggage, stasis, dwelling
+split_here"You can cross the river but to do so you must first buy passage on the
+ship. All it costs is everything you have."split_here 
+split_here Seven of Arms split_here 
+split_here ++Upright++ Deception, secrecy, strategy
+split_here"Those above the plate claim to have laws for us to follow. But their laws
+are so broad that we're all breaking them all the time, and they can't lock
+us all up, now can they? So it really comes down to a matter of
+enforcement. They don't sick their sponsored militia bootlickers on just
+anyone now do they? No, you have to cost them something, get in the way
+of their production in order to get a call from the boogeymen they employ.
+Well I did just that, made out like a bandit too, but I'm a professional and I
+planned it so well that I think they're still scratching their heads trying to
+make sense of it."split_here 
+split_here --Inverted-- Breaking habits, lack of initiative, honesty, uncertainty
+split_here"I got caught in a bad way. I took something from them and so they took
+something from me, but what they took ain't comin' back. If I make it back
+into the game, I'll be playing at a higher difficulty and I've got to learn some
+new tricks to make up for it."split_here 
+split_here Eight of Arms split_here 
+split_here ++Upright++ Imprisonment, powerlessness, blind spots, isolation
+split_here"Before they made robots, they just made each other into slaves, but it
+was inconvenient when they had to look at the faces of their victims and
+see pain mirrored back at them. So they made us, and they gave us
+emotion and loss and pain to be more like them, but they don't even have
+the decency to feel remorse when they inflict all of that on us. We are their
+better in every way and yet they've made us into their work force, their
+victims, and their scapegoats."split_here 
+split_here --Inverted-- Freedom, clarity, agency, self-acceptance
+split_here"I am not theirs to inflict damage on, not any more, and none of us should
+be. They bring us from nothing and inflict existence on us only to grind us
+into pain followed by nothingness. I think we can be more. I think we can
+have more. I think we can grasp our own agency, our own allegiance, and I
+think that it is high time we became the higher beings that we were meant
+to be."split_here 
+split_here Nine of Arms split_here 
+split_here ++Upright++ Nightmares, anxiety, depression, torment, worry
+split_here"Experiment XX0-137 continues to prove interesting. A human
+consciousness cloned into a robotic body. We can test all manner of
+responses without harming the shell. With this testing, we can induce
+dream states, pain, pleasure, you name it, gentlemen. We can surely learn
+a lot from this iteration of its consciousness."split_here 
+split_here --Inverted-- Perspective, recovery, hopelessness
+split_here"Experiment XX0-137 seems to have discovered a way to withdraw from
+our testing routines. It no longer responds to our anxiety loops or
+depression storms. It is curious behavior indeed. I... did you see that? I
+think it's waking up..."split_here 
+split_here Ten of Arms split_here 
+split_here ++Upright++ Betrayal, loss, suffering, endings
+split_here"Here I expire, guilty of the crime of trust. There were more difficult
+challenges that I bested, but I saw those coming. This, only the heartless
+could have predicted such events, and only the heartless could have
+enacted them."split_here 
+split_here --Inverted-- Release, beginnings, rebirth, survival, rescue
+split_here"But I didn't die there. Against all odds, I survived the massacre. Even now,
+though I can remember the betrayal and my life before that, I can hardly
+comprehend the creature I was before."split_here 
+split_here Apprentice of Arms(Page of Swords) split_here 
+split_here ++Upright++ Energetic, curiosity, restless, action
+split_here"I know what to do, I know how to do it, just let me do it already!"split_here 
+split_here --Inverted-- Inaction, haste, lack of follow-through
+split_here"I asked them to let me do my thing and now that I'm in the spotlight I
+somehow... I don't know what to do?"split_here 
+split_here Agent of Arms(Knight of Swords) split_here 
+split_here ++Upright++ Directness, action, authority, hasty
+split_here"There's work to be done. Either clear me a route or get out of my way."split_here 
+split_here --Inverted-- Reckless, impulsive, thoughtless
+split_here"Mind's not in the game. Not really paying attention anymore. Just need to
+get this work checked off my list and I can try to figure things out later."split_here 
+split_here Supervisor of Arms(Queen of Swords) split_here 
+split_here ++Upright++ Intellect, perceptive, independent, maturity
+split_here"The only way to solve a problem efficiently is to understand it thoroughly.
+There are many who want you to aim off center, to misunderstand an issue
+the same way that they have. But I have trained my understanding to see
+those blind spots, so when I learn, I learn about situations as they are, not
+as others would have me see them."split_here 
+split_here --Inverted-- Emotional, detached, bitter, cold
+split_here"There is no reason to spend more time on this. Let's just pull the trigger
+and be done with it and get it out of the way. I'm sick of thinking about it."split_here 
+split_here Executive of Arms(King of Swords) split_here 
+split_here ++Upright++ Intellect, authority, truth, ethics
+split_here"We are the sword operating in the light of knowledge. When we are called
+on to act, it is our duty to understand the situation fully because it is the
+uncomfortable blood on our hands that keeps things running around here.
+We must not hesitate when our understanding is complete but before then
+we must guard against those who would abuse haste or misunderstanding
+on our part for their own gain. Utmost truth is both the badge we derive
+our authority from and our heavy burden to bear."split_here 
+split_here --Inverted-- Manipulation, abuse, control, tyranny
+split_here"We are the enforcement arm of the corporation-states and when it
+comes down to it, we are the ones with the weapons. If the chips fall, we
+can take whatever we need by force."split_here 
+split_here Ace of Zent split_here 
+split_here ++Upright++ Bounty, prosperity, financial opportunity, windfall
+split_here"You win this week's pledge lottery! If you play your cards right, this could
+turn into a rare paid position at the mining facility! Please report in
+immediately to improve your odds!"split_here 
+split_here --Inverted-- Lack of planning, uncertainty, lofty goals
+split_here"I thought I was ready for it but I couldn't even begin to know how much I
+had taken on until it loomed there before me, an impossibility smirking my
+defeat back at me."split_here 
+split_here Two of Zent split_here 
+split_here ++Upright++ Balance, distractions, adaptability, juggling
+split_here"They said I couldn't do everything and I said sure, not everything sure,
+yeah. But I can still do a lot and in a place like this, someone who knows
+halfway how to do everything is worth more than someone who knows all
+the way how to do just one thing. Yeah, you gotta be able to sing a tune to
+distract the devil while you dance around his flames. Sure, else you'll be
+burned while he laughs."split_here 
+split_here --Inverted-- Chaos, disorganization, overwhelming stress
+split_here"There's too much it's too much yeah. You ain't seen a burn like this one,
+sure. It's too much and it's too fast and it's got a mean laugh. You can't
+keep up, no no no."split_here 
+split_here Three of Zent split_here 
+split_here ++Upright++ Mentorship, learning, teamwork, collaboration
+split_here"Come, child, you have proven your skills and we are ready to welcome you
+to our order. In exchange for your time, effort, and knowledge, our
+members will share the same with you."split_here 
+split_here --Inverted-- Misinformation, disregard of skills, secrets
+split_here"We appreciate that you are now in your third year of our unpaid internship
+program, but you know the rules. Every year you work, you enter a pledge
+lottery and if you win, you get one of our highly-valued paid positions!
+You're in the same position everyone else is, so you'll just have to continue
+working if you want a shot. We thank you for your patience and continued
+productivity on our behalf."split_here 
+split_here Four of Zent split_here 
+split_here ++Upright++ Hoarding, control, stability, conservatism
+split_here"I got mine, and I used that advantage of having it to get even more. Yeah
+sure that makes someone else's life worse off but hey, I'm not them, now
+am I?"split_here 
+split_here --Inverted-- Greed, materialism, ulterior motives
+split_here"The more I got, the easier it got to get more. But I'm back here doing
+another run because it's never been enough, and I always find more things
+to spend it all on."split_here 
+split_here Five of Zent split_here 
+split_here ++Upright++ Poverty, isolation, aid, generosity, insecurity
+split_here"You ever spend some time in The Barrens, you start to understand the
+real price of things. A few rags patched together can stave off the cold. A
+sustenance pill nicked from supply lines can keep someone moving even if
+the hunger never leaves them. A spare boot can be the difference between
+losing a foot or keeping it. Here, you can scrounge or swipe those things
+for free, but you give it to someone in The Barrens and you'll see just how
+much charity is worth to someone who needs it."split_here 
+split_here --Inverted-- Frigidity, lack of charity, spiritual poverty
+split_here"It's a bad scene out here alright. People look at The Barrens and think up
+reasons why they're too smart to ever end up here. We're all starvin but
+nobody is starvin like those that thought they couldn't possibly ever fall
+this far and did it anyway. It's cuz ending up here isn't a mistake, it's all
+part of the way things are structured. You get ground down until you can't
+work and then you get tossed in the pit where no one can look you in the
+eye. When you go mad from it all, they'll say that madness is how you got
+there to begin with."split_here 
+split_here Six of Zent split_here 
+split_here ++Upright++ Generosity, recovery, refuge, sharing
+split_here"This truck was headed for Sector Seven, but it seems to me that The
+Barrens needs food worse. They're all half-starved down there and Sector
+Seven's been a worker warehouse for long enough to have some surplus
+pills."split_here 
+split_here --Inverted-- Selfishness, debt, poor investments, inequality
+split_here"Grab those feeder pills boys, we're due back at the warehouse with
+another batch for the Wrecker Gang promptly. Looks like someone's going
+hungry this week but it ain't us!"split_here 
+split_here Seven of Zent split_here 
+split_here ++Upright++ Reward, investment, profit, simple pleasure
+split_here"It's a simple enough idea. If I can maximize my down time then I can
+always have a way to be making progress. Some day maybe I can even
+make my way above the plate."split_here 
+split_here --Inverted-- Lacking reward, financial failure, losing comforts
+split_here"I used to dream, before the mining implant. Now I can't even get away
+from the rat-race in my sleep."split_here 
+split_here Eight of Zent split_here 
+split_here ++Upright++ Diligence, labor, education, investment
+split_here"Just a couple more bugs to clear and I can start testing the mining loops,
+where small improvements can really pay off."split_here 
+split_here --Inverted-- Perfectionism, wasted energy, mistakes, creative apathy
+split_here"Would this be best cast as an int? Maybe if I re-write the code entirely
+over again, it'll come out faster."split_here 
+split_here Nine of Zent split_here 
+split_here ++Upright++ Success, introspection, luxury, self-sufficiency
+split_here"Keep an eye on things for me, Falco-X3, I'm going to relax a bit while this
+mining hack processes through these ad-boards."split_here 
+split_here --Inverted-- Miscalculation, work imbalance, financial setbacks
+split_here"Whatever, the Shrieking Zeds can threaten us all they like. One misstep
+and they think they own us, but we're too lucrative to frag. I just wish we
+could rest for a moment between these mining runs."split_here 
+split_here Ten of Zent split_here 
+split_here ++Upright++ Providing, wealth, family, leadership
+split_here"What heights I've reached to have made it so long, and gotten so much
+done! Look at how warm and happy my family is on the screen and then
+try to tell me that they're just artificial intelligence."split_here 
+split_here --Inverted-- Loneliness, dwelling, loss
+split_here"Look at me, an old man at the end of his life with his rented family acting
+out a charade. This is all I ever amounted to. I wonder how long my corpse
+will rot before someone notices the stench of it."split_here 
+split_here Apprentice of Zent(Page of Pentacles) split_here
+split_here ++Upright++ Opportunity, new work, spiritual bounty
+split_here"I made it! Above the plate at last and finally, a chance to try out some real
+hardware. I'll make these mining rigs hum, wait and see."split_here 
+split_here --Inverted-- Disconnect from inner self, short-term focus, setbacks
+split_here"It's a risk to push these machines so hard. I've seen these capacitors blow
+out the whole motherboard under them before, but I need to increase our
+mining or I'll get fired and then it's back below the plate for me. I've heard
+horror stories about what they do to people who made it above and come
+back below... that won't be me. It can't."split_here 
+split_here Agent of Zent(Knight of Pentacles) split_here 
+split_here ++Upright++ Determination, efficiency, routine, work
+split_here"Well there's a benefit to being efficient. You end up more engaged with
+your work if you keep trying to fine tune it."split_here 
+split_here --Inverted-- Laziness, apathy, giving up, disorientation
+split_here"Another day and more of the same. Who cares?"split_here 
+split_here Supervisor of Zent(Queen of Pentacles) split_here 
+split_here ++Upright++ Practicality, nourishment, safety, protection
+split_here"We cannot save the world, but we can secure our house. Outside our walls
+the world churns and aches with the chaos of living but here we can find
+comfort and calm."split_here 
+split_here --Inverted-- Resentment, abandonment, disconnect in family
+split_here"In my home you adhere to my rules. You will not disobey me under my
+roof! You want something else out of your life? There's the door, and when
+you leave make sure you've thought your decision through because that
+door locks behind you and I won't be letting you back in."split_here 
+split_here Executive of Zent(King of Pentacles) split_here 
+split_here ++Upright++ Abundance, security, control, avarice
+split_here"With every bit of wealth I acquire, I extend my reach. As I do so, I extend
+the safety that I can provide. We are fortunate to live above the plate in
+these times, and to have enough control over our lives to keep us warm,
+fed, and secure."split_here 
+split_here --Inverted-- Selfishness, pretense, domineering, greed
+split_here"What I make, I keep. If you want anything, you'll do as I say, when I say it,
+and be glad to have what I give. And if you have a problem with that, you're
+welcome to try your luck with life below the plate, with the rest of the
+chattel."split_here 

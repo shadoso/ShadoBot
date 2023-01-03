@@ -1,14 +1,9 @@
 from pydantic import BaseModel
 from nextcord import Embed
 import asyncio
-from cogs.commands.action.functions.tenor_gif import tenor
-from time import time
+from cogs.commands.social.functions.tenor_gif import tenor
 from abs_pth import json_text
-
-
-class Languages(BaseModel):
-    pt_BR: str = "pt_BR"
-    default: str = "default"
+from standardization.language import Languages, validating
 
 
 class Action(BaseModel):
@@ -46,11 +41,8 @@ class Gif(BaseModel):
     results: list[Formats]
 
     async def embeding(self, action: str, language: str, author: str, who: str = None):
-        language = language.replace("-", "_")
         embeds = []
-
-        if language not in dir(Languages()):
-            language = Languages().default
+        language = validating(language=language)
 
         for gif in self.results:
             if who:
@@ -67,7 +59,7 @@ class Gif(BaseModel):
 
 if __name__ == "__main__":
     gif = asyncio.run(tenor("hug"))
-    root_path = ["cogs", "commands", "action", "text", "response.json"]
+    root_path = ["cogs", "commands", "social", "text", "response.json"]
     deck = ["response"]
     elements = json_text(where=root_path, commands=deck)
     embed = asyncio.run(Gif(**elements, **gif).embeding(

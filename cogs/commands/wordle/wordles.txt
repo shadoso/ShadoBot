@@ -1,0 +1,70 @@
+Sqwordle game using Hades.
+
+Character attributes:
+
+Power: combination of physical strength, magical ability, and combat skill
+
+Occupation: Each cell in the grid could contain the occupation of a character in
+Hades, such as the god of the underworld or the goddess of wisdom. Players would
+need to identify which characters have the occupation represented by each cell
+in order to solve the puzzle.
+
+Personality trait: Each cell in the grid could contain a personality trait or
+characteristic of a character in Hades, such as cunning, ambitious, or arrogant.
+Players would need to identify which characters have the personality trait
+represented by each cell in order to solve the puzzle.
+
+
+    Primary power type:
+        Physical strength
+        Magical ability
+        Other (e.g., special abilities or weapons)
+
+    Personality trait:
+        Ambitious
+        Curious
+        Kind
+        Other (e.g., compassionate, loyal, etc.)
+
+    Alignment:
+    This grid could include categories such as "good," "neutral," "evil," and
+    could help players to narrow down the mystery character based on their
+    alignment or moral compass.
+
+    Role: This grid could include categories such as "god," "goddess," "demigod,"
+    "human," "monster," "other," and could help players to narrow down the mystery
+    character based on their role in the game.
+
+
+
+Hades,
+Nyx,
+Charon,
+Chaos,
+Megaera,
+Tisiphone,
+Alecto,
+Thanatos,
+Hypnos,
+Zagreus,
+Zeus,
+Poseidon,
+Athena,
+Aphrodite,
+Artemis,
+Ares,
+Dionysus,
+Hermes,
+Demeter,
+Achilles,
+Patroclus,
+Theseus,
+Asterius,
+Dusa,
+Skelly,
+Eurydice,
+Orpheus,
+Sisyphus,
+Bouldy,
+Cerberus,
+Persephone

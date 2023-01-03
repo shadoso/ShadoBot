@@ -1,6 +1,5 @@
 import os
 import json
-import asyncio
 
 
 class Dotted(dict):
@@ -46,7 +45,7 @@ if __name__ == "__main__":
     many_files = ["cogs"]
     filename_test = filenames(many_files)
     print(filename_test)
-    js = ["app", "languages", "info.json"]
-    rs = ["language"]
+    js = ["cogs", "commands", "social", "text", "description.json"]
+    rs = ["social"]
     text_test = json_text(where=js, commands=rs)
-    print(text_test.language)
+    print(text_test.action)
