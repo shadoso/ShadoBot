@@ -2,7 +2,6 @@ from config.config import settings
 from urllib import parse, request
 import json
 import asyncio
-from time import time
 
 
 async def tenor(action: str):

@@ -1,0 +1,7 @@
+Majoris,
+Minoris,
+Prime,
+Cluster,
+Magnum,
+Super,
+Proxima,

@@ -20,15 +20,15 @@ class Page(View):
     @nextcord.ui.button(label=previous_button, style=nextcord.ButtonStyle.gray)
     async def backward(self, button: Button, interaction: Interaction):
         self.__page -= one
-        click = self.__page % len(self.__embed)
-        embed = self.__embed[click]
+        self.__page = self.__page % len(self.__embed)
+        embed = self.__embed[self.__page]
 
         self.message = await interaction.response.edit_message(embed=embed)
 
     @nextcord.ui.button(label=next_button, style=nextcord.ButtonStyle.gray)
     async def forward(self, button: Button, interaction: Interaction):
         self.__page += one
-        click = self.__page % len(self.__embed)
-        embed = self.__embed[click]
+        self.__page = self.__page % len(self.__embed)
+        embed = self.__embed[self.__page]
 
         self.message = await interaction.response.edit_message(embed=embed)

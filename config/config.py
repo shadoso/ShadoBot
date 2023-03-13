@@ -1,6 +1,5 @@
 from pydantic import BaseSettings
 from abs_pth import root_path
-import asyncio
 
 
 class Settings(BaseSettings):
@@ -13,6 +12,8 @@ class Settings(BaseSettings):
     DISCORD_KEY: str
     DISCORD_URL: str
     TENOR_API: str
+    TELEGRAM_API: str
+    TELEGRAM_CHAT_ID: str
     CKEY: str
 
     class Config:
@@ -23,4 +24,4 @@ class Settings(BaseSettings):
 settings = Settings()
 
 if __name__ == "__main__":
-    print(settings.DISCORD_URL)
+    print(settings.DISCORD_URL, settings.DISCORD_KEY)

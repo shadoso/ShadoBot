@@ -7,7 +7,7 @@ import nextcord
 from view.page import Page
 
 where = ["cogs", "commands", "social", "text", "description.json"]
-command = ["social", "who", "type", "not_found"]
+command = ["social", "who", "type"]
 slash = json_text(where=where, commands=command)
 
 
@@ -32,22 +32,18 @@ class Social(commands.Cog):
 
         gif = await tenor(action=action)
 
-        if not gif:
-            await interaction.response.send_message(slash.not_found)
+        root_path = ["cogs", "commands", "social", "text", "response.json"]
+        deck = ["response"]
+        elements = json_text(where=root_path, commands=deck)
+        embed = await Gif(**elements, **gif).embeding(
+            action=action,
+            language=interaction.locale,
+            who=who,
+            author=interaction.user.name
+        )
 
-        else:
-            root_path = ["cogs", "commands", "social", "text", "response.json"]
-            deck = ["response"]
-            elements = json_text(where=root_path, commands=deck)
-            embed = await Gif(**elements, **gif).embeding(
-                action=action,
-                language=interaction.locale,
-                who=who,
-                author=interaction.user.name
-            )
-
-            view = Page(embed=embed)
-            view.message = await interaction.response.send_message(embed=embed[0], view=view)
+        view = Page(embed=embed)
+        view.message = await interaction.response.send_message(embed=embed[0], view=view)
 
 
 def setup(client):

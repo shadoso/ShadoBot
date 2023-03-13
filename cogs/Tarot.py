@@ -69,7 +69,7 @@ class Tarot(commands.Cog):
             month=str(month),
             year=str(year)
         )
-        root_path = ["cogs", "commands" "tarot", "text", "response.json"]
+        root_path = ["cogs", "commands", "tarot", "text", "response.json"]
         deck = ["response"]
         elements = json_text(where=root_path, commands=deck)
         embeds = await Deck(**elements.response).embeding(language=interaction.locale, cards=cards)

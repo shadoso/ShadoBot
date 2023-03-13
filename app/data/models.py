@@ -21,16 +21,6 @@ class Surnames(Base):
     country = Column(Enum(Country), nullable=False, primary_key=True)
 
 
-class Universe(Base):
-    __tablename__ = 'universe'
-
-    sector = Column(Enum(Sector), nullable=False, primary_key=True)
-    x = Column(Integer, nullable=False, primary_key=True)
-    y = Column(Integer, nullable=False, primary_key=True)
-    biome = Column(ARRAY(item_type=Biomes, as_tuple=True), nullable=False, primary_key=True)
-    name = Column(String, nullable=False, primary_key=True)
-
-
 class Community(Base):
     __tablename__ = 'community'
 

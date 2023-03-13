@@ -1,0 +1,47 @@
+{
+  "binomial": {
+    "default": "Draco Limax vapor cinere"
+  },
+  "name": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "discoverer": "Gr\u00e9gory (Shadoso)",
+  "image": [
+    {
+      "artist": "name",
+      "url": "url"
+    },
+    {
+      "artist": "Gr\u00e9gory (Shadoso)",
+      "url": "url"
+    }
+  ],
+  "appearance": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "home": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "skills": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "diet": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "social": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "reproduction": {
+    "pt_BR": "Drag\u00e3o Lesma",
+    "default": "Dragon Slug"
+  },
+  "investors": [
+    "Gr\u00e9gory (Shadoso)"
+  ]
+}
