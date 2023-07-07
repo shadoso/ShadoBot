@@ -1,0 +1,80 @@
+{
+  "response": {
+    "example": {
+      "pt_BR": "Exemplo de uso do comando",
+      "default": "Example of using the command"
+    },
+    "valid": {
+      "pt_BR": "Lista de escolhas validas",
+      "default": "List of valid choices"
+    },
+    "required": {
+      "pt_BR": "Significado dos campos",
+      "default": "Meaning of fields"
+    },
+    "returns": {
+      "pt_BR": "Exemplo de resposta",
+      "default": "Example of response"
+    },
+    "social": {
+      "name": {
+        "pt_BR": "Comando **social**",
+        "default": "**Social** command"
+      },
+      "valid": {
+        "pt_BR": "`bravo, morder, entediado, chorar, conchinha, olhar, feliz, abraçar, chutar, beijar, lamber, acariciar, cutucar, socar, tapa`",
+        "default": "`angry, bite, bored, cry, cuddle, glare, happy, hug, kick, kiss, lick, pat, poke, punch, slap`"
+      },
+      "required": {
+        "pt_BR": "Campo: **tipo** {Qual emoção ou ação você quer demonstrar}, Obrigatório: **SIM**\nCampo: **quem** {Qual usuário você quer interagir}, Obrigatório: **NÃO**",
+        "default": "Field: **type** {Which emotion or action you want to demonstrate}, Required: **YES**\nField: **who** {Which user you want to interact}, Required: **NO**"
+      },
+      "examples": [
+        {
+          "pt_BR": "**/social** `tipo:` entediado `quem:` @ShadoBot",
+          "default": "**/social** `type:` bored `who:` @ShadoBot"
+        },
+        {
+          "pt_BR": "{Seu nome de usuário} está entediado com ShadoBot\nCampo de 3 páginas com 1 URL cada",
+          "default": "{Your user name} is bored with ShadoBot\nField with 3 pages with a single URL on each"
+        },
+        {
+          "pt_BR": "**/social** `tipo:` feliz",
+          "default": "**/social** `type:` happy"
+        },
+        {
+          "pt_BR": "Campo de 3 páginas com 1 URL cada",
+          "default": "Field with 3 pages with a single URL on each"
+        }
+      ]
+    },
+    "ship": {
+      "name": {
+        "pt_BR": "Comando **Casal**",
+        "default": "**Ship** command"
+      },
+      "required": {
+        "pt_BR": "Campo: **paixonite** {A pessoa que você tem uma quedinha}, Obrigatório: **SIM**\nCampo: **quem** {Caso você queira ver a compatibilidade entre 2 usuários}, Obrigatório: **NÃO**",
+        "default": "Field: **crush** {The person you have a little crush on}, Required: **YES**\nField: **who** {If you want to see compatibility between 2 users}, Required: **NO**"
+      },
+      "examples": [
+        {
+          "pt_BR": "**/casal** `paixonite:` @ShadoBot",
+          "default": "**/ship** `crush:` @ShadoBot"
+        },
+        {
+          "pt_BR": "Compatibilidade do casal: 89.96%\n{Seu nome de usuário} + ShadoBot\nEsta é a vida real? Isso é apenas fantasia? Como pode existir um casal tão incrivel assim?\nURL",
+          "default": "Couple compatibility: 89.96%\n{Your user name} + ShadoBot\nIs this the real life? Is this just fantasy? How can there be such an amazing couple?\nURL"
+        },
+        {
+          "pt_BR": "**/casal** `paixonite:` @ShadoBot `quem:` @AlgumAmigo",
+          "default": "**/ship** `crush:` @ShadoBot `who:` @AnyFriend"
+        },
+        {
+          "pt_BR": "Compatibilidade do casal: 21.52%\n{Nome de algum amigo} + ShadoBot\nForçando a barra da pra falar que se conhecem\nURL",
+          "default": "Couple compatibility: 21.52%\n{Name of a friend } + ShadoBot\nPushing it we can say they know each other\nURL"
+        }
+      ]
+    }
+  }
+}

@@ -1,162 +1,173 @@
 {
   "title": {
-    "pt_BR": "Compatibilidade do casal: ",
-    "default": "Couple compatibility: "
+    "default": "Couple compatibility: ",
+    "es_ES": "Compatibilidad de pareja: ",
+    "fr": "Compatibilité de couple: ",
+    "pt_BR": "Compatibilidade do casal: "
   },
-  "response": [
-    {
-      "key": 0,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+  "credit": {
+    "default": "**Digital art made by: **",
+    "es_ES": "**Arte digital creada por: **",
+    "fr": "**Art numérique créé par: **",
+    "pt_BR": "**Arte digital feita por: **"
+  },
+  "artist": "[**`Isabelle (Bell)`**](https://www.instagram.com/poferim/)",
+  "url": {
+    "0": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "4": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "9": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "14": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "19": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "24": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "29": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "34": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "39": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "44": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "49": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "54": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "59": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "64": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "69": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "74": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "79": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "84": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "89": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "94": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "99": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png",
+    "100": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png"
+  },
+  "text": {
+    "0": {
+      "default": "It went south, you are as compatible as water and oil.",
+      "es_ES": "Se complicó, sois tan compatibles como el agua y el aceite.",
+      "fr": "Ça a merdé, vous êtes aussi compatibles que l'eau et l'huile.",
+      "pt_BR": "Deu ruim, vocês são tão compatíveis quanto água e óleo."
     },
-    {
-      "key": 4,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "4": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Vocês têm mais chance de serem atingidos por um raio do que de ter um relacionamento saudável."
     },
-    {
-      "key": 9,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "9": {
+      "default": "The universe is conspiring against you, the compatibility is so low that even the stars are laughing.",
+      "es_ES": "El universo está conspirando en su contra, la compatibilidad es tan baja que incluso las estrellas se están riendo.",
+      "fr": "L'univers conspire contre vous, la compatibilité est si faible que même les étoiles se moquent de vous.",
+      "pt_BR": "O universo está conspirando contra vocês, a compatibilidade é tão baixa que até os astros estão rindo."
     },
-    {
-      "key": 14,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "14": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como uma piada sem graça, às vezes você ri, outras vezes só finge que entendeu."
     },
-    {
-      "key": 19,
-      "text": {
-        "pt_BR": "Puts acho que nem amizade rola...",
-        "default": "Edit"
-      }
+    "19": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Compatibilidade no estilo \"gato e rato\", um nunca vai entender o outro, mas às vezes é divertido perseguir."
     },
-    {
-      "key": 24,
-      "text": {
-        "pt_BR": "Forçando a barra da pra falar que se conhecem",
-        "default": "Pushing it we can say they know each other"
-      }
+    "24": {
+      "default": "The compatibility is not the worst, but you can't expect everything to be a bed of roses, sometimes it's more like a bed of nails",
+      "es_ES": "La compatibilidad no es la peor, pero no puedes esperar que todo sea un lecho de rosas, a veces es más como un camino de espinas",
+      "fr": "La compatibilité n'est pas la pire, mais on ne peut pas s'attendre à ce que tout soit un lit de roses, parfois c'est plus comme un chemin de croix",
+      "pt_BR": "A compatibilidade não é das piores, mas não dá pra esperar que tudo seja um mar de rosas, às vezes é mais um mar de lama."
     },
-    {
-      "key": 29,
-      "text": {
-        "pt_BR": "O que separa isso de uma amizade é o último pedaço de pizza",
-        "default": "Edit"
-      }
+    "29": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Vocês são como um casal de filme de terror, dá pra tentar, mas o final pode ser bem assustador."
     },
-    {
-      "key": 34,
-      "text": {
-        "pt_BR": "Apenas amigos",
-        "default": "Edit"
-      }
+    "34": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é média, como pizza com abacaxi, algumas pessoas gostam, outras odeiam, mas dá pra sobreviver."
     },
-    {
-      "key": 39,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "39": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como uma montanha-russa, tem altos e baixos, mas no final das contas, a aventura vale a pena."
     },
-    {
-      "key": 44,
-      "text": {
-        "pt_BR": "Preparem-se para encrenca! encrenca em dobro!",
-        "default": "Edit"
-      }
+    "44": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como um jardim, algumas plantas crescem bem juntas, outras precisam de espaço, mas com cuidado e paciência, tudo pode florescer."
     },
-    {
-      "key": 49,
-      "text": {
-        "pt_BR": "Sem dúvidas melhores amigos!!",
-        "default": "Edit"
-      }
+    "49": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é boa, como batata frita e ketchup, não é perfeito, mas é difícil errar."
     },
-    {
-      "key": 54,
-      "text": {
-        "pt_BR": "Além dos vales da amizade, BRODERAGEM!!",
-        "default": "Edit"
-      }
+    "54": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como um vídeo game, alguns níveis são fáceis, outros são difíceis, mas juntos vocês podem chegar até o fim."
     },
-    {
-      "key": 59,
-      "text": {
-        "pt_BR": "Sou fofoqueiro mesmo, são amigos com benefícios!!",
-        "default": "Edit"
-      }
+    "59": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como um jogo de tabuleiro, algumas peças se encaixam bem, outras nem tanto, mas dá pra jogar junto e se divertir."
     },
-    {
-      "key": 64,
-      "text": {
-        "pt_BR": "Um passarinho me contou que estão ficando...",
-        "default": "Edit"
-      }
+    "64": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como um bom churrasco, pode ter alguns pedaços que não são os seus favoritos, mas o resultado final é delicioso."
     },
-    {
-      "key": 69,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "69": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como uma viagem de carro, às vezes o caminho é longo e cansativo, mas a paisagem é linda e vale a pena chegar ao destino."
     },
-    {
-      "key": 74,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "74": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Edit"
     },
-    {
-      "key": 79,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "79": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Vocês são como um par de óculos, ajudando um ao outro a ver o mundo de forma mais clara e brilhante."
     },
-    {
-      "key": 84,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "84": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Vocês são como um par de luvas, se encaixam tão bem que é difícil imaginar um sem o outro."
     },
-    {
-      "key": 89,
-      "text": {
-        "pt_BR": "Esta é a vida real? Isso é apenas fantasia? Como pode existir um casal tão incrivel assim?",
-        "default": "Is this the real life? Is this just fantasy? How can there be such an amazing couple?"
-      }
+    "89": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como um abraço quentinho em um dia frio, confortável e reconfortante."
     },
-    {
-      "key": 94,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "94": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "Vocês são como um casal de velhinhos, juntos há tanto tempo que sabem tudo um sobre o outro e ainda se amam."
     },
-    {
-      "key": 99,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "99": {
+      "default": "Edit",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "A compatibilidade é como uma estrada reta e livre de obstáculos, levando vocês a um futuro brilhante juntos."
     },
-    {
-      "key": 100,
-      "text": {
-        "pt_BR": "Edit",
-        "default": "Edit"
-      }
+    "100": {
+      "default": "You are so compatible that even the stars align for you, it's a fairy tale love.",
+      "es_ES": "Sois tan compatibles que incluso las estrellas se alinean para vosotros, es un amor de cuento de hadas.",
+      "fr": "Vous êtes tellement compatibles que même les étoiles s'alignent pour vous, c'est un amour de conte de fées.",
+      "pt_BR": "Vocês são tão compatíveis que até as estrelas se alinham para vocês, é um amor de conto de fadas."
     }
-  ]
+  }
 }

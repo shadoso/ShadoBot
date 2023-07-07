@@ -1,0 +1,42 @@
+{
+  "details": {
+    "name": "details",
+    "name_localizations": {
+      "pt-BR": "detalhes"
+    },
+    "description": "It provides details regarding the bot.",
+    "description_localizations": {
+      "pt-BR": "Fornece detalhes sobre o bot."
+    }
+  },
+  "ping": {
+    "name": "ping",
+    "name_localizations": {
+      "pt-BR": "ping"
+    },
+    "description": "Displays the bot's current ping.",
+    "description_localizations": {
+      "pt-BR": "Exibe o ping atual do bot."
+    }
+  },
+  "development": {
+    "name": "development",
+    "name_localizations": {
+      "pt-BR": "desenvolvimento"
+    },
+    "description": "It indicates which commands have been implemented and which ones have not.",
+    "description_localizations": {
+      "pt-BR": "Indica quais comandos foram implementados e quais não foram."
+    }
+  },
+  "subtitles": {
+    "name": "subtitles",
+    "name_localizations": {
+      "pt-BR": "legendas"
+    },
+    "description": "It displays the percentage of translated commands",
+    "description_localizations": {
+      "pt-BR": "Exibe a porcentagem de comandos traduzidos"
+    }
+  }
+}

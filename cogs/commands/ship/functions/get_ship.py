@@ -24,7 +24,7 @@ async def compatibility(who: int, crush: int):
     if first_key < key < last_key and str(key)[last_number] not in valid_numbers:
         key = str(key)[:last_number] + valid_key[str(key)[last_number]]
 
-    return [f"{percentage:.2f}", int(key)]
+    return [f"{percentage:.2f}", str(key)]
 
 
 if __name__ == "__main__":

@@ -1,48 +1,47 @@
-from abs_pth import json_text
+from absolute_path import cog_description
+from cogs.commands.social.embed import Gif
+from cogs.commands.social.functions.tenor_gif import tenor
 from nextcord import Interaction, SlashOption
 from nextcord.ext import commands
-from cogs.commands.social.functions.tenor_gif import tenor
-from cogs.commands.social.embed import Gif
-import nextcord
 from view.page import Page
+import nextcord
 
-where = ["cogs", "commands", "social", "text", "description.json"]
-command = ["social", "who", "type"]
-slash = json_text(where=where, commands=command)
+SOCIAL_SLASH = cog_description(file_path=__file__)
 
 
 class Social(commands.Cog):
     def __init__(self, client):
         self.__client = client
 
-    @nextcord.slash_command(**slash.social)
+    @nextcord.slash_command(**SOCIAL_SLASH.social)
     async def social(self,
                      interaction: Interaction,
                      action: str = SlashOption(
-                         **slash.type,
+                         **SOCIAL_SLASH.type,
                          required=True
                      ),
                      who: nextcord.Member = SlashOption(
-                         **slash.who,
+                         **SOCIAL_SLASH.who,
                          required=False
                      )
                      ):
+        allow_interaction = [interaction.user.id]
+
         if who:
+            allow_interaction.append(who.id)
             who = who.name
 
         gif = await tenor(action=action)
-
-        root_path = ["cogs", "commands", "social", "text", "response.json"]
-        deck = ["response"]
-        elements = json_text(where=root_path, commands=deck)
-        embed = await Gif(**elements, **gif).embeding(
+        embed = await Gif(**gif).social_embed(
             action=action,
             language=interaction.locale,
             who=who,
             author=interaction.user.name
         )
-
-        view = Page(embed=embed)
+        view = Page(
+            embed=embed,
+            allowed=allow_interaction
+        )
         view.message = await interaction.response.send_message(embed=embed[0], view=view)
 
 

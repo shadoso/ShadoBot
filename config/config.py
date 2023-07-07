@@ -1,5 +1,5 @@
 from pydantic import BaseSettings
-from abs_pth import root_path
+from absolute_path import list_to_path
 
 
 class Settings(BaseSettings):
@@ -17,11 +17,10 @@ class Settings(BaseSettings):
     CKEY: str
 
     class Config:
-        where = ["config", ".env"]
-        env_file = root_path(where=where)
+        env_file = list_to_path(file_path=["config", ".env"])
 
 
 settings = Settings()
 
 if __name__ == "__main__":
-    print(settings.DISCORD_URL, settings.DISCORD_KEY)
+    print(settings.CKEY)

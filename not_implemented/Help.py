@@ -3,6 +3,7 @@ from nextcord import Interaction, SlashOption
 from nextcord.ext import commands
 import nextcord
 from cogs.commands.help.embed import CogCommands
+from abs_test import cog_description
 
 where = ["cogs", "commands", "help", "text", "description.json"]
 command = ["help", "commandd"]
@@ -32,3 +33,5 @@ class Help(commands.Cog):
 
 def setup(client):
     client.add_cog(Help(client))
+
+print(cog_description(__file__))
