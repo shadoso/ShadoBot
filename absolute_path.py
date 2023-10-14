@@ -2,7 +2,10 @@ from pathlib import Path
 from json import load
 from languages.excluded_languages import exclude
 
-TEXT = "text"
+TEXT_PATH = "text"
+RESPONSE_JSON = "response.json"
+DESCRIPTION_JSON = "description.json"
+COMMANDS_PATH = "commands"
 
 
 class Dotted(dict):
@@ -37,13 +40,14 @@ def cog_list() -> list:
 
 def cog_description(file_path: Path) -> Dotted:
     path = Path(file_path)
-    return Dotted(open_json(Path(path.parent, "commands", path.stem.lower(), TEXT, "description.json")))
+    return Dotted(open_json(Path(path.parent, COMMANDS_PATH, path.stem.lower(), TEXT_PATH, DESCRIPTION_JSON)))
 
 
-def cog_response(file_path: Path) -> Dotted:
+def cog_response(file_path: Path, json_name: str = None) -> Dotted:
+    json_name = json_name if json_name else RESPONSE_JSON
     path = Path(file_path)
     invalid_translation = exclude.__getattribute__(path.parent.name)
-    response_dictionary = open_json(file_path=Path(path.parent, TEXT, "response.json"))
+    response_dictionary = open_json(file_path=Path(path.parent, TEXT_PATH, json_name))
 
     if invalid_translation:
         return Dotted(excluded_languages(dictionary=response_dictionary, exclude_list=invalid_translation))
