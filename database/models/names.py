@@ -4,7 +4,7 @@ from typing import List, Optional
 import enum
 
 # Third-party
-from sqlalchemy import ARRAY, BIGINT, DATE, Enum, ForeignKey, INTEGER, REAL, String
+from sqlalchemy import ARRAY, BIGINT, DATE, Enum, ForeignKey, INTEGER, REAL, SMALLINT, String
 
 from sqlalchemy.orm import DeclarativeBase, Mapped
 from sqlalchemy.orm import mapped_column, relationship
@@ -17,6 +17,123 @@ class Base(DeclarativeBase):
 class Gender(enum.Enum):
     female = "Female"
     male = "Male"
+
+
+class OwnerForenamesGender(Base):
+    """
+    Gender Table
+
+    Notes ----- All ARRAY-type elements are interconnected. For example, the first element in "jurisdiction" and
+    "gender" belongs to the same group, and this applies to other ARRAYS as well.
+
+    Attributes
+    ----------
+    forename : str
+        Primary Key and Foreign Key.
+    jurisdictions: List[str]
+        List of countries fullname.
+    isos: List[str]
+        List of ISO 3166-2.
+    genders: List[Enum]
+        List of genders.
+    percentages: List[float]
+        List of percentages.
+    incidences: List[int]
+        List of incidences.
+    created: DATE
+        When created.
+    last_updated: DATE
+        When updated.
+    """
+    __tablename__ = "owner_forenames_gender"
+
+    owner_id: Mapped[int] = mapped_column(ForeignKey("forenames.id"))
+    forename: Mapped[str] = mapped_column(primary_key=True)
+
+    jurisdictions: Mapped[List[str]] = mapped_column(ARRAY(String))
+    isos: Mapped[List[str]] = mapped_column(ARRAY(String))
+    genders: Mapped[List[Gender]] = mapped_column(ARRAY(Enum(Gender)))
+    percentages: Mapped[List[float]] = mapped_column(ARRAY(REAL))
+    incidences: Mapped[List[int]] = mapped_column(ARRAY(INTEGER))
+
+    created: Mapped[date] = mapped_column(DATE)
+    last_updated: Mapped[date] = mapped_column(DATE)
+
+
+class OwnerForenamesRegion(Base):
+    """
+    Region Table
+
+    Notes ----- All ARRAY-type elements are interconnected. For example, the first element in "jurisdiction" and
+    "percentages" belongs to the same group, and this applies to other ARRAYS as well.
+
+    Attributes
+    ----------
+    forename : str
+        Primary Key and Foreign Key.
+    jurisdictions: List[str]
+        List of countries fullname.
+    isos: List[str]
+        List of ISO 3166-2.
+    percentages: List[float]
+        List of percentages.
+    incidences: List[int]
+        List of incidences.
+    created: DATE
+        When created.
+    last_updated: DATE
+        When updated.
+    """
+    __tablename__ = "owner_forenames_region"
+
+    owner_id: Mapped[int] = mapped_column(ForeignKey("forenames.id"))
+    forename: Mapped[str] = mapped_column(primary_key=True)
+
+    jurisdictions: Mapped[List[str]] = mapped_column(ARRAY(String))
+    isos: Mapped[List[str]] = mapped_column(ARRAY(String))
+    percentages: Mapped[List[float]] = mapped_column(ARRAY(REAL))
+    incidences: Mapped[List[int]] = mapped_column(ARRAY(INTEGER))
+
+    created: Mapped[date] = mapped_column(DATE)
+    last_updated: Mapped[date] = mapped_column(DATE)
+
+
+class OwnerSurnamesRegion(Base):
+    """
+    Region Table
+
+    Notes ----- All ARRAY-type elements are interconnected. For example, the first element in "jurisdiction" and
+    "percentages" belongs to the same group, and this applies to other ARRAYS as well.
+
+    Attributes
+    ----------
+    surname : str
+        Primary Key and Foreign Key.
+    jurisdictions: List[str]
+        List of countries fullname.
+    isos: List[str]
+        List of ISO 3166-2.
+    percentages: List[float]
+        List of percentages.
+    incidences: List[int]
+        List of incidences.
+    created: DATE
+        When created.
+    last_updated: DATE
+        When updated.
+    """
+    __tablename__ = "owner_surnames_region"
+
+    owner_id: Mapped[int] = mapped_column(ForeignKey("surnames.id"))
+    surname: Mapped[str] = mapped_column(primary_key=True)
+
+    jurisdictions: Mapped[List[str]] = mapped_column(ARRAY(String))
+    isos: Mapped[List[str]] = mapped_column(ARRAY(String))
+    percentages: Mapped[List[float]] = mapped_column(ARRAY(REAL))
+    incidences: Mapped[List[int]] = mapped_column(ARRAY(INTEGER))
+
+    created: Mapped[date] = mapped_column(DATE)
+    last_updated: Mapped[date] = mapped_column(DATE)
 
 
 class ForenamesGender(Base):
@@ -36,39 +153,20 @@ class ForenamesGender(Base):
         Most probable gender.
     gender_percentage: float
         Most probable gender percentage.
-    jurisdictions: List[str]
-        List of countries fullname.
-    isos: List[str]
-        List of ISO 3166-2.
-    genders: List[Enum]
-        List of genders.
-    percentages: List[float]
-        List of percentages.
-    incidences: List[int]
-        List of incidences.
-    created: DATE
-        When created, DD/MM/YYYY format.
     last_updated: DATE
-        When updated, DD/MM/YYYY format.
-
+        When updated.
     """
     __tablename__ = "forenames_gender"
 
     forename: Mapped[str] = mapped_column(
         ForeignKey("forenames.forename"),
-        primary_key=True,
+        primary_key=True
     )
-    all_incidences: Mapped[Optional[int]]
-    highest_odds: Mapped[Optional[Gender]] = mapped_column(Enum(Gender))
-    gender_percentage: Mapped[Optional[float]]
 
-    jurisdictions: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    isos: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    genders: Mapped[Optional[List[Gender]]] = mapped_column(ARRAY(Enum(Gender)))
-    percentages: Mapped[Optional[List[float]]] = mapped_column(ARRAY(REAL))
-    incidences: Mapped[Optional[List[int]]] = mapped_column(ARRAY(INTEGER))
+    all_incidences: Mapped[int] = mapped_column(BIGINT)
+    highest_odds: Mapped[Gender] = mapped_column(Enum(Gender))
+    gender_percentage: Mapped[float] = mapped_column(REAL)
 
-    created: Mapped[date] = mapped_column(DATE)
     last_updated: Mapped[date] = mapped_column(DATE)
 
 
@@ -91,28 +189,25 @@ class ForenamesRegion(Base):
         List of ISO 3166-2.
     percentages: List[float]
         List of percentages.
-    incidences: List[int]
-        List of incidences.
-    created: DATE
-        When created, DD/MM/YYYY format.
     last_updated: DATE
-        When updated, DD/MM/YYYY format.
+        When updated.
 
     """
     __tablename__ = "forenames_region"
 
     forename: Mapped[str] = mapped_column(
         ForeignKey("forenames.forename"),
-        primary_key=True,
+        primary_key=True
     )
-    all_incidences: Mapped[Optional[int]]
 
-    jurisdictions: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    isos: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    percentages: Mapped[Optional[List[float]]] = mapped_column(ARRAY(REAL))
-    incidences: Mapped[Optional[List[int]]] = mapped_column(ARRAY(INTEGER))
+    all_incidences: Mapped[int] = mapped_column(BIGINT)
+    variations: Mapped[List[str]] = mapped_column(ARRAY(String))
+    similarity: Mapped[List[float]] = mapped_column(ARRAY(REAL))
 
-    created: Mapped[date] = mapped_column(DATE)
+    jurisdictions: Mapped[List[str]] = mapped_column(ARRAY(String))
+    isos: Mapped[List[str]] = mapped_column(ARRAY(String))
+    percentages: Mapped[List[float]] = mapped_column(ARRAY(REAL))
+
     last_updated: Mapped[date] = mapped_column(DATE)
 
 
@@ -135,28 +230,25 @@ class SurnamesRegion(Base):
         List of ISO 3166-2.
     percentages: List[float]
         List of percentages.
-    incidences: List[int]
-        List of incidences.
-    created: DATE
-        When created, DD/MM/YYYY format.
     last_updated: DATE
-        When updated, DD/MM/YYYY format.
+        When updated.
 
     """
     __tablename__ = "surnames_region"
 
     surname: Mapped[str] = mapped_column(
         ForeignKey("surnames.surname"),
-        primary_key=True,
+        primary_key=True
     )
-    all_incidences: Mapped[Optional[int]]
 
-    jurisdictions: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    isos: Mapped[Optional[List[str]]] = mapped_column(ARRAY(String))
-    percentages: Mapped[Optional[List[float]]] = mapped_column(ARRAY(REAL))
-    incidences: Mapped[Optional[List[int]]] = mapped_column(ARRAY(INTEGER))
+    all_incidences: Mapped[int] = mapped_column(BIGINT)
+    variations: Mapped[List[str]] = mapped_column(ARRAY(String))
+    similarity: Mapped[List[float]] = mapped_column(ARRAY(REAL))
 
-    created: Mapped[date] = mapped_column(DATE)
+    jurisdictions: Mapped[List[str]] = mapped_column(ARRAY(String))
+    isos: Mapped[List[str]] = mapped_column(ARRAY(String))
+    percentages: Mapped[List[float]] = mapped_column(ARRAY(REAL))
+
     last_updated: Mapped[date] = mapped_column(DATE)
 
 
@@ -172,36 +264,35 @@ class Forenames(Base):
     forename : str
         Primary Key.
     rate: int
-        Sum of Region + Gender table.
+        Smallint value range 0 - 10.
+    rate_description:
+        Description of rate value may auto or manual.
     region: ForenamesRegion
         Relationship with table ForenamesRegion.
     gender: ForenamesGender
         Relationship with table ForenamesGender.
-    created: DATE
-        When created, DD/MM/YYYY format.
     last_updated: DATE
-        When updated, DD/MM/YYYY format.
+        When updated.
 
     """
     __tablename__ = "forenames"
 
+    id: Mapped[Optional[int]] = mapped_column(
+        INTEGER,
+        autoincrement=True,
+        unique=True
+    )
     forename: Mapped[str] = mapped_column(
-        String(length=16),
+        String(length=20),
         primary_key=True
     )
-    rate: Mapped[Optional[int]] = mapped_column(BIGINT)
+    rate: Mapped[Optional[int]] = mapped_column(SMALLINT)
+    rate_description: Mapped[Optional[str]] = mapped_column(String(length=128))
 
-    region: Mapped["ForenamesRegion"] = relationship(
-        back_populates="forenames",
-        cascade="all, delete-orphan"
-    )
+    region: Mapped["ForenamesRegion"] = relationship(cascade="all, delete-orphan")
 
-    gender: Mapped["ForenamesGender"] = relationship(
-        back_populates="forenames",
-        cascade="all, delete-orphan"
-    )
+    gender: Mapped["ForenamesGender"] = relationship(cascade="all, delete-orphan")
 
-    created: Mapped[date] = mapped_column(DATE)
     last_updated: Mapped[date] = mapped_column(DATE)
 
 
@@ -217,27 +308,29 @@ class Surnames(Base):
     surname : str
         Primary Key.
     rate: int
-        Sum of all incidences.
+        Smallint value range 0 - 10.
+    rate_description:
+        Description of rate value may auto or manual.
     region: SurnamesRegion
         Relationship with table SurnamesRegion.
-    created: DATE
-        When created, DD/MM/YYYY format.
     last_updated: DATE
-        When updated, DD/MM/YYYY format.
+        When updated.
 
     """
     __tablename__ = "surnames"
 
+    id: Mapped[Optional[int]] = mapped_column(
+        INTEGER,
+        autoincrement=True,
+        unique=True
+    )
     surname: Mapped[str] = mapped_column(
-        String(length=16),
+        String(length=22),
         primary_key=True
     )
-    rate: Mapped[Optional[int]] = mapped_column(BIGINT)
+    rate: Mapped[Optional[int]] = mapped_column(SMALLINT)
+    rate_description: Mapped[Optional[str]] = mapped_column(String(length=128))
 
-    region: Mapped["SurnamesRegion"] = relationship(
-        back_populates="surnames",
-        cascade="all, delete-orphan"
-    )
+    region: Mapped["SurnamesRegion"] = relationship(cascade="all, delete-orphan")
 
-    created: Mapped[date] = mapped_column(DATE)
     last_updated: Mapped[date] = mapped_column(DATE)
