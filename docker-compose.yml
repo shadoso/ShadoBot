@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres
+    env_file:
+      - ./config/.env
+    restart: always  # Reinicia o serviço automaticamente em caso de falhas
+    environment:
+      POSTGRES_USER: ${DATABASE_USERNAME}
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+      POSTGRES_DB: ${DATABASE_NAME}
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data  # Persistência de dados entre execuções
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db  # Garante que o contêiner "db" (PostgreSQL) esteja rodando antes de iniciar o app
+
+volumes:
+  db_data: # Define que os dados seram salvo no db_data:/var/lib/postgresql/data
