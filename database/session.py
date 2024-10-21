@@ -1,3 +1,6 @@
+# Standard
+from contextlib import asynccontextmanager
+
 # Third-party
 from sqlalchemy.exc import OperationalError
 
@@ -5,34 +8,64 @@ from sqlalchemy.ext.asyncio import async_sessionmaker
 from sqlalchemy.ext.asyncio import create_async_engine
 
 # Local
-from database.models.names import Base
+from database.models.country import Base as Countries
+from database.models.names import Base as Names
+from database.models.numbers import Base as Numbers
+# from database.models.users import Base as Users
 
 # Configuration
 from config.config import settings as env
+
+TABLES = [Numbers, Countries, Names]
 
 engine = create_async_engine(
     url=f"postgresql+asyncpg://{env.DATABASE_USERNAME}:{env.DATABASE_PASSWORD}@{env.DATABASE_HOSTNAME}:"
         f"{env.DATABASE_PORT}/{env.DATABASE_NAME}"
 )
 session_maker = async_sessionmaker(
-    autoflush=False,
     bind=engine,
-    expire_on_commit=False,
+    autoflush=False,
+    expire_on_commit=False
 )
 
 
 async def create_tables():
     async with engine.begin() as connection:
-        await connection.run_sync(Base.metadata.create_all)
+        for table in TABLES:
+            await connection.run_sync(table.metadata.create_all)
 
 
-async def database():
-    try:
-        async with session_maker() as session:
-            yield session.begin()
+@asynccontextmanager
+async def database_session():
+    async with session_maker() as session:
+        try:
+            yield session
+        except OperationalError as database_error:
+            await session.rollback()
+            print(f"Erro de operação no banco de dados: {database_error}")
 
-    except OperationalError as database_error:
-        print(database_error)
+#EDIT
 
-    finally:
-        await session.close()
+# async def database_unique_session(user_id: int):
+#     if user_id not in active_sessions.keys():
+#         try:
+#             async with session_maker() as session:
+#                 active_sessions[user_id] = session
+#                 return session
+#
+#         except OperationalError as database_error:
+#             session = active_sessions.pop(user_id)
+#             await session.rollback()
+#             print(database_error)
+#
+#     else:
+#         return None
+#
+#
+# async def database_delete_session(user_id: int):
+#     if user_id in active_sessions.keys():
+#         session = active_sessions.pop(user_id)
+#         await session.close()
+#
+#     else:
+#         return None
