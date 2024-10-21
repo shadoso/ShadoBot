@@ -1,32 +1,30 @@
 import asyncio
+from config.constants import LAST_ELEMENT_, PERCENTAGE_
+from algorithms.formulas import x_range as get_key
+
+INTEGER_PERCENTAGE = 101
+FLOAT_PERCENTAGE = PERCENTAGE_
+STEP = -2
 
 
 async def compatibility(who: int, crush: int):
-    first_key = 0
-    half = 2
-    float_part = 100
-    percentage = 101
-    last_key = float_part
-    last_number = -1
-    valid_numbers = ["4", "9"]
-    valid_key = {
-        "0": "4", "1": "4", "2": "4", "3": "4",
-        "5": "9", "6": "9", "7": "9", "8": "9",
-    }
+    together = who + crush
+    affinity = together % INTEGER_PERCENTAGE
 
-    percentage = (who + crush) % percentage
-    floating_point = ((who / half) + (crush / half)) % float_part / float_part
-    key = percentage
+    if affinity % PERCENTAGE_ == 0:
+        return affinity, str(affinity)
 
-    if percentage < float_part:
-        percentage += floating_point
-
-    if first_key < key < last_key and str(key)[last_number] not in valid_numbers:
-        key = str(key)[:last_number] + valid_key[str(key)[last_number]]
-
-    return [f"{percentage:.2f}", str(key)]
+    else:
+        affinity_float_part = affinity + (int(str(together)[LAST_ELEMENT_::STEP]) % FLOAT_PERCENTAGE) / PERCENTAGE_
+        affinity_key = get_key(
+            max_range=PERCENTAGE_,
+            mod=5,
+            variable=affinity
+        )
+        return affinity_float_part, str(affinity_key)
 
 
 if __name__ == "__main__":
     generating = asyncio.run(compatibility(who=12345674596889, crush=3614978179655))
+    print()
     print(generating)
