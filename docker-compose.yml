@@ -2,20 +2,20 @@ version: '3.8'
 
 services:
   db:
-    image: postgres_image
-    container_name: postgres_container
+    image: postgres:latest
+    container_name: postgres_shadobot
     env_file:
       - ./config/.env
     restart: always  # Reinicia o serviço automaticamente em caso de falhas
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - /media/bismuto/Backup/DatabasePostgreSQL:/var/lib/postgresql/data  # Persistência de dados no HD de backup
 
   app:
     build: .
     image: shadobot_image
-    container_name: shadobot_container
+    container_name: shadobot
     ports:
       - "8000:8000"
     depends_on:
