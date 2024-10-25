@@ -6,11 +6,11 @@ from absolute_path import list_to_path
 
 
 class Settings(BaseSettings):
-    DATABASE_HOSTNAME: str
-    DATABASE_NAME: str
-    DATABASE_PASSWORD: str
-    DATABASE_PORT: int
-    DATABASE_USERNAME: str
+    POSTGRES_HOSTNAME: str
+    POSTGRES_DB: str
+    POSTGRES_PASSWORD: str
+    POSTGRES_PORT: int
+    POSTGRES_USER: str
     DISCORD_ID: str
     DISCORD_KEY: str
     DISCORD_URL: str
