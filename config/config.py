@@ -6,6 +6,8 @@ from absolute_path import list_to_path
 
 
 class Settings(BaseSettings):
+    SHADOBOT_AI: str
+    DOMAIN: str
     POSTGRES_HOSTNAME: str
     POSTGRES_DB: str
     POSTGRES_PASSWORD: str
