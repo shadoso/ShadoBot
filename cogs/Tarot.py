@@ -55,7 +55,6 @@ class Tarot(commands.Cog):
             day=str(day),
             month=str(month),
             year=str(year),
-
         )
         embeds = await tarot_embed_default(
             language=interaction.locale,

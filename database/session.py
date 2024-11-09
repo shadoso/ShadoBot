@@ -8,7 +8,7 @@ from sqlalchemy.ext.asyncio import async_sessionmaker
 from sqlalchemy.ext.asyncio import create_async_engine
 
 # Local
-from database.models.country import Base as Countries
+from database.models.countries import Base as Countries
 from database.models.names import Base as Names
 from database.models.numbers import Base as Numbers
 # from database.models.users import Base as Users
@@ -19,8 +19,8 @@ from config.config import settings as env
 TABLES = [Numbers, Countries, Names]
 
 engine = create_async_engine(
-    url=f"postgresql+asyncpg://{env.DATABASE_USERNAME}:{env.DATABASE_PASSWORD}@{env.DATABASE_HOSTNAME}:"
-        f"{env.DATABASE_PORT}/{env.DATABASE_NAME}"
+    url=f"postgresql+asyncpg://{env.POSTGRES_USER}:{env.DATABASE_PASSWORD}@{env.POSTGRES_HOSTNAME}:"
+        f"{env.POSTGRES_PORT}/{env.POSTGRES_DB}"
 )
 session_maker = async_sessionmaker(
     bind=engine,

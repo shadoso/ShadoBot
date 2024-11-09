@@ -1,0 +1,19 @@
+from algorithms.formulas import prime_list
+DEFAULT_ = "default"
+DESCRIPTION_ = "description"
+EMPTY_ = ""
+ENCODED_UTF_8_ = "utf-8"
+HEXADECIMAL_ = 16
+KEYWORDS_ = "keywords"
+KEYWORD_ = "keyword"
+NAME_ = "name"
+SHADOBOT_ = "shadobot"
+TEXT_ = "text"
+TOKEN_ = "token"
+URL_ = "url"
+LAST_ELEMENT_ = -1
+FIRST_ELEMENT_ = 0
+PERCENTAGE_ = 100
+PRIME_101 = prime_list(547)
+EXP_ = {index: (11 * prime + index * 5) ** 2 + prime * 137 for index, prime in enumerate(PRIME_101)}
+MONEY_SYMBOL_ = {0: "", 3: "K", 6: "M", 9: "B", 12: "T", 15: "Qa", 18: "Qi"}

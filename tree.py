@@ -1,8 +1,8 @@
 import os
-from absolute_path import cog_list
 
 IGNORE_DIRS = ["venv", ".git", ".idea", "__pycache__", ".gitignore", "creatures",
-               "tree.py"]  # adicione quantos diretórios quiser aqui
+               "tree.py", "templates", "features", "embed_recovery", "creative_zone",
+               "errors", "not_implemented", "old_not_in_use"]  # adicione quantos diretórios quiser aqui
 
 
 def print_directory_tree(startpath, prefix='', print_files=False):
@@ -29,4 +29,4 @@ def print_directory_tree(startpath, prefix='', print_files=False):
             print(new_prefix + entry.name)
 
 
-print_directory_tree('/home/shadoso/PycharmProjects/ShadoBot', print_files=True)
+print_directory_tree('/home/bismuto/PycharmProjects/ShadoBot', print_files=True)

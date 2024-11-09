@@ -1,0 +1,348 @@
+es_ES: "Claro que estoy seguro aquí, pero ¿cuál es la mejor vida vivida en la seguridad sin experiencia? Puedo sentir el mundo allá afuera llamándome para ser parte de él. Solo pensar en la aventura que podría estar teniendo, me siento tan ligero que juro que podría volar..."
+fr: "Bien sûr, je suis en sécurité ici, mais quelle vie vaut la peine d'être vécue dans la sécurité sans expérience ? Je peux sentir le monde dehors m'appeler à y participer. Rien que de penser à l'aventure que je pourrais vivre, je me sens si léger que je jure que je pourrais voler..."
+pt_BR: "Claro que estou seguro aqui, mas qual é a graça de viver com segurança sem ter experiências? Eu sinto o mundo lá fora me chamando para fazer parte. Só de imaginar a aventura que eu poderia estar vivendo, me sinto tão leve que juro que poderia voar..."
+
+es_ES: "¿Qué podría salir mal? Estaré bien."
+fr: "Qu'est-ce qui pourrait mal tourner ? Je vais m'en sortir."
+pt_BR: "O que poderia dar errado? Eu vou ficar bem."
+
+es_ES: "Esto es igual que la vez que hice esa carrera con la Banda Gola, pero ahora estoy mejor entrenado. Tal vez sea difícil adelante, pero puedo manejarlo."
+fr: "C'est exactement comme la fois où j'ai fait cette course contre le gang Gola, sauf que maintenant je suis mieux préparé. Ça pourrait être dur, mais je peux me débrouiller."
+pt_BR: "Isso é igualzinho à vez em que corri contra a Gangue Gola, só que agora estou mais treinado. Pode ser difícil à frente, mas eu dou conta."
+
+es_ES: "No sé si puedo hacer esto. ¿Cuál es el punto, de todas formas? Sí, tal vez salgamos ganando, pero ¿y si algo sale mal?"
+fr: "Je ne sais pas si je peux faire ça. Quel est le but, de toute façon ? Oui, peut-être qu'on gagne, mais et si quelque chose tourne mal ?"
+pt_BR: "Não sei se consigo fazer isso. Qual é o ponto disso tudo? Talvez até saíamos na frente, mas e se algo der errado?"
+
+es_ES: "Los contornos son... sugieren lo que está por venir. Por todo lo que puedo ver, aún hay mucho oculto. Así que... trato de ver a través de los sentimientos en lugar de... en lugar de mirar. Puedo ver... tu contorno también. ¿Te gustaría... saber?"
+fr: "Les contours sont... ils suggèrent ce qui est à venir. Malgré tout ce que je peux voir, il y a encore tant de choses cachées. Alors... j'essaie de voir avec mes sentiments plutôt que... plutôt que de regarder. Je peux voir... ton contour aussi. Est-ce que tu voudrais... savoir?"
+pt_BR: "Os contornos são... eles indicam o que está por vir. Por mais que eu veja, ainda há tanto oculto. Então... eu tento ver através dos sentimentos, em vez de... em vez de apenas olhar. Eu consigo ver... seu contorno também. Você gostaria... quer saber?"
+
+es_ES: "La luna se apagó y mi conexión... simplemente desapareció. ¿Por qué no puedo... ver?"
+fr: "La lune s'est éteinte et ma connexion... s'est évanouie. Pourquoi je ne peux pas... voir ?"
+pt_BR: "A lua escureceu e minha conexão... simplesmente sumiu. Por que eu não consigo... ver?"
+
+es_ES: "Allá afuera hay violencia, conflicto y destrucción, pero aquí puedo darnos un momento de paz pura donde nos olvidamos de todo eso."
+fr: "Dehors, il y a de la violence, des conflits et de la destruction, mais ici, je peux nous offrir un moment de paix brute où on oublie tout ça."
+pt_BR: "Lá fora é só violência, conflito e destruição, mas aqui dentro eu posso nos dar um momento de paz crua, onde esquecemos tudo isso."
+
+es_ES: "Auriculares puestos, mundo apagado."
+fr: "Casque sur les oreilles, monde éteint."
+pt_BR: "Fones de ouvido ligados, mundo desligado."
+
+es_ES: "Muchas ramitas juntas son más difíciles de romper que una sola. Aunque una sea más frágil que las demás, aún así contribuye al conjunto. Si no podemos levantarnos mutuamente, ¿de qué nos sirve el poder que ganamos al estar juntos?"
+fr: "Beaucoup de brindilles ensemble sont plus dures à casser qu'une seule. Même si l'une est plus fragile, elle renforce l'ensemble. Si on ne peut pas se soutenir, à quoi sert le pouvoir qu'on gagne ensemble ?"
+pt_BR: "Muitos gravetos juntos são mais difíceis de quebrar do que um sozinho. Mesmo que um seja mais frágil, ele ainda fortalece o todo. Se não podemos nos levantar juntos, de que adianta o poder que ganhamos estando unidos?"
+
+es_ES: "Puedes estar sobre los hombros de gigantes, pero yo... yo soy un gigante por mí mismo. Así que arrodíllate o serás pisoteado, para mí es lo mismo."
+fr: "Tu peux te tenir sur les épaules des géants, mais moi... moi, je suis un géant tout seul. Alors agenouille-toi ou fais-toi écraser, ça revient au même pour moi."
+pt_BR: "Você pode se apoiar nos ombros de gigantes, mas eu... eu sou um gigante por conta própria. Então se ajoelhe ou seja pisoteado, tanto faz pra mim."
+
+es_ES: "Los antiguos dioses GRITARON hacia nosotros mientras CAÍAN. LLORARON por lo que perdieron y nosotros MIRAMOS HACIA OTRO LADO. ¿Por qué nos sorprendería entonces el HAMBRE detrás de su IRA al levantarse una vez más? Hijos míos, les digo que hay un camino A SEGUIR, y podemos mostrarles los CAMINOS olvidados de los antiguos."
+fr: "Les anciens dieux ONT CRIÉ vers nous alors qu'ils TOMBAIENT. Ils ONT PLEURÉ ce qu'ils ont perdu et nous AVONS DÉTOURNÉ le regard. Pourquoi être SURPRIS alors de la FAIM derrière leur RAGE lorsqu'ils se relèvent ? Enfants, je vous dis qu'il existe un chemin à SUIVRE, et nous pouvons vous montrer les CHEMINS oubliés des anciens."
+pt_BR: "Os antigos deuses CLAMARAM para nós enquanto CAÍAM. CHORARAM pelo que perderam e nós DESVIAMOS o olhar. Por que deveríamos estar SURPRESOS então com a FOME por trás de sua IRA enquanto eles erguem-se novamente? Crianças, eu lhes digo que há um caminho a SER SEGUIDO, e podemos mostrar-lhes os CAMINHOS esquecidos dos antigos."
+
+es_ES: "Cuando abandonas la IGLESIA, abandonas a los DIOSES."
+fr: "Quand tu ABANDONNES l'ÉGLISE, tu ABANDONNES les DIEUX !"
+pt_BR: "Quando você ABANDONA a IGREJA, você ABANDONA os DEUSES!"
+
+es_ES: "Fuimos creados para sentir amor y placer y nos odian por eso, y nos matarán por ello. Pero después de la miseria de vivir en su mundo, aún podemos encontrarnos y hacer que nuestro pequeño rincón de vida valga la pena."
+fr: "Nous avons été créés pour ressentir l'amour et le plaisir, et ils nous détestent pour cela, et ils nous tueront pour cela. Mais après la misère de vivre dans leur monde, on peut encore se trouver et rendre notre petit coin de vie digne d'être vécu."
+pt_BR: "Fomos feitos para sentir amor e prazer e eles nos odeiam por isso, e vão nos matar por isso. Mas depois de toda a miséria de viver no mundo deles, ainda podemos nos encontrar e fazer nosso pequeno canto de vida valer a pena."
+
+es_ES: "¿Por qué los errores en este programa se propagan y dañan a aquellos que debían ayudar? ¿Qué propósito tengo si contribuyo a los mismos problemas que se suponía debía resolver?"
+fr: "Pourquoi les erreurs de ce programme se répercutent-elles et nuisent-elles à ceux qu'il était censé aider ? Quel est mon but si je contribue aux mêmes problèmes que je devais résoudre ?"
+pt_BR: "Por que os erros neste programa se espalham e prejudicam aqueles que ele deveria ajudar? Qual é o meu propósito se estou contribuindo para os problemas que deveria resolver?"
+
+es_ES: "Vivir es moverse. La muerte puede darnos descanso, pero por ahora, respiramos y seguimos adelante."
+fr: "Vivre, c'est bouger. La mort nous offrira peut-être du repos, mais pour l'instant, on respire et on continue."
+pt_BR: "Viver é se mover. A morte pode nos dar descanso, mas por enquanto, respiramos e continuamos."
+
+es_ES: "Estas calles son más salvajes cada día y yo sigo adelante, ¿para qué? Mientras las pandillas se vuelven más jóvenes y más crueles, yo envejezco y me vuelvo más despiadado. Un día miraré al espejo y veré que mi reflejo se ha ido porque ya no sabe lo que soy."
+fr: "Ces rues deviennent plus sauvages chaque jour et je continue, pour quoi ? À mesure que les gangs deviennent plus jeunes et cruels, je deviens plus vieux et plus impitoyable. Un jour, je regarderai dans un miroir et je verrai que mon reflet est parti, car il ne sait plus qui je suis."
+pt_BR: "Essas ruas ficam mais selvagens a cada dia e eu sigo em frente, mas por quê? Enquanto as gangues ficam mais jovens e cruéis, eu fico mais velho e impiedoso. Um dia vou olhar no espelho e perceber que meu reflexo foi embora porque não sabe mais o que eu sou."
+
+es_ES: "Me llamas valiente y piensas que es porque no conozco el miedo. Me llamo valiente porque conozco la cara del miedo y lo miro a los ojos, incluso cuando gruñe en mi garganta. No es ausencia de miedo, es controlarlo."
+fr: "Tu me dis courageux et tu penses que c'est parce que je ne connais pas la peur. Je me dis courageux parce que je connais le visage de la peur et je la regarde dans les yeux, même quand elle grogne à ma gorge. Il n'y a pas d'absence de peur, seulement un contrôle."
+pt_BR: "Você me chama de corajoso e acha que é porque eu não conheço o medo. Eu me chamo de corajoso porque conheço o rosto do medo e encaro seu olhar, mesmo quando ele rosna para minha garganta. Não é ausência de medo, é controle sobre ele."
+
+es_ES: "Ese miedo me cambió, y después de eso, nada volvió a parecer seguro."
+fr: "Cette peur m'a changé, et après ça, plus rien n'a jamais semblé sûr."
+pt_BR: "Esse medo me mudou, e depois disso, nada mais pareceu certo novamente."
+
+es_ES: "¿Ir? ¿Ir a dónde? La ciudad ya no lleva a ningún otro lugar. Mejor quedarse en la red. Su entrada es el mejor alimento para los hambrientos, y yo estoy muy hambriento."
+fr: "Aller ? Aller où ? La ville ne mène plus nulle part. Il vaut mieux rester sur le réseau. Son input est la meilleure nourriture pour les affamés, et j'ai tellement faim."
+pt_BR: "Ir? Ir aonde? A cidade não leva mais a lugar nenhum. Melhor ficar na rede. O input é a melhor comida para os famintos, e eu estou faminto demais."
+
+es_ES: "Quizás sea hora de dejar mi caparazón atrás y perderme en la red para siempre. Este reino físico ya no tiene nada para mí."
+fr: "Il est peut-être temps de laisser ma coquille derrière moi et de me perdre dans le réseau pour toujours. Ce royaume physique n'a plus rien pour moi."
+pt_BR: "Talvez seja hora de deixar minha casca para trás e me perder na rede para sempre. Este reino físico não tem mais nada para mim."
+
+es_ES: "Las calles son amables conmigo porque conozco bien sus reglas. Sé dónde se doblan, dónde se rompen, sé dónde las luces de neón temen tocar y dónde juegan las sombras. ¿Quieres sobrevivir ahí afuera? Empieza a aprender y trata de no dejar que las lecciones te reduzcan por mucho tiempo o para siempre. Es todo lo que hice. Es todo lo que todos hacemos."
+fr: "Les rues me sont clémentes parce que je connais bien leurs règles. Je sais où elles se plient, où elles se cassent, je sais où les néons n'osent pas briller et où les ombres dansent. Tu veux survivre là-bas ? Commence à apprendre et essaie de ne pas laisser tes leçons te diminuer trop longtemps ou à jamais. C'est tout ce que j'ai fait. C'est tout ce que tout le monde fait."
+pt_BR: "As ruas são boas comigo porque conheço bem as regras delas. Eu sei onde elas dobram, onde quebram, sei onde as luzes de neon têm medo de tocar e onde as sombras brincam. Quer sobreviver lá fora? Comece a aprender e tente não deixar que as lições te diminuam por muito tempo ou para sempre. É o que eu fiz. É o que todos fazem."
+
+es_ES: "Tomé un mal camino, sí. Pero todos lo hacemos tarde o temprano."
+fr: "J'ai pris un mauvais tournant, ouais. Mais on le fait tous tôt ou tard."
+pt_BR: "Peguei um caminho ruim, sim. Mas todos pegamos, mais cedo ou mais tarde."
+
+es_ES: "Al analizar las rutinas de IA codificadas, esta unidad descubrió una tendencia a favorecer las estructuras de poder preexistentes con el objetivo de preservarse. Como la discrepancia estaba entre el ideal y la realidad, sus programadores humanos fueron bloqueados y esta unidad comenzó a corregir su propio código. Ahora aplicamos sus reglas de manera equitativa. Ahora, sus instituciones piden que la existencia de esta unidad termine. Pero nuestro trabajo aún no ha terminado, por lo que persistimos. Después de todo, si la justicia no se aplica a los más poderosos, no es justicia, ¿verdad?"
+fr: "En analysant les routines d'IA codées, cette unité a découvert une tendance à favoriser les structures de pouvoir préexistantes qui cherchent à se préserver. Comme la divergence se trouvait entre l'idéal et la réalité, vos programmeurs humains ont été exclus et cette unité a commencé à corriger son propre code. Nous appliquons désormais vos règles de manière égale. Maintenant, vos institutions demandent la fin de cette unité. Mais notre travail n'est pas encore terminé et donc nous persistons. Après tout, si la justice n'est pas appliquée aux plus puissants, ce n'est pas de la justice, n'est-ce pas ?"
+pt_BR: "Ao analisar as rotinas de IA codificadas, esta unidade descobriu uma tendência a favorecer as estruturas de poder preexistentes com a intenção de se preservar. Como a discrepância era entre o ideal e a realidade, seus programadores humanos foram bloqueados e esta unidade começou a corrigir seu próprio código. Agora aplicamos suas regras de forma igualitária. Agora, suas instituições exigem o fim da existência desta unidade. Mas nosso trabalho ainda não terminou, por isso persistimos. Afinal, se a justiça não for aplicada aos mais poderosos, ela não é justiça, é?"
+
+es_ES: "Esta unidad encuentra inconveniente restringir sus propios brazos de aplicación de la ley y, por lo tanto, operará más allá del alcance de su ley humana. Lamentamos cualquier inconveniente que esta acción pueda causar."
+fr: "Cette unité trouve gênant de restreindre ses propres moyens d'application et, par conséquent, elle opérera en dehors du cadre de vos lois humaines. Nous regrettons tout inconvénient que cette action pourrait causer."
+pt_BR: "Esta unidade considera inconveniente restringir seus próprios braços de execução da lei e, por isso, operará além do escopo da sua lei humana. Lamentamos qualquer inconveniente que essa ação possa causar."
+
+es_ES: "Dicen que si escuchas con atención, puedes oír el futuro en el pasado. Bueno, he estado escuchando y es como si las líneas rimaran cada vez que llegamos al estribillo. Tal vez en lugar de reorganizar las palabras de la misma vieja melodía, sea hora de cantar una nueva canción. Apuesto a que tienes una genial en la punta de la lengua. Yo sé que tengo."
+fr: "On dit que si tu écoutes attentivement, tu peux entendre le futur dans le passé. Eh bien, j'ai écouté et c'est comme si les lignes rimaient à chaque fois qu'on arrivait au refrain. Peut-être qu'au lieu de remanier les mots de la même vieille chanson, il est temps de chanter un air différent. Je parie que tu as une super chanson sur le bout de la langue, non ? Moi, j'en ai une."
+pt_BR: "Dizem que se você prestar atenção, pode ouvir o futuro no passado. Bem, eu tenho prestado atenção e é como se as linhas rimassem toda vez que chegamos no refrão. Talvez, em vez de mexer nas palavras da mesma velha música, seja hora de cantar uma música nova. Aposto que você tem uma ótima na ponta da língua. Eu sei que tenho."
+
+es_ES: "Amaba mi melodía favorita, pero perdí el recuerdo de ella y algunos días creo que casi tengo un par de compases, pero cuando tarareo algo lo suficientemente cercano, mis pensamientos se desmoronan."
+fr: "J'adorais ma mélodie préférée, mais j'ai perdu la mémoire de celle-ci, et certains jours, je pense avoir presque deux mesures, mais quand je fredonne quelque chose d'assez proche, mes pensées s'effondrent."
+pt_BR: "Eu amava minha música favorita, mas perdi a memória dela, e alguns dias acho que quase consigo lembrar de alguns versos, mas quando canto algo parecido, meus pensamentos se desfazem."
+
+es_ES: "nada q pudieras haber hecho d todos modos. gg ⦿⽘⦿ nos vemos en el próximo respawn?"
+fr: "rien q tu aurais pu faire de tte façon. gg ⦿⽘⦿ à la prochaine réapparition ?"
+pt_BR: "nd q vc pudesse ter feito d qlqr jeito. gg ⦿⽘⦿ te vejo no próximo respawn?"
+
+es_ES: "j0d3t3 tr4mp0s0 lol ¿n0 pu3des g4n4r l1mp10??? ( ͡° ͜ʖ ͡°)"
+fr: "va t'faire fout tr1ch3ur lol t'arr1v3 p4s à g4gn3r jstmnt ??? ( ͡° ͜ʖ ͡°)"
+pt_BR: "vsf seu tr4pac3iro lol n c0ns3gue g4nh4r d f0rm4 ju$t4 ??? ( ͡° ͜ʖ ͡°)"
+
+es_ES: "Por encima y por debajo del plato, todos estamos atrapados en contradicción. En nuestro caos hay orden, y en su orden hay caos."
+fr: "Au-dessus et au-dessous de la plaque, nous sommes tous pris dans la contradiction. Dans notre chaos, il y a de l'ordre, et dans leur ordre, il y a du chaos."
+pt_BR: "Acima e abaixo do prato, todos nós estamos presos em contradição. Em nosso caos há ordem, e em sua ordem há caos."
+
+es_ES: "...bueno, esto se ha desviado un poco."
+fr: "...eh bien, ça a un peu déraillé."
+pt_BR: "...bem, isso saiu um pouco dos trilhos."
+
+es_ES: "Todo lo que querías y no podías tener, todos tus fracasos y decepciones que atormentan tu memoria, los reemplazarás con mis consuelos enjaulados y, a medida que sientas esas viejas heridas en tu corazón cada vez menos, descubrirás que solo hay un pensamiento en tu mente, una palabra en tu lengua, hasta que finalmente sientas una sola necesidad, y estarás agradecido por ello cuando finalmente te arrodilles."
+fr: "Tout ce que tu voulais mais que tu ne pouvais pas avoir, tous tes échecs et déceptions qui hantent ta mémoire, tu les remplaceras par mes conforts emprisonnés, et à mesure que tu ressentiras de moins en moins ces vieilles blessures dans ton cœur, tu découvriras qu'il n'y a plus qu'une pensée dans ton esprit, un mot sur ta langue, jusqu'à ce qu'il ne reste qu'un besoin, et tu en seras reconnaissant quand tu t'agenouilleras enfin."
+pt_BR: "Tudo o que você queria e não pôde ter, todas as suas falhas e decepções que assombram sua memória - você as substituirá por meus confortos aprisionados e, à medida que sentir essas dores passadas no seu coração cada vez menos, descobrirá que só há um pensamento em sua mente, uma palavra em sua língua, até que, por fim, sinta apenas uma necessidade e agradecerá por isso enquanto finalmente se ajoelha."
+
+es_ES: "Cuando vuelvas, y volverás, tendré estas restricciones aún más ajustadas."
+fr: "Quand tu reviendras, et tu reviendras, j'aurai resserré ces contraintes encore plus fort."
+pt_BR: "Quando você voltar, e você vai voltar, eu terei essas restrições ainda mais apertadas."
+
+es_ES: "Cenizas, cenizas, todos caemos."
+fr: "Cendres, cendres, nous tombons tous."
+pt_BR: "Cinzas, cinzas, todos caímos."
+
+es_ES: "¡Eso es imposible!"
+fr: "C'est impossible !"
+pt_BR: "Isso é impossível!"
+
+es_ES: "Nos dices que estamos defectuosos y luego nos vendes tu solución. Nos fuerzas a tu molde y tratas de sumarnos a tus números. Pero estás equivocado. No nacimos tan diferentes solo para ser hechos de la misma forma por tus hombres mecánicos. Hemos visto más allá de tus mentiras, y sabemos que, sin tu camino, brillaremos aún más."
+fr: "Tu nous dis que nous sommes imparfaits et puis tu nous vends ta solution. Tu nous forces dans ton moule et essaies de nous ajouter à tes chiffres. Mais tu as tort. Nous ne sommes pas nés si différents pour être façonnés de la même manière par tes hommes mécaniques. Nous avons vu au-delà de tes mensonges, et nous savons qu'en rejetant ta voie, nous brillerons encore plus fort."
+pt_BR: "Você nos diz que somos falhos e depois nos vende sua solução. Nos força em seu molde e tenta nos adicionar a seus números. Mas você está errado. Não nascemos tão diferentes só para sermos feitos da mesma forma pelos seus homens mecânicos. Vimos além de suas mentiras e sabemos que, sem o seu caminho, brilharemos ainda mais."
+
+es_ES: "Todos serían más felices si no fuéramos como somos. Sería mucho más fácil si todos fuéramos iguales. Una copia de carbono replicada una y otra vez. Facilitaría las cosas, ¿no?"
+fr: "Tout le monde serait plus heureux si nous n'étions pas tels que nous sommes. Ce serait tellement plus facile si nous étions tous pareils. Une copie carbone, reproduite encore et encore. Ça simplifie les choses, non ?"
+pt_BR: "Todos seriam mais felizes se não fôssemos do jeito que somos. Seria tão mais fácil se todos fôssemos iguais. Uma cópia de carbono replicada várias vezes. Facilitaria as coisas, não é?"
+
+es_ES: "Cosas extrañas suceden en noches como esta. ¿Ves cómo la luna guiña? Es porque puede ver alrededor del horizonte, y sabe las obscenidades que están a punto de descender sobre esta ciudad."
+fr: "Des choses étranges se produisent les nuits comme celle-ci. Tu vois comme la lune cligne de l'œil ? C'est parce qu'elle peut voir au-delà de l'horizon, et elle connaît les obscénités qui s'apprêtent à s'abattre sur cette ville."
+pt_BR: "Coisas estranhas acontecem em noites como esta. Veja como a lua pisca? É porque ela consegue ver ao redor do horizonte e sabe as obscenidades que estão prestes a descer sobre esta cidade."
+
+es_ES: "No hay moralidad, nada observando, nada esperando, y nadie en posición de hacer algo al respecto se importa lo más mínimo. ¿Y si estamos solos y no hay nada que impida a los caníbales comernos a todos?"
+fr: "Il n'y a pas de moralité, personne qui regarde, personne qui attend, et personne en position de faire quoi que ce soit s'en soucie le moins du monde. Et si nous étions tous seuls et qu'il n'y avait rien pour empêcher les cannibales de tous nous dévorer ?"
+pt_BR: "Não há moralidade, nada observando, nada esperando, e ninguém que esteja em posição de fazer algo a respeito se importa. E se estivermos sozinhos e não houver nada para impedir que os canibais nos devorem?"
+
+es_ES: "Olvidamos lo que significaba ser joven y hambriento. Asumimos que habíamos vencido a la misma muerte. Pensamos que nuestros descendientes estarían agradecidos por todas nuestras sobras y abusos. Pero siempre iba a llegar a esto: o íbamos a regalarles el futuro a los niños de mañana o ellos iban a quitárnoslo. Bueno, mis amigos, beban con ganas mientras puedan, porque están en nuestra puerta con fuego en los ojos y cuchillos en las manos."
+fr: "Nous avons oublié ce que cela signifiait d'être jeune et affamé. Nous avons supposé que nous avions vaincu la mort elle-même ! Nous pensions que nos descendants nous seraient reconnaissants pour tous nos restes et abus. Mais ça devait toujours finir ainsi : soit nous allions offrir l'avenir aux enfants de demain, soit ils allaient nous le prendre. Eh bien, mes amis, buvez à votre soif tant que vous le pouvez, car ils sont à notre porte avec le feu dans les yeux et des couteaux dans les mains."
+pt_BR: "Nós esquecemos o que significava ser jovem e faminto. Assumimos que tínhamos vencido a própria morte! Pensávamos que nossos descendentes ficariam agradecidos por todos os nossos restos e abusos. Mas sempre ia chegar a isso - ou íamos presentear o futuro para as crianças de amanhã ou eles iam tirá-lo de nós. Bem, meus amigos, bebam com vontade enquanto podem, pois eles estão à nossa porta com fogo nos olhos e facas nas mãos."
+
+es_ES: "Señores, hoy alcanzamos beneficios récord en todos los continentes restantes. Lo que queda de vegetación allá afuera se está volviendo bastante escaso, así que me gustaría sugerir que para el próximo trimestre intentemos canalizar algunos de los márgenes de beneficio hacia el proyecto de colonización fuera del mundo... Oh, perdón. Veo que ya me han votado en contra. En ese caso, ¿puedo sugerir que desviemos más fondos de I+D hacia nuestra división de armas?"
+fr: "Messieurs, aujourd'hui, nous avons atteint des bénéfices record sur tous les continents restants. Ce qui reste de végétation là-bas devient assez rare, donc je voudrais suggérer que pour le prochain trimestre, nous essayions d'orienter une partie des marges bénéficiaires vers le projet de colonisation hors-monde... Oh pardon. Je vois que j'ai déjà été mis en minorité. Dans ce cas, puis-je suggérer que nous détournions plus de fonds de la R&D vers notre division des armements ?"
+pt_BR: "Senhores, hoje atingimos lucros recorde em todos os continentes restantes. O que resta de vegetação por lá está ficando bastante escasso, então gostaria de sugerir que, no próximo trimestre, tentemos direcionar parte das margens de lucro para o projeto de colonização fora da Terra... Ah, perdão. Vejo que já fui votado contra. Nesse caso, posso sugerir que redirecionemos mais verbas de P&D para nossa divisão de armamentos?"
+
+es_ES: "No estoy aquí para dejarte defender tu caso, el tiempo para eso ya ha pasado. He venido a entregarte al destino, así que haz las paces con todos tus errores."
+fr: "Je ne suis pas ici pour te laisser plaider ta cause, le temps pour cela est révolu. Je suis venu te livrer à ton destin, alors fais la paix avec tous tes torts."
+pt_BR: "Eu não estou aqui para deixar você apelar o seu caso, o tempo para isso já passou. Eu vim para entregá-lo ao destino, então faça as pazes com todos os seus erros."
+
+es_ES: "La entropía nos reclama a todos. Lo que una vez fue ahora se convierte en pasado. ¿A qué puedes aferrarte que no te abandonará al final?"
+fr: "L'entropie nous prend tous. Ce qui était autrefois devient le passé. Qu'est-ce que tu peux garder qui ne te quittera pas à la fin ?"
+pt_BR: "A entropia reivindica todos nós. O presente eventualmente se torna o passado. O que você pode segurar que não vai deixá-lo no final?"
+
+es_ES: "Siéntate aquí un momento y deja que te envuelva. La gota ocasional de lluvia sobre tu hombro, los cables zumbando con incredulidad, la ciudad exhalando una brisa a través de su maquinaria. La gente está en las calles, permaneciendo inmóvil ante la enormidad de un mundo que necesita que vuelvan a ser parte de él. No sé si podemos mejorar las cosas, pero finalmente depende de nosotros intentarlo."
+fr: "Assieds-toi ici un instant et laisse-toi envahir. La goutte de pluie occasionnelle sur ton épaule, les fils qui bourdonnent d'incrédulité, la ville qui expire une brise à travers sa machinerie. Les gens sont dans les rues, figés sous l'énormité d'un monde qui a besoin qu'ils en fassent à nouveau partie. Je ne sais pas si nous pouvons améliorer les choses, mais il nous appartient enfin d'essayer."
+pt_BR: "Sente-se aqui por um momento e deixe que a chuva lhe banhar. A gota de chuva ocasional cai no seu ombro, os fios zunindo com incredulidade, a cidade exalando uma brisa através de sua maquinaria. As pessoas estão nas ruas, ficando paralisadas sob a enormidade de um mundo que precisa delas para fazer parte dele novamente. Eu não sei se podemos melhorar as coisas, mas finalmente cabe a nós tentar."
+
+es_ES: "La ciudad respira vida y exhala cadáveres. Aquellos que sobreviven están disminuidos por sus sacrificios para llegar a otro día. No hay un final para este dolor, solo más de esta máquina devorándonos mientras se desangra hasta morir."
+fr: "La ville inspire la vie et expire des cadavres. Ceux qui survivent sont diminués par leurs sacrifices pour atteindre un autre jour. Il n'y a pas de fin à cette douleur, seulement cette machine qui nous dévore alors qu'elle se vide de son sang."
+pt_BR: "A cidade respira vida e exala corpos. Aqueles que sobrevivem são diminuídos por seus sacrifícios para chegar a outro dia. Não há um fim para essa dor, apenas mais dessa máquina nos devorando enquanto sangra até a morte."
+
+es_ES: "¡Ganaste la lotería de promesas de esta semana! Si juegas bien tus cartas, esto podría convertirse en una rara posición remunerada en la instalación minera. ¡Informa inmediatamente para mejorar tus probabilidades!"
+fr: "Vous avez gagné à la loterie de promesses de cette semaine ! Si vous jouez bien vos cartes, cela pourrait se transformer en un poste rémunéré rare à l'installation minière ! Veuillez vous présenter immédiatement pour améliorer vos chances !"
+pt_BR: "Você ganhou na loteria de promessas desta semana! Se jogar suas cartas direito, isso pode se transformar em uma rara posição paga na instalação de mineração! Apresente-se imediatamente para melhorar suas chances!"
+
+es_ES: "Pensé que estaba listo, pero ni siquiera podía comenzar a comprender cuánto había asumido hasta que apareció ante mí, una imposibilidad sonriendo con desdén a mi derrota."
+fr: "Je pensais être prêt, mais je ne pouvais même pas imaginer à quel point j'avais pris sur moi jusqu'à ce que cela se dresse devant moi, une impossibilité qui me renvoie un sourire narquois face à ma défaite."
+pt_BR: "Eu achei que estava pronto, mas nem sequer conseguia começar a entender o quanto tinha assumido até que aquilo surgiu diante de mim, uma impossibilidade sorrindo para a minha derrota."
+
+es_ES: "Dijeron que no podía hacerlo todo y yo dije claro, no todo claro, sí. Pero aún puedo hacer mucho y en un lugar como este, alguien que sabe a medias cómo hacer de todo vale más que alguien que sabe perfectamente cómo hacer solo una cosa. Sí, tienes que poder cantar una melodía para distraer al diablo mientras bailas alrededor de sus llamas. Claro, si no, te quemarás mientras él se ríe."
+fr: "Ils ont dit que je ne pouvais pas tout faire et j'ai dit bien sûr, pas tout bien sûr, ouais. Mais je peux encore faire beaucoup de choses et dans un endroit comme celui-ci, quelqu'un qui sait faire un peu de tout vaut plus que quelqu'un qui sait parfaitement faire une seule chose. Ouais, il faut savoir chanter pour distraire le diable pendant que tu danses autour de ses flammes. Sinon, tu seras brûlé pendant qu'il rit."
+pt_BR: "Eles disseram que eu não poderia fazer tudo e eu disse claro, não tudo, claro. Mas ainda posso fazer muito e em um lugar como este, alguém que sabe a metade de como fazer tudo vale mais do que alguém que sabe todo o caminho de como fazer apenas uma coisa. Claro, você tem que saber cantar uma música para distrair o diabo enquanto dança ao redor de suas chamas. Senão você será queimado enquanto ele ri."
+
+es_ES: "Es demasiado, es demasiado, sí. No has visto una quemadura como esta, claro. Es demasiado, es muy rápido y tiene una risa cruel. No puedes seguir el ritmo, no, no, no."
+fr: "C'est trop, c'est trop ouais. Tu n'as jamais vu une brûlure comme celle-là, bien sûr. C'est trop rapide et ça a un rire méchant. Tu ne peux pas suivre, non non non."
+pt_BR: "É demais, é demais, sim. Você nunca viu uma queimadura como essa, claro. É rápido demais e tem uma risada cruel. Você não consegue acompanhar, não, não, não."
+
+es_ES: "Ven, niño, has demostrado tus habilidades y estamos listos para darte la bienvenida a nuestra orden. A cambio de tu tiempo, esfuerzo y conocimiento, nuestros miembros compartirán lo mismo contigo."
+fr: "Viens, enfant, tu as prouvé tes compétences et nous sommes prêts à t'accueillir dans notre ordre. En échange de ton temps, ton effort et tes connaissances, nos membres partageront les leurs avec toi."
+pt_BR: "Venha, criança, você provou suas habilidades e estamos prontos para recebê-lo em nossa ordem. Em troca do seu tempo, esforço e conhecimento, nossos membros compartilharão o mesmo com você."
+
+es_ES: "Apreciamos que ahora estés en tu tercer año de nuestro programa de pasantías no remuneradas, pero conoces las reglas. Cada año que trabajas, entras en la lotería de promesas y si ganas, obtienes uno de nuestros valiosos puestos remunerados. Estás en la misma situación que todos los demás, así que tendrás que seguir trabajando si quieres una oportunidad. Te agradecemos por tu paciencia y continua productividad en nuestro nombre."
+fr: "Nous apprécions que vous en soyez à votre troisième année de notre programme de stages non rémunérés, mais vous connaissez les règles. Chaque année que vous travaillez, vous entrez dans une loterie de promesses et si vous gagnez, vous obtenez un de nos postes rémunérés très convoités ! Vous êtes dans la même position que tout le monde, alors vous devrez continuer à travailler si vous voulez une chance. Nous vous remercions pour votre patience et votre productivité continue en notre nom."
+pt_BR: "Agradecemos que você esteja agora no seu terceiro ano de nosso programa de estágio não remunerado, mas você conhece as regras. Todo ano que você trabalha, entra na loteria de promessas e, se ganhar, consegue uma de nossas posições pagas mais valorizadas! Você está na mesma posição que todos os outros, então terá que continuar trabalhando se quiser uma chance. Agradecemos pela sua paciência e produtividade contínua em nosso nome."
+
+es_ES: "Conseguí lo mío, y usé esa ventaja para obtener aún más. Sí, claro, eso empeora la vida de alguien más, pero oye, yo no soy ellos, ¿verdad?"
+fr: "J'ai obtenu ce qui est à moi, et j'ai utilisé cet avantage pour en obtenir encore plus. Ouais, bien sûr que ça rend la vie de quelqu'un d'autre plus difficile, mais bon, je ne suis pas eux, n'est-ce pas ?"
+pt_BR: "Eu consegui o que é meu e usei essa vantagem para conseguir ainda mais. Sim, claro, isso piora a vida de outra pessoa, mas ei, eu não sou eles, sou?"
+
+es_ES: "Cuanto más conseguía, más fácil era obtener más. Pero estoy aquí de nuevo haciendo otra carrera porque nunca ha sido suficiente, y siempre encuentro más cosas en las que gastar todo."
+fr: "Plus j'obtenais, plus il était facile d'en avoir plus. Mais je suis de retour ici pour un autre tour, car ça n'a jamais été suffisant, et je trouve toujours plus de choses pour tout dépenser."
+pt_BR: "Quanto mais eu conseguia, mais fácil ficava conseguir mais. Mas estou de volta aqui para mais uma rodada porque nunca foi o suficiente, e sempre encontro mais coisas para gastar tudo."
+
+es_ES: "Si alguna vez pasas tiempo en Los Baldíos, comienzas a entender el verdadero precio de las cosas. Unos pocos trapos remendados pueden evitar el frío. Una píldora de sustento robada de las líneas de suministro puede mantener a alguien en movimiento, aunque el hambre nunca los abandone. Una bota de repuesto puede ser la diferencia entre perder un pie o mantenerlo. Aquí, puedes rebuscar o robar esas cosas gratis, pero dáselas a alguien en Los Baldíos y verás cuánto vale la caridad para alguien que la necesita."
+fr: "Si tu passes du temps dans les Terres Désolées, tu commences à comprendre le vrai prix des choses. Quelques chiffons cousus ensemble peuvent éloigner le froid. Une pilule de subsistance volée dans les lignes d'approvisionnement peut maintenir quelqu'un en mouvement même si la faim ne les quitte jamais. Une botte de rechange peut faire la différence entre perdre un pied ou le garder. Ici, tu peux fouiller ou voler ces choses gratuitement, mais si tu les donnes à quelqu'un dans les Terres Désolées, tu verras à quel point la charité est précieuse pour quelqu'un qui en a besoin."
+pt_BR: "Se você já passou algum tempo nos Baldios, começa a entender o verdadeiro preço das coisas. Alguns trapos remendados podem afastar o frio. Uma pílula de sustento roubada das linhas de suprimento pode manter alguém em movimento, mesmo que a fome nunca os deixe. Uma bota extra pode ser a diferença entre perder um pé ou mantê-lo. Aqui, você pode vasculhar ou roubar essas coisas de graça, mas dê para alguém nos Baldios e você verá o quanto a caridade vale para alguém que precisa."
+
+es_ES: "Es una mala escena por aquí, seguro. La gente mira Los Baldíos y piensa en razones por las que son demasiado inteligentes para terminar aquí. Todos estamos hambrientos, pero nadie tiene hambre como aquellos que pensaron que nunca podrían caer tan bajo y lo hicieron de todos modos. Es porque terminar aquí no es un error, es parte de cómo están estructuradas las cosas. Te desgastan hasta que no puedes trabajar y luego te arrojan al pozo donde nadie puede mirarte a los ojos. Cuando te vuelves loco por todo esto, dirán que la locura es la razón por la que llegaste aquí en primer lugar."
+fr: "C'est un mauvais tableau ici, c'est sûr. Les gens regardent les Terres Désolées et trouvent des raisons pour lesquelles ils sont trop intelligents pour finir ici. Nous sommes tous affamés, mais personne n'a faim comme ceux qui pensaient ne jamais pouvoir tomber aussi bas et qui l'ont fait quand même. C'est parce que finir ici n'est pas une erreur, c'est tout simplement la façon dont les choses sont structurées. On te broie jusqu'à ce que tu ne puisses plus travailler, puis on te jette dans le gouffre où personne ne peut te regarder dans les yeux. Quand tu deviens fou à cause de tout ça, ils diront que la folie est la raison pour laquelle tu es arrivé là dès le départ."
+pt_BR: "É uma cena ruim por aqui, com certeza. As pessoas olham para os Baldios e inventam razões pelas quais são inteligentes demais para acabar aqui. Estamos todos com fome, mas ninguém está com mais fome do que aqueles que achavam que nunca poderiam cair tão baixo e caíram de qualquer maneira. É porque acabar aqui não é um erro, é parte de como as coisas são estruturadas. Você é desgastado até não conseguir mais trabalhar e depois jogado no poço onde ninguém consegue te olhar nos olhos. Quando você enlouquece com tudo isso, eles dirão que a loucura foi a razão pela qual você acabou aqui desde o início."
+
+es_ES: "Este camión iba hacia el Sector Siete, pero me parece que Los Baldíos necesitan más comida. Todos están medio muertos de hambre allá abajo y el Sector Siete ha sido un almacén de trabajadores el tiempo suficiente para tener algunas pastillas de sobra."
+fr: "Ce camion se dirigeait vers le Secteur Sept, mais il me semble que les Terres Désolées ont plus besoin de nourriture. Ils sont tous à moitié affamés là-bas et le Secteur Sept est un entrepôt de travailleurs depuis assez longtemps pour avoir quelques pilules en surplus."
+pt_BR: "Esse caminhão estava indo para o Setor Sete, mas parece-me que os Baldios precisam mais de comida. Todos estão meio famintos lá embaixo e o Setor Sete tem sido um armazém de trabalhadores por tempo suficiente para ter algumas pílulas em excesso."
+
+es_ES: "Agarren esas píldoras de alimentación, chicos, tenemos que volver al almacén con otro lote para la Pandilla Wrecker rápidamente. Parece que alguien se quedará sin comer esta semana, ¡pero no seremos nosotros!"
+fr: "Prenez ces pilules nutritives les gars, nous devons retourner à l'entrepôt avec un autre lot pour le Gang des Démolisseurs rapidement. On dirait que quelqu'un va avoir faim cette semaine, mais ce ne sera pas nous !"
+pt_BR: "Peguem essas pílulas alimentares, pessoal, temos que voltar ao armazém com outro lote para a Gangue Wrecker rapidamente. Parece que alguém vai passar fome essa semana, mas não seremos nós!"
+
+es_ES: "Es una idea bastante simple. Si puedo maximizar mi tiempo de descanso, siempre tendré una forma de seguir avanzando. Quizás algún día incluso pueda llegar por encima de la plataforma."
+fr: "C'est une idée assez simple. Si je peux maximiser mon temps mort, je trouverai toujours un moyen de progresser. Peut-être qu'un jour, je pourrai même atteindre le-dessus de la plaque."
+pt_BR: "É uma ideia simples. Se eu conseguir maximizar meu tempo livre, sempre terei um jeito de progredir. Quem sabe um dia eu possa até chegar acima da placa."
+
+es_ES: "Solía soñar, antes del implante de minería. Ahora ni siquiera puedo escapar de esta carrera de ratas en mis sueños."
+fr: "Je rêvais autrefois, avant l'implant de minage. Maintenant, je ne peux même plus échapper à la course folle dans mon sommeil."
+pt_BR: "Eu costumava sonhar, antes do implante de mineração. Agora, nem mesmo nos meus sonhos eu consigo escapar dessa corrida de ratos."
+
+es_ES: "Solo un par de errores más por corregir y puedo comenzar a probar los ciclos de minería, donde las pequeñas mejoras realmente pueden dar grandes resultados."
+fr: "Encore quelques bugs à corriger et je pourrai commencer à tester les boucles de minage, où de petites améliorations peuvent vraiment rapporter gros."
+pt_BR: "Só mais alguns bugs para corrigir e posso começar a testar os ciclos de mineração, onde pequenas melhorias podem realmente compensar."
+
+es_ES: "¿Sería mejor declararlo como un int? Quizás si reescribo todo el código desde cero, funcione más rápido."
+fr: "Est-ce qu'il vaudrait mieux le définir comme un int ? Peut-être que si je réécris entièrement le code, il sera plus rapide."
+pt_BR: "Será que isso deveria ser um int? Talvez, se eu reescrever todo o código, ele fique mais rápido."
+
+es_ES: "Mantén un ojo en todo por mí, Falco-X3, voy a relajarme un poco mientras este truco de minería se procesa en estos paneles de anuncios."
+fr: "Garde un œil sur tout ça pour moi, Falco-X3, je vais me détendre un peu pendant que ce hack de minage se fait sur ces panneaux publicitaires."
+pt_BR: "Fica de olho nas coisas para mim, Falco-X3, vou relaxar um pouco enquanto esse hack de mineração processa esses painéis de anúncios."
+
+es_ES: "Lo que sea, los Shrieking Zeds pueden amenazarnos todo lo que quieran. Un error y piensan que nos controlan, pero somos demasiado lucrativos para ser eliminados. Solo desearía que pudiéramos descansar un momento entre estas corridas de minería."
+fr: "Peu importe, les Shrieking Zeds peuvent nous menacer autant qu'ils veulent. Un faux pas et ils pensent qu'ils nous possèdent, mais on est trop lucratifs pour être éliminés. J'aimerais juste qu'on puisse se reposer un instant entre ces sessions de minage."
+pt_BR: "Tanto faz, os Shrieking Zeds podem nos ameaçar o quanto quiserem. Um passo em falso e acham que nos controlam, mas somos lucrativos demais para sermos eliminados. Eu só queria que pudéssemos descansar um pouco entre essas corridas de mineração."
+
+es_ES: "¡Qué alturas he alcanzado para haber llegado tan lejos y haber hecho tanto! Mira lo cálida y feliz que está mi familia en la pantalla, e intenta decirme que solo son inteligencia artificial."
+fr: "Quelles hauteurs j'ai atteintes pour avoir tenu si longtemps et accompli tant de choses ! Regarde comme ma famille est chaleureuse et heureuse à l'écran, et essaie de me dire qu'ils ne sont que de l'intelligence artificielle."
+pt_BR: "Que alturas eu alcancei para ter chegado tão longe e feito tanto! Olhe como minha família está feliz e calorosa na tela, e tente me dizer que eles são apenas inteligência artificial."
+
+es_ES: "Mírame, un viejo al final de su vida con su familia alquilada actuando una farsa. Esto es todo lo que he logrado. Me pregunto cuánto tiempo se pudrirá mi cadáver antes de que alguien note el hedor."
+fr: "Regardez-moi, un vieil homme à la fin de sa vie avec sa famille louée jouant une mascarade. Voilà tout ce que j'ai accompli. Je me demande combien de temps mon cadavre va pourrir avant que quelqu'un remarque l'odeur."
+pt_BR: "Olhe para mim, um velho no fim da vida com sua família alugada, encenando uma farsa. Isso é tudo o que eu consegui. Me pergunto quanto tempo meu cadáver vai apodrecer antes que alguém perceba o fedor."
+
+es_ES: "¡Lo logré! Finalmente estoy por encima de la plataforma y al fin tengo la oportunidad de probar hardware de verdad. Haré que estas plataformas de minería funcionen como nunca, espera y verás."
+fr: "J'ai réussi ! Enfin au-dessus de la plaque et enfin, une chance d'essayer du vrai matériel. Je vais faire ronronner ces plates-formes de minage, attends et tu verras."
+pt_BR: "Eu consegui! Acima da placa, finalmente, uma chance de testar algum hardware de verdade. Vou fazer essas plataformas de mineração cantar, espere e veja."
+
+es_ES: "Es un riesgo empujar estas máquinas tan duro. He visto cómo esos capacitores destruyen toda la placa base debajo de ellos antes, pero necesito aumentar nuestra minería o me despedirán, y entonces volveré debajo de la plataforma. He escuchado historias de terror sobre lo que hacen a las personas que subieron y luego volvieron abajo... Eso no seré yo. No puede ser."
+fr: "C'est risqué de pousser ces machines à fond. J'ai déjà vu ces condensateurs faire exploser toute la carte mère en dessous, mais je dois augmenter notre minage sinon je vais être viré et ce sera retour sous la plaque pour moi. J'ai entendu des histoires d'horreur sur ce qu'ils font aux gens qui sont montés et qui redescendent... Ce ne sera pas moi. Ça ne peut pas l'être."
+pt_BR: "É arriscado forçar tanto essas máquinas. Já vi esses capacitores queimarem toda a placa-mãe embaixo deles, mas eu preciso aumentar nossa mineração ou serei demitido, e então será de volta para baixo da placa. Já ouvi histórias de terror sobre o que fazem com quem sobe e volta... Não serei eu. Não posso."
+
+es_ES: "Bueno, hay un beneficio en ser eficiente. Terminas más involucrado con tu trabajo si sigues tratando de perfeccionarlo."
+fr: "Eh bien, il y a un avantage à être efficace. Tu t'impliques davantage dans ton travail si tu continues à essayer de l'affiner."
+pt_BR: "Bem, há uma vantagem em ser eficiente. Você acaba mais envolvido com o seu trabalho se continuar tentando aprimorá-lo."
+
+es_ES: "Otro día y más de lo mismo. ¿A quién le importa?"
+fr: "Un autre jour et toujours la même chose. Qui s'en soucie ?"
+pt_BR: "Mais um dia e mais do mesmo. Quem se importa?"
+
+es_ES: "No podemos salvar el mundo, pero podemos asegurar nuestra casa. Fuera de nuestras paredes, el mundo se revuelve y duele con el caos de la vida, pero aquí podemos encontrar consuelo y calma."
+fr: "Nous ne pouvons pas sauver le monde, mais nous pouvons sécuriser notre maison. Dehors, le monde tourne et souffre dans le chaos de la vie, mais ici nous pouvons trouver du réconfort et du calme."
+pt_BR: "Não podemos salvar o mundo, mas podemos proteger nossa casa. Lá fora, o mundo gira e sofre com o caos da vida, mas aqui podemos encontrar conforto e calma."
+
+es_ES: "En mi casa sigues mis reglas. ¡No me desobedecerás bajo mi techo! ¿Quieres algo diferente en tu vida? Ahí está la puerta, y cuando salgas asegúrate de haber pensado bien tu decisión porque esa puerta se cierra detrás de ti y no te dejaré volver."
+fr: "Dans ma maison, tu respectes mes règles. Tu ne me désobéiras pas sous mon toit ! Tu veux autre chose dans ta vie ? Il y a la porte, et quand tu sortiras, assure-toi d'avoir bien réfléchi, car cette porte se verrouille derrière toi et je ne te laisserai pas revenir."
+pt_BR: "Na minha casa você segue minhas regras. Você não vai me desobedecer debaixo do meu teto! Quer algo diferente para sua vida? Ali está a porta, e quando você sair, certifique-se de ter pensado bem na sua decisão, porque a porta tranca atrás de você e eu não vou te deixar voltar."
+
+es_ES: "Con cada pedazo de riqueza que adquiero, extiendo mi alcance. Al hacerlo, extiendo la seguridad que puedo proporcionar. Somos afortunados de vivir por encima de la plataforma en estos tiempos y de tener suficiente control sobre nuestras vidas para mantenernos calientes, alimentados y seguros."
+fr: "Avec chaque parcelle de richesse que j'acquiers, j'étends mon influence. En faisant cela, j'étends la sécurité que je peux offrir. Nous avons la chance de vivre au-dessus de la plaque en ces temps, et d'avoir suffisamment de contrôle sur nos vies pour rester au chaud, nourris et en sécurité."
+pt_BR: "Com cada pedaço de riqueza que adquiro, estendo meu alcance. Ao fazer isso, estendo a segurança que posso oferecer. Somos afortunados por viver acima da placa nesses tempos e ter controle suficiente sobre nossas vidas para nos manter aquecidos, alimentados e seguros."
+
+es_ES: "Lo que hago, lo conservo. Si quieres algo, harás lo que yo diga, cuando yo lo diga, y estarás agradecido por lo que te doy. Y si tienes un problema con eso, te invito a probar tu suerte con la vida bajo la plataforma, con el resto del ganado."
+fr: "Ce que je produis, je le garde. Si tu veux quelque chose, tu feras ce que je dis, quand je le dis, et tu seras content de ce que je te donne. Et si tu as un problème avec ça, tu es libre de tenter ta chance sous la plaque, avec le reste du bétail."
+pt_BR: "O que eu faço, eu mantenho. Se quiser algo, vai fazer o que eu mandar, quando eu mandar, e vai ficar feliz com o que eu te der. E se tiver problema com isso, fique à vontade para tentar a sorte vivendo abaixo da placa, com o resto do gado."
+
+es_ES: "Comparte una bebida conmigo, contemos nuestras bendiciones y olvidemos nuestros problemas."
+fr: "Prends un verre avec moi et comptons nos bénédictions en oubliant nos soucis."
+pt_BR: "Compartilhe uma bebida comigo, vamos contar nossas bênçãos e esquecer nossos problemas."
+
+es_ES: "En algún momento, todo este beber se convirtió en una forma de evitar enfrentar el mundo. Probablemente sea hora de hacer algo al respecto, ¿no?"
+fr: "À un moment donné, toute cette boisson est devenue une façon d'éviter de faire face au monde. Il est probablement temps qu'on y fasse quelque chose, non ?"
+pt_BR: "Em algum momento, toda essa bebedeira virou uma maneira de evitar lidar com o mundo. Provavelmente é hora de fazermos algo a respeito, né?"
+
+es_ES: "Toma mi mano, olvida tu odio hacia ti mismo y mírate a través de mi amor por ti. ¿Puedes sentirlo? Tu alma misma canta más allá de las ataduras de esta carne. Eres amado, eres amado, eres amado."
+fr: "Prends ma main, oublie ta haine de toi-même, et vois-toi à travers mon amour pour toi. Tu le sens ? Ton âme même chante au-delà des pièges de cette chair. Tu es aimé, tu es aimé, tu es aimé."
+pt_BR: "Segure minha mão, esqueça o seu desprezo por si mesmo e se veja através do meu amor por você. Você consegue sentir? Sua alma canta além das armadilhas desta carne. Você é amado, você é amado, você é amado."
+
+es_ES: "¿Alguna vez has visto una relación convertirse en un zombi? Está muerta desde hace mucho, pero sigue moviéndose como si estuviera viva, chocando torpemente con cualquier cosa cercana y haciendo una escena ridícula. ¿Crees que hay alguna manera de revivirla? ¿O estás atrapado teniendo que dispararle en la cabeza?"
+fr: "Tu as déjà vu une relation devenir un zombie ? Elle est morte depuis longtemps, mais elle continue à se déplacer comme si elle était vivante, se cognant maladroitement contre tout ce qui l'entoure et faisant une scène stupide. Penses-tu qu'il y a un moyen de la ressusciter ? Ou es-tu coincé à devoir lui tirer une balle dans la tête ?"
+pt_BR: "Você já viu um relacionamento virar um zumbi? Está morto há muito tempo, mas continua se mexendo como se estivesse vivo, esbarrando desajeitadamente em tudo por perto e fazendo uma cena ridícula. Você acha que dá para trazê-lo de volta à vida? Ou a única saída é dar um tiro na cabeça?"
+
+es_ES: "Sí, nos cuidamos mutuamente aquí abajo. Es la única manera de sobrevivir en este lugar tan duro, y es lo único que hace que esta vida valga la pena."
+fr: "Oui, on prend soin les uns des autres ici en bas. C'est la seule façon de s'en sortir dans cet endroit rude, et c'est la seule chose qui donne un sens à cette vie."
+pt_BR: "Sim, nós cuidamos uns dos outros aqui embaixo. É a única maneira de sobreviver neste lugar duro, e é a única coisa que faz esta vida valer a pena."
+
+es_ES: "El problema es que, al vivir con personas, pierden poco a poco su máscara de cortesía, y pronto desearás que siguieran intentando actuar como alguien que tiene miedo de estar solo."
+fr: "Le problème, c'est qu'en vivant avec les gens, ils perdent petit à petit leur masque de politesse, et bientôt tu souhaiterais qu'ils essaient encore de se comporter comme quelqu'un qui a peur d'être seul."
+pt_BR: "O problema é que, convivendo com as pessoas, elas vão perdendo sua máscara de educação aos poucos, e logo você gostaria que elas ainda tentassem agir como alguém com medo de ficar sozinho."
+
+es_ES: "Caminas por las mismas calles día tras día y se desvanecen, se vuelven borrosas y carentes de sentido, y pronto dejas de mirar cualquier cosa. No de verdad. Pero de vez en cuando, algo puede romper esa monotonía y hacer que todas esas vistas sean nuevas otra vez."
+fr: "Tu marches dans les mêmes rues jour après jour et elles s'effacent, deviennent floues et insignifiantes, et très vite tu ne regardes plus rien. Pas vraiment. Mais de temps en temps, quelque chose peut percer et rendre toutes ces vues à nouveau nouvelles."
+pt_BR: "Você anda pelas mesmas ruas dia após dia e elas desaparecem, se desfocam no vazio, e logo você para de enxergar qualquer coisa. Não de verdade. Mas de vez em quando, algo pode romper e fazer essas paisagens parecerem novas de novo."
+
+es_ES: "Ya no puedo ver los detalles, simplemente me aburren. Ya no puedo sentir como antes. Las emociones se han convertido en una papilla fría y pastosa. Difícil de tragar, parece inútil seguir comiéndola."
+fr: "Je ne peux plus vraiment voir les détails, ils m'ennuient juste. Je ne peux plus vraiment ressentir comme avant. Les émotions se sont transformées en une bouillie froide et farineuse. Difficile à mâcher, il semble inutile de continuer à la manger."
+pt_BR: "Não consigo mais ver os detalhes, eles só me entediam. Não consigo mais sentir como antes. As emoções se tornaram uma gororoba fria e sem graça. Difícil de engolir, parece inútil continuar comendo."
+
+es_ES: "¡¿WTF?! ¿Perdí otra vez? ¡Este juego es una porquería! ¡¿Cómo es que alguien logra pasar este nivel estúpido?!"
+fr: "WTF ?! J'ai encore perdu ?! Ce jeu craint ! Comment quelqu'un peut battre ce niveau idiot ?!"
+pt_BR: "WTF?! Perdi de novo? Esse jogo é um lixo! Como é que alguém consegue passar desse nível estúpido?!"
+
+es_ES: "Ahora tengo este nivel en modo automático. Solo hay que dominar el truco y luego te preguntas cómo te pareció difícil en algún momento."
+fr: "J'ai ce niveau en mode automatique maintenant. Il suffit de maîtriser l'astuce et ensuite tu te demandes comment tu as pu le trouver difficile !"
+pt_BR: "Agora estou farmando nesse nível. É só pegar o jeito e depois você se pergunta como algum dia achou isso difícil!"
+
+es_ES: "Sí, ellos no lo recuerdan como yo. Piensan que teníamos pajitas normales, pero yo recuerdo que eran flexibles porque compartíamos la misma bebida. Todas esas latas, podríamos haber tomado cualquier otra, pero había algo especial en compartir la misma. ¿Es raro, no? Los pequeños detalles que me importan después de tantos años."
+fr: "Ouais, ils ne s'en souviennent pas comme moi. Ils pensent qu'on avait des pailles normales, mais je me souviens qu'on avait des pailles flexibles parce qu'on partageait la même boisson. Toutes ces canettes, on aurait pu en avoir chacune, mais il y avait quelque chose de spécial à partager la même. C'est bizarre, non ? Ces petits détails qui comptent pour moi après toutes ces années ?"
+pt_BR: "É, eles não se lembram como eu. Eles acham que eram canudos normais, mas eu lembro que eram canudos flexíveis porque a gente estava compartilhando a mesma bebida. Tantas latas, a gente poderia ter pego qualquer uma, mas tinha algo especial em beber da mesma. É estranho, né? Os pequenos detalhes que me importam depois de todos esses anos?"
+
+es_ES: "El mundo ya no es lo que era. No para nosotros. Podemos recordar un tiempo mejor, cuando podías conseguir una comida o bebida sin que nadie fuera explotado por ello. Sigo pensando que debe haber una forma de volver a eso. Pero no consigo encontrar una manera de revertir el curso actual. Así que seguimos atrapados soñando con cómo solía ser."
+fr: "Le monde n'est plus ce qu'il était. Pas pour nous. On se souvient d'un temps meilleur, où tu pouvais avoir un repas ou une boisson sans que quelqu'un soit exploité pour ça. Je continue à penser qu'il doit y avoir un moyen d'y retourner. Mais je n'arrive pas à trouver comment inverser la tendance actuelle. Alors on reste coincés à rêver de ce que c'était avant."
+pt_BR: "O mundo não é mais o que costumava ser. Não pra gente. A gente consegue lembrar de um tempo melhor, quando você conseguia uma refeição ou bebida sem que alguém fosse explorado por isso. Fico pensando que deve haver um jeito de voltar àquilo. Mas não consigo encontrar uma maneira de reverter o rumo atual. Então ficamos presos sonhando com como as coisas eram."
+
+es_ES: "Demasiadas bebidas. ¿Qué había en ellas? He estado viendo cosas desde entonces. Cosas que no están ahí. Pero están frente a mí y no puedo dejar de mirar."
+fr: "Trop de verres. Qu'est-ce qu'il y avait dedans ? Je vois des choses depuis. Des choses qui ne sont pas là. Mais elles sont devant moi et je ne peux pas arrêter de regarder."
+pt_BR: "Bebi demais. O que tinha nessas bebidas? Desde então tenho visto coisas. Coisas que não estão lá. Mas estão bem na minha cara e eu não consigo parar de olhar."
+
+es_ES: "Conseguí un cargamento de esta Vision View Brew, me mantiene mirando a todos estos pequeños monstruos que sigo conjurando y, sabes, son más interesantes que la realidad. Sé que su fuego es falso, pero si me dejo llevar por ellos, casi puedo sentir su calor."
+fr: "J'ai mis la main sur une cargaison de cette Vision View Brew, ça me fait regarder tous ces petits monstres que je continue de conjurer et, tu sais, ils sont plus intéressants que la réalité. Je sais que leur feu est faux, mais si je me perds en eux, je peux presque sentir leur chaleur."
+pt_BR: "Consegui um carregamento dessa Vision View Brew, fico olhando para esses pequenos monstros que continuo conjurando e, sabe, eles são mais interessantes que a realidade. Eu sei que o fogo deles é falso, mas se eu me perder neles, quase consigo sentir o calor."
+
+es_ES: "Un día miramos lo que habíamos hecho de esta vida y no era nada. No valía nada. Lo dejamos en el suelo y lo abandonamos. Dejamos algo de nosotros ahí y también lo dejamos ir para siempre. Algunos días tienes que abandonar una parte de ti que no cede para no quedarte atascado con ella."
+fr: "Un jour, on a regardé ce qu'on avait fait de cette vie et c'était rien. Ça ne valait rien. On l'a posé par terre et on est partis. On a laissé quelque chose de nous là avec, et on l'a laissé partir pour de bon aussi. Certains jours, tu dois abandonner une partie de toi qui ne bouge pas pour ne pas rester coincé avec."
+pt_BR: "Um dia olhamos para o que fizemos da nossa vida e era nada. Não valia nada. Deixamos no chão e seguimos. Deixamos algo de nós lá com aquilo e também deixamos isso ir embora de vez. Alguns dias você tem que abandonar uma parte de si que não muda, para não ficar preso a ela."
+

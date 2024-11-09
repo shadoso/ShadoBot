@@ -2,88 +2,135 @@
   "tarot": {
     "name": "tarot",
     "name_localizations": {
-      "pt-BR": "taro"
-    },
-    "description": "Have a session with our cyberpunk fortune teller Margaret",
-    "description_localizations": {
-      "pt-BR": "Tenha uma sessão com a nossa cartomante cyberpunk a Margaret"
+      "es-ES": "tarot",
+      "fr": "tarot",
+      "pt-BR": "tarô"
     }
   },
   "card": {
     "name": "card",
     "name_localizations": {
+      "es-ES": "carta",
+      "fr": "carte",
       "pt-BR": "carta"
     },
     "description": "Choose the card number you want to know the meaning",
     "description_localizations": {
-      "pt-BR": "Escolha o numero da carta que você quer saber o significado"
+      "es-ES": "Elige el número de la carta que deseas conocer el significado",
+      "fr": "Choisissez le numéro de la carte dont vous souhaitez connaître la signification",
+      "pt-BR": "Escolha o número da carta que você quer saber o significado"
     }
   },
   "number": {
     "name": "number",
     "name_localizations": {
-      "pt-BR": "numero"
+      "es-ES": "número",
+      "fr": "numéro",
+      "pt-BR": "número"
     },
     "description": "Card number",
     "description_localizations": {
+      "es-ES": "Número de carta",
+      "fr": "Numéro de carte",
       "pt-BR": "Número da carta"
     }
   },
-  "spread": {
-    "name": "spread",
+  "reading": {
+    "name": "reading",
     "name_localizations": {
+      "es-ES": "lectura",
+      "fr": "lisant",
       "pt-BR": "leitura"
     },
-    "description": "Have a session with our fortune teller Margaret",
+    "description": "Find answers with tarot",
     "description_localizations": {
-      "pt-BR": "Tenha uma sessão com a nossa cartomante Margaret"
+      "es-ES": "Encuentra respuestas con el tarot",
+      "fr": "Trouver des réponses avec le tarot",
+      "pt-BR": "Ache respostas com o tarô"
     }
   },
   "style": {
     "name": "style",
     "name_localizations": {
+      "es-ES": "estilo",
+      "fr": "style",
       "pt-BR": "estilo"
     },
-    "description": "Choose a spread style",
+    "description": "Choose a reading style",
     "description_localizations": {
+      "es-ES": "Elige un estilo de lectura",
+      "fr": "Choisissez un style de lecture",
       "pt-BR": "Escolha um estilo de leitura"
     },
-    "choices": {
-      "destiny": 1,
-      "trinity": 3,
-      "chimera": 5
-    },
+    "choices": [
+      "acceptance",
+      "challenge",
+      "guidance",
+      "prediction",
+      "myself"
+    ],
     "choice_localizations": {
-      "destiny": {
-        "pt-BR": "destino"
+      "acceptance": {
+        "es-ES": "aceptación",
+        "fr": "acceptation",
+        "pt-BR": "aceitação"
       },
-      "trinity": {
-        "pt-BR": "trindade"
+      "challenge": {
+        "es-ES": "desafío",
+        "fr": "défi",
+        "pt-BR": "desafio"
       },
-      "chimera": {
-        "pt-BR": "quimera"
+      "guidance": {
+        "es-ES": "guía",
+        "fr": "conseils",
+        "pt-BR": "conselho"
+      },
+      "prediction": {
+        "es-ES": "predicción",
+        "fr": "prédiction",
+        "pt-BR": "predição"
+      },
+      "myself": {
+        "es-ES": "yo",
+        "fr": "moi-même",
+        "pt-BR": "eu"
       }
     }
   },
-  "question": {
-    "name": "question",
+  "length": {
+    "acceptance": 3,
+    "challenge": 1,
+    "guidance": 1,
+    "prediction": 3,
+    "myself": 3
+  },
+  "modifier": {
+    "name": "modifier",
     "name_localizations": {
-      "pt-BR": "pergunta"
+      "es-ES": "modificador",
+      "fr": "modificateur",
+      "pt-BR": "modificador"
     },
     "description": "The answer you are looking for",
     "description_localizations": {
+      "es-ES": "EDIT",
+      "fr": "EDIT",
       "pt-BR": "A resposta que você está procurando"
     },
-    "min_length": 15,
+    "min_length": 10,
     "max_length": 35
   },
   "day": {
     "name": "day",
     "name_localizations": {
+      "es-ES": "día",
+      "fr": "jour",
       "pt-BR": "dia"
     },
     "description": "Choose a day",
     "description_localizations": {
+      "es-ES": "EDIT",
+      "fr": "EDIT",
       "pt-BR": "Escolha um dia"
     },
     "min_value": 1,
@@ -92,10 +139,14 @@
   "month": {
     "name": "month",
     "name_localizations": {
-      "pt-BR": "mes"
+      "es-ES": "mois",
+      "fr": "mes",
+      "pt-BR": "mês"
     },
     "description": "Choose a month",
     "description_localizations": {
+      "es-ES": "EDIT",
+      "fr": "EDIT",
       "pt-BR": "Escolha um mês"
     },
     "min_value": 1,
@@ -104,10 +155,14 @@
   "year": {
     "name": "year",
     "name_localizations": {
+      "es-ES": "año",
+      "fr": "année",
       "pt-BR": "ano"
     },
     "description": "Choose a year from 1912 to 7648",
     "description_localizations": {
+      "es-ES": "EDIT",
+      "fr": "EDIT",
       "pt-BR": "Escolha um ano de 1912 até 7648"
     },
     "min_value": 1912,

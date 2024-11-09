@@ -1,5 +1,5 @@
 # Third-party
-from sqlalchemy import Identity, INTEGER, String
+from sqlalchemy import Identity, INTEGER, String, BOOLEAN
 
 from sqlalchemy.orm import DeclarativeBase, Mapped
 from sqlalchemy.orm import mapped_column
@@ -21,6 +21,7 @@ class Names(Base):
         String(length=20),
         unique=True
     )
+    verified: Mapped[bool] = mapped_column(BOOLEAN)
 
 # EDIT
 

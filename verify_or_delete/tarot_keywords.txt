@@ -1,0 +1,779 @@
+Beginnings, Adventure, Possibility
+es_ES: Comienzos, Aventura, Posibilidad
+fr: Commencements, Aventure, Possibilité
+pt_BR: Inícios, Aventura, Possibilidade
+
+Recklessness, Naivety
+es_ES: Imprudencia, Ingenuidad
+fr: Imprudence, Naïveté
+pt_BR: Imprudência, Ingenuidade
+
+Capability, Competence, Preparation, Power
+es_ES: Capacidad, Competencia, Preparación, Poder
+fr: Capacité, Compétence, Préparation, Pouvoir
+pt_BR: Capacidade, Competência, Preparação, Poder
+
+Manipulation, Lack Of Planning, Untapped Potential
+es_ES: Manipulación, Falta De Planificación, Potencial No Explorado
+fr: Manipulation, Manque De Planification, Potentiel Inexploré
+pt_BR: Manipulação, Falta De Planejamento, Potencial Inexplorado
+
+Intuition, The Subconscious, Mystery
+es_ES: Intuición, El Subconsciente, Misterio
+fr: Intuition, Le Subconscient, Mystère
+pt_BR: Intuição, O Subconsciente, Mistério
+
+Subterfuge, Ignoring Intuition
+es_ES: Subterfugio, Ignorar La Intuición
+fr: Subterfuge, Ignorer L'Intuition
+pt_BR: Subterfúgio, Ignorando a Intuição
+
+Growth, Beauty, Abundance
+es_ES: Crecimiento, Belleza, Abundancia
+fr: Croissance, Beauté, Abondance
+pt_BR: Crescimento, Beleza, Abundância
+
+Dependence, Repression, Neglect
+es_ES: Dependencia, Represión, Negligencia
+fr: Dépendance, Répression, Négligence
+pt_BR: Dependência, Repressão, Negligência
+
+Authority, Structure, Stability
+es_ES: Autoridad, Estructura, Estabilidad
+fr: Autorité, Structure, Stabilité
+pt_BR: Autoridade, Estrutura, Estabilidade
+
+Domination, Rigidity
+es_ES: Dominación, Rigidez
+fr: Domination, Rigidité
+pt_BR: Dominação, Rigidez
+
+Institution, Conformity, Religion
+es_ES: Institución, Conformidad, Religión
+fr: Institution, Conformité, Religion
+pt_BR: Instituição, Conformidade, Religião
+
+Rebellion, Restriction, Censorship
+es_ES: Rebelión, Restricción, Censura
+fr: Rébellion, Restriction, Censure
+pt_BR: Rebelião, Restrição, Censura
+
+Relationships, Love, Choices
+es_ES: Relaciones, Amor, Elecciones
+fr: Relations, Amour, Choix
+pt_BR: Relacionamentos, Amor, Escolhas
+
+Disharmony, Uncertainty
+es_ES: Desarmonía, Incertidumbre
+fr: Disharmonie, Incertitude
+pt_BR: Desarmonia, Incerteza
+
+Willpower, Victory, Determination
+es_ES: Voluntad, Victoria, Determinación
+fr: Volonté, Victoire, Détermination
+pt_BR: Força De Vontade, Vitória, Determinação
+
+Aggression, Aimlessness
+es_ES: Agresión, Falta De Dirección
+fr: Agressivité, Errance
+pt_BR: Agressão, Falta De Rumo
+
+Self-Control, Courage, Compassion
+es_ES: Autocontrol, Coraje, Compasión
+fr: Maîtrise De Soi, Courage, Compassion
+pt_BR: Autocontrole, Coragem, Compaixão
+
+Doubt, Lack Of Self-Control, Weakness
+es_ES: Duda, Falta De Autocontrol, Debilidad
+fr: Doute, Manque De Maîtrise De Soi, Faiblesse
+pt_BR: Dúvida, Falta De Autocontrole, Fraqueza
+
+Introspection, Knowledge, Contemplation
+es_ES: Introspección, Conocimiento, Contemplación
+fr: Introspection, Connaissance, Contemplation
+pt_BR: Introspecção, Conhecimento, Contemplação
+
+Isolation, Seclusion
+es_ES: Aislamiento, Reclusión
+fr: Isolement, Réclusion
+pt_BR: Isolamento, Reclusão
+
+Destiny, Luck, Gratitude
+es_ES: Destino, Suerte, Gratitud
+fr: Destin, Chance, Gratitude
+pt_BR: Destino, Sorte, Gratidão
+
+Bad Luck, External Influence
+es_ES: Mala Suerte, Influencia Externa
+fr: Malchance, Influence Externe
+pt_BR: Azar, Influência Externa
+
+Fairness, Law, Order, Objectivity
+es_ES: Justicia, Ley, Orden, Objetividad
+fr: Justice, Loi, Ordre, Objectivité
+pt_BR: Justiça, Lei, Ordem, Objetividade
+
+Unfairness, Corruption, Dishonesty
+es_ES: Injusticia, Corrupción, Deshonestidad
+fr: Injustice, Corruption, Malhonnêteté
+pt_BR: Injustiça, Corrupção, Desonestidade
+
+Sacrifice, Release, Acceptance
+es_ES: Sacrificio, Liberación, Aceptación
+fr: Sacrifice, Libération, Acceptation
+pt_BR: Sacrifício, Liberação, Aceitação
+
+Martyrdom, Indecisiveness, Turmoil
+es_ES: Martirio, Indecisión, Confusión
+fr: Martyre, Indécision, Tumulte
+pt_BR: Martírio, Indecisão, Tumulto
+
+Change, Transition, Transformation
+es_ES: Cambio, Transición, Transformación
+fr: Changement, Transition, Transformation
+pt_BR: Mudança, Transição, Transformação
+
+Resistance, Dwelling, Attachment, Fear
+es_ES: Resistencia, Habitar, Apego, Miedo
+fr: Résistance, Habitation, Attachement, Peur
+pt_BR: Resistência, Habitação, Apego, Medo
+
+Balance, Calm, Moderation, Wisdom
+es_ES: Equilibrio, Calma, Moderación, Sabiduría
+fr: Équilibre, Calme, Modération, Sagesse
+pt_BR: Equilíbrio, Calma, Moderação, Sabedoria
+
+Imbalance, Extremes, Instability
+es_ES: Desequilibrio, Extremos, Inestabilidad
+fr: Déséquilibre, Extrêmes, Instabilité
+pt_BR: Desequilíbrio, Extremos, Instabilidade
+
+Addiction, Lust, Materialism, Constraints
+es_ES: Adicción, Lujuria, Materialismo, Restricciones
+fr: Addiction, Luxure, Matérialisme, Contraintes
+pt_BR: Vício, Luxúria, Materialismo, Restrições
+
+Detachment, Freeing Oneself, Awareness
+es_ES: Desapego, Liberación Personal, Conciencia
+fr: Détachement, Se Libérer, Conscience
+pt_BR: Desapego, Libertar-se, Consciência
+
+Upheaval, External Change, Realization, Calamity
+es_ES: Agitación, Cambio Externo, Realización, Calamidad
+fr: Bouleversement, Changement Externe, Réalisation, Calamité
+pt_BR: Reviravolta, Mudança Externa, Realização, Calamidade
+
+Avoiding External Change, Stress, Overreaction
+es_ES: Evitación Del Cambio Externo, Estrés, Reacción Exagerada
+fr: Éviter Le Changement Externe, Stress, Surréaction
+pt_BR: Evitando Mudanças Externas, Estresse, Reação Exagerada
+
+Hope, Renewal, Belief
+es_ES: Esperanza, Renovación, Creencia
+fr: Espoir, Renouvellement, Croyance
+pt_BR: Esperança, Renovação, Crença
+
+Despair, Pessimism, Boredom
+es_ES: Desesperación, Pesimismo, Aburrimiento
+fr: Désespoir, Pessimisme, Ennui
+pt_BR: Desespero, Pessimismo, Tédio
+
+Illusion, Anxiety, Guidance, Subconscious
+es_ES: Ilusión, Ansiedad, Guía, Subconsciente
+fr: Illusion, Anxiété, Guidance, Subconscient
+pt_BR: Ilusão, Ansiedade, Orientação, Subconsciente
+
+Confusion, Depression, Danger
+es_ES: Confusión, Depresión, Peligro
+fr: Confusion, Dépression, Danger
+pt_BR: Confusão, Depressão, Perigo
+
+Success, Joy
+es_ES: Éxito, Alegría
+fr: Succès, Joie
+pt_BR: Sucesso, Alegria
+
+Failure, Despondency, Disadvantage
+es_ES: Fracaso, Desaliento, Desventaja
+fr: Échec, Découragement, Désavantage
+pt_BR: Fracasso, Desânimo, Desvantagem
+
+Absolution, Rebirth, Decision, Clarity
+es_ES: Absolución, Renacimiento, Decisión, Claridad
+fr: Absolution, Renaissance, Décision, Clarté
+pt_BR: Autoaceitação, Renascimento, Decisão, Clareza
+
+Inability To Examine Oneself, Second Guessing, Stagnation
+es_ES: Incapacidad Para Examinarse, Dudar, Estancamiento
+fr: Incapacité À S'Examiner, Douter, Stagnation
+pt_BR: Incapacidade De Examinar a Si Mesmo, Autojulgamento, Estagnação
+
+Completion, Attainment, Accomplishment
+es_ES: Compleción, Logro, Cumplimiento
+fr: Achèvement, Réalisation, Accomplissement
+pt_BR: Conclusão, Conquista, Realização
+
+Missing Closure, Incompleteness
+es_ES: Falta De Cierre, Incompleto
+fr: Absence De Clôture, Incomplétude
+pt_BR: Falta De Encerramento, Incompletude
+
+Bounty, Prosperity, Financial Opportunity, Windfall
+es_ES: Abundancia, Prosperidad, Oportunidad Financiera, Ganancia Súbita
+fr: Abondance, Prospérité, Opportunité Financière, Gain Inattendu
+pt_BR: Abundância, Prosperidade, Oportunidade Financeira, Golpe De Sorte
+
+Lack Of Planning, Uncertainty, Lofty Goals
+es_ES: Falta De Planificación, Incertidumbre, Metas Elevadas
+fr: Manque De Planification, Incertitude, Objectifs Trop Élevés
+pt_BR: Falta De Planejamento, Incerteza, Metas Ambiciosas
+
+Balance, Distractions, Adaptability, Juggling
+es_ES: Equilibrio, Distracciones, Adaptabilidad, Malabares
+fr: Équilibre, Distractions, Adaptabilité, Jonglage
+pt_BR: Equilíbrio, Distrações, Adaptabilidade, Malabarismos
+
+Chaos, Disorganization, Overwhelming Stress
+es_ES: Caos, Desorganización, Estrés Abrumador
+fr: Chaos, Désorganisation, Stress Écrasant
+pt_BR: Caos, Desorganização, Estresse Esmagador
+
+Mentorship, Learning, Teamwork, Collaboration
+es_ES: Mentoría, Aprendizaje, Trabajo En Equipo, Colaboración
+fr: Mentorat, Apprentissage, Travail D'Équipe, Collaboration
+pt_BR: Mentoria, Aprendizado, Trabalho Em Equipe, Colaboração
+
+Misinformation, Disregard Of Skills, Secrets
+es_ES: Desinformación, Desprecio De Habilidades, Secretos
+fr: Désinformation, Mépris Des Compétences, Secrets
+pt_BR: Desinformação, Desprezo Pelas Habilidades, Segredos
+
+Hoarding, Control, Stability, Conservatism
+es_ES: Acumulación, Control, Estabilidad, Conservadurismo
+fr: Accumulation, Contrôle, Stabilité, Conservatisme
+pt_BR: Acumulação, Controle, Estabilidade, Conservadorismo
+
+Greed, Materialism, Ulterior Motives
+es_ES: Codicia, Materialismo, Motivos Ocultos
+fr: Avidité, Matérialisme, Motivations Cachées
+pt_BR: Ganância, Materialismo, Motivos Ocultos
+
+Poverty, Isolation, Aid, Generosity, Insecurity
+es_ES: Pobreza, Aislamiento, Ayuda, Generosidad, Inseguridad
+fr: Pauvreté, Isolement, Aide, Générosité, Insécurité
+pt_BR: Pobreza, Isolamento, Ajuda, Generosidade, Insegurança
+
+Frigidity, Lack Of Charity, Spiritual Poverty
+es_ES: Frigidez, Falta De Caridad, Pobreza Espiritual
+fr: Frigidité, Manque De Charité, Pauvreté Spirituelle
+pt_BR: Frieza, Falta De Caridade, Pobreza Espiritual
+
+Generosity, Recovery, Refuge, Sharing
+es_ES: Generosidad, Recuperación, Refugio, Compartir
+fr: Générosité, Récupération, Refuge, Partage
+pt_BR: Generosidade, Recuperação, Refúgio, Compartilhamento
+
+Selfishness, Debt, Poor Investments, Inequality
+es_ES: Egoísmo, Deuda, Malas Inversiones, Desigualdad
+fr: Égoïsme, Dette, Mauvaises Investissements, Inégalité
+pt_BR: Egoísmo, Dívida, Maus Investimentos, Desigualdade
+
+Reward, Investment, Profit, Simple Pleasure
+es_ES: Recompensa, Inversión, Ganancia, Placer Sencillo
+fr: Récompense, Investissement, Profit, Plaisir Simple
+pt_BR: Recompensa, Investimento, Lucro, Prazer Simples
+
+Lacking Reward, Financial Failure, Losing Comforts
+es_ES: Falta De Recompensa, Fracaso Financiero, Pérdida De Comodidades
+fr: Absence De Récompense, Échec Financier, Perte De Confort
+pt_BR: Falta De Recompensa, Fracasso Financeiro, Perda De Conforto
+
+Diligence, Labor, Education, Investment
+es_ES: Diligencia, Trabajo, Educación, Inversión
+fr: Diligence, Travail, Éducation, Investissement
+pt_BR: Diligência, Trabalho, Educação, Investimento
+
+Perfectionism, Wasted Energy, Mistakes, Creative Apathy
+es_ES: Perfeccionismo, Energía Desperdiciada, Errores, Apatía Creativa
+fr: Perfectionnisme, Énergie Gaspillée, Erreurs, Apathie Créative
+pt_BR: Perfeccionismo, Energia Desperdiçada, Erros, Apatia Criativa
+
+Success, Introspection, Luxury, Self-Sufficiency
+es_ES: Éxito, Introspección, Lujo, Autosuficiencia
+fr: Succès, Introspection, Luxe, Autosuffisance
+pt_BR: Sucesso, Introspecção, Luxo, Autossuficiência
+
+Miscalculation, Work Imbalance, Financial Setbacks
+es_ES: Cálculo Erróneo, Desequilibrio Laboral, Reveses Financieros
+fr: Erreur De Calcul, Déséquilibre De Travail, Retards Financiers
+pt_BR: Cálculo Errado, Desequilíbrio No Trabalho, Reveses Financeiros
+
+Providing, Wealth, Family, Leadership
+es_ES: Provisión, Riqueza, Familia, Liderazgo
+fr: Fourniture, Richesse, Famille, Leadership
+pt_BR: Provisão, Riqueza, Família, Liderança
+
+Loneliness, Dwelling, Loss
+es_ES: Soledad, Habitación, Pérdida
+fr: Solitude, Résidence, Perte
+pt_BR: Solidão, Habitação, Perda
+
+Opportunity, New Work, Spiritual Bounty
+es_ES: Oportunidad, Nuevo Trabajo, Abundancia Espiritual
+fr: Opportunité, Nouveau Travail, Abondance Spirituelle
+pt_BR: Oportunidade, Novo Trabalho, Abundância Espiritual
+
+Disconnect From Inner Self, Short-Term Focus, Setbacks
+es_ES: Desconexión Con El Yo Interno, Enfoque A Corto Plazo, Contratiempos
+fr: Déconnexion Du Soi Intérieur, Focus À Court Terme, Retards
+pt_BR: Desconexão Do Eu Interior, Foco A Curto Prazo, Reveses
+
+Determination, Efficiency, Routine, Work
+es_ES: Determinación, Eficiencia, Rutina, Trabajo
+fr: Détermination, Efficacité, Routine, Travail
+pt_BR: Determinação, Eficiência, Rotina, Trabalho
+
+Laziness, Apathy, Giving Up, Disorientation
+es_ES: Pereza, Apatía, Rendirse, Desorientación
+fr: Paresse, Apathie, Abandonner, Désorientation
+pt_BR: Preguiça, Apatia, Desistência, Desorientação
+
+Practicality, Nourishment, Safety, Protection
+es_ES: Practicidad, Nutrición, Seguridad, Protección
+fr: Praticité, Nourriture, Sécurité, Protection
+pt_BR: Praticidade, Nutrição, Segurança, Proteção
+
+Resentment, Abandonment, Disconnect In Family
+es_ES: Resentimiento, Abandono, Desconexión Familiar
+fr: Ressentiment, Abandon, Déconnexion Familiale
+pt_BR: Ressentimento, Abandono, Desconexão Familiar
+
+Abundance, Security, Control, Avarice
+es_ES: Abundancia, Seguridad, Control, Avaricia
+fr: Abondance, Sécurité, Contrôle, Avarice
+pt_BR: Abundância, Segurança, Controle, Avareza
+
+Selfishness, Pretense, Domineering, Greed
+es_ES: Egoísmo, Pretensión, Dominante, Codicia
+fr: Égoïsme, Prétention, Domination, Avidité
+pt_BR: Egoísmo, Pretensão, Dominância, Ganância
+
+Love, Companionship, Compassion, Joy
+es_ES: Amor, Compañerismo, Compasión, Alegría
+fr: Amour, Compagnie, Compassion, Joie
+pt_BR: Amor, Companheirismo, Compaixão, Alegria
+
+Isolation, Repressed Emotions, Suppression
+es_ES: Aislamiento, Emociones Reprimidas, Supresión
+fr: Isolement, Émotions Réprimées, Suppression
+pt_BR: Isolamento, Emoções Reprimidas, Supressão
+
+Partnership, Romance, Respect, Relationships
+es_ES: Asociación, Romance, Respeto, Relaciones
+fr: Partenariat, Romance, Respect, Relations
+pt_BR: Parceria, Romance, Respeito, Relacionamentos
+
+Relationship Imbalances, Lack Of Communication, Breaking Up, Introspection
+es_ES: Desequilibrio Relacional, Falta De Comunicación, Ruptura, Introspección
+fr: Déséquilibre Relationnel, Manque De Communication, Rupture, Introspection
+pt_BR: Desequilíbrio Relacional, Falta De Comunicação, Separação, Introspecção
+
+Celebration, Friendship, Support, Community
+es_ES: Celebración, Amistad, Apoyo, Comunidad
+fr: Célébration, Amitié, Soutien, Communauté
+pt_BR: Celebração, Amizade, Apoio, Comunidade
+
+Suffocation, Lack Of Creativity, Troubled Group Dynamics
+es_ES: Sofocación, Falta De Creatividad, Dinámica De Grupo Problemática
+fr: Suffocation, Manque De Créativité, Dynamiques De Groupe Problématiques
+pt_BR: Sufocamento, Falta De Criatividade, Dinâmicas De Grupo Problemáticas
+
+Apathy, Gratitude, Contemplation, Openness
+es_ES: Apatía, Gratitud, Contemplación, Apertura
+fr: Apathie, Gratitude, Contemplation, Ouverture
+pt_BR: Apatia, Gratidão, Contemplação, Abertura
+
+Boredom, Missing Opportunities, Navel-Gazing
+es_ES: Aburrimiento, Oportunidades Perdidas, Ombliguismo
+fr: Ennui, Opportunités Manquées, Contemplation Du Nombril
+pt_BR: Tédio, Oportunidades Perdidas, Contemplação Excessiva
+
+Loss, Disappointment, Difficulty, Despair
+es_ES: Pérdida, Decepción, Dificultad, Desesperación
+fr: Perte, Déception, Difficulté, Désespoir
+pt_BR: Perda, Decepção, Dificuldade, Desespero
+
+Accepting, Forgiving, Moving On, Healing
+es_ES: Aceptación, Perdón, Seguir Adelante, Curación
+fr: Acceptation, Pardon, Avancer, Guérison
+pt_BR: Aceitação, Perdão, Seguir Em Frente, Cura
+
+Nostalgia, Childhood, Innocence, The Past
+es_ES: Nostalgia, Infancia, Inocencia, El Pasado
+fr: Nostalgie, Enfance, Innocence, Le Passé
+pt_BR: Nostalgia, Infância, Inocência, O Passado
+
+Naivety, Dwelling, Stuck In The Past
+es_ES: Ingenuidad, Habitación, Atascado En El Pasado
+fr: Naïveté, Résidence, Coincé Dans Le Passé
+pt_BR: Ingenuidade, Habitação, Preso No Passado
+
+Illusion, Fantasy, Shallowness, Imagination
+es_ES: Ilusión, Fantasía, Superficialidad, Imaginación
+fr: Illusion, Fantaisie, Superficialité, Imagination
+pt_BR: Ilusão, Fantasia, Superficialidade, Imaginação
+
+Temptation, Diversion, Reflection
+es_ES: Tentación, Distracción, Reflexión
+fr: Tentation, Diversion, Réflexion
+pt_BR: Tentação, Desvio, Reflexão
+
+Disappointment, Re-Evaluation, Escapism, Withdrawal
+es_ES: Decepción, Reevaluación, Escapismo, Retiro
+fr: Déception, Réévaluation, Évasion, Retrait
+pt_BR: Decepção, Reavaliação, Escapismo, Retirada
+
+Dissatisfaction, Drifting, Stuck On A Problem
+es_ES: Insatisfacción, Deriva, Atascado En Un Problema
+fr: Insatisfaction, Dérive, Coincé Sur Un Problème
+pt_BR: Insatisfação, À Deriva, Preso Em Um Problema
+
+Accomplishment, Satisfaction, Rest, Comfort, Pride
+es_ES: Logro, Satisfacción, Descanso, Comodidad, Orgullo
+fr: Accomplissement, Satisfaction, Repos, Confort, Fierté
+pt_BR: Realização, Satisfação, Descanso, Conforto, Orgulho
+
+Greed, Self-Indulgence, Smugness, Materialism
+es_ES: Codicia, Autocomplacencia, Arrogancia, Materialismo
+fr: Avidité, Complaisance, Suffisance, Matérialisme
+pt_BR: Ganância, Autocomplacência, Arrogância, Materialismo
+
+Happiness, Marriage, Romance, Fulfillment, Harmony
+es_ES: Felicidad, Matrimonio, Romance, Plenitud, Armonía
+fr: Bonheur, Mariage, Romance, Épanouissement, Harmonie
+pt_BR: Felicidade, Casamento, Romance, Realização, Harmonia
+
+Unbalanced Relationships, Flawed Prioritization, Problematic Family Or Marriage
+es_ES: Relaciones Desequilibradas, Priorización Defectuosa, Familia O Matrimonio Problemático
+fr: Relations Déséquilibrées, Priorités Défectueuses, Famille Ou Mariage Problématique
+pt_BR: Relacionamentos Desequilibrados, Priorização Deficiente, Família Ou Casamento Problemático
+
+Creativity, Synchronicity, Fresh Outlook
+es_ES: Creatividad, Sincronización, Nueva Perspectiva
+fr: Créativité, Synchronicité, Nouveau Regard
+pt_BR: Criatividade, Sincronicidade, Nova Perspectiva
+
+Immaturity, Frustration, Temper, Sadness
+es_ES: Inmadurez, Frustración, Temperamento, Tristeza
+fr: Immaturité, Frustration, Colère, Tristesse
+pt_BR: Imaturidade, Frustração, Temperamento, Tristeza
+
+Motivation, Imagination, Inspiration
+es_ES: Motivación, Imaginación, Inspiración
+fr: Motivation, Imagination, Inspiration
+pt_BR: Motivação, Imaginação, Inspiração
+
+Moodiness, Overinvested Emotionally, Unrealistic Expectations
+es_ES: Mal Humor, Exceso De Inversión Emocional, Expectativas Poco Realistas
+fr: Caprices, Investissement Émotionnel Excessif, Attentes Irréalistes
+pt_BR: Oscilação De Humor, Superinvestimento Emocional, Expectativas Irrealistas
+
+Intuition, Compassion, Empathy, Calm
+es_ES: Intuición, Compasión, Empatía, Calma
+fr: Intuition, Compassion, Empathie, Calme
+pt_BR: Intuição, Compaixão, Empatia, Calma
+
+Codependency, Disconnection, Insecurity, Escapism
+es_ES: Codependencia, Desconexión, Inseguridad, Escapismo
+fr: Codépendance, Déconnexion, Insécurité, Évasion
+pt_BR: Codependência, Desconexão, Insegurança, Escapismo
+
+Emotional Balance, Generosity, Emotional Intellect
+es_ES: Equilibrio Emocional, Generosidad, Intelecto Emocional
+fr: Équilibre Émotionnel, Générosité, Intelligence Émotionnelle
+pt_BR: Equilíbrio Emocional, Generosidade, Intelecto Emocional
+
+Emotional Abuse, Manipulation, Volatility, Overconfidence, Influence
+es_ES: Abuso Emocional, Manipulación, Volatilidad, Exceso De Confianza, Influencia
+fr: Abus Émotionnel, Manipulation, Volatilité, Excès De Confiance, Influence
+pt_BR: Abuso Emocional, Manipulação, Volatilidade, Excesso De Confiança, Influência
+
+Creation, Beginnings, Potential, Inspiration
+es_ES: Creación, Comienzos, Potencial, Inspiración
+fr: Création, Débuts, Potentiel, Inspiration
+pt_BR: Criação, Inícios, Potencial, Inspiração
+
+Lacking Motivation, Unclear Goals, Uncertainty, Delays
+es_ES: Falta De Motivación, Objetivos Poco Claros, Incertidumbre, Retrasos
+fr: Manque De Motivation, Objectifs Flous, Incertitude, Retards
+pt_BR: Falta De Motivação, Objetivos Incertos, Incerteza, Atrasos
+
+Progress, Discovery, Planning
+es_ES: Progreso, Descubrimiento, Planificación
+fr: Progrès, Découverte, Planification
+pt_BR: Progresso, Descoberta, Planejamento
+
+Lack Of Planning, Complacency, Avoiding Risk, Stagnation
+es_ES: Falta De Planificación, Complacencia, Evitar El Riesgo, Estancamiento
+fr: Manque De Planification, Complaisance, Éviter Le Risque, Stagnation
+pt_BR: Falta De Planejamento, Complacência, Evitar Risco, Estagnação
+
+Foresight, Preparation, Enterprise
+es_ES: Previsión, Preparación, Empresa
+fr: Prévision, Préparation, Entreprise
+pt_BR: Previsão, Preparação, Empreendimento
+
+Lack Of Foresight, Wasted Efforts, Setbacks
+es_ES: Falta De Previsión, Esfuerzos Desperdiciados, Reveses
+fr: Manque De Prévision, Efforts Gaspillés, Revers
+pt_BR: Falta De Previsão, Esforços Desperdiçados, Reveses
+
+Celebration, Community, Home, Harmony
+es_ES: Celebración, Comunidad, Hogar, Armonía
+fr: Célébration, Communauté, Maison, Harmonie
+pt_BR: Celebração, Comunidade, Lar, Harmonia
+
+Lack Of Harmony, Breakdown In Communication, Uncertainty
+es_ES: Falta De Armonía, Ruptura En La Comunicación, Incertidumbre
+fr: Manque D'Harmonie, Rupture De Communication, Incertitude
+pt_BR: Falta De Harmonia, Ruptura Na Comunicação, Incerteza
+
+Competition, Conflict, Strife, Disagreement
+es_ES: Competencia, Conflicto, Lucha, Desacuerdo
+fr: Compétition, Conflit, Lutte, Désaccord
+pt_BR: Competição, Conflito, Luta, Desacordo
+
+Repression, Avoiding Conflict, Tension
+es_ES: Represión, Evitar El Conflicto, Tensión
+fr: Répression, Éviter Le Conflit, Tension
+pt_BR: Repressão, Evitar Conflito, Tensão
+
+Progress, Victory, Recognition, Confidence
+es_ES: Progreso, Victoria, Reconocimiento, Confianza
+fr: Progrès, Victoire, Reconnaissance, Confiance
+pt_BR: Progresso, Vitória, Reconhecimento, Confiança
+
+Ego, Doubt, Fall From Grace
+es_ES: Ego, Duda, Caída En Desgracia
+fr: Ego, Doute, Chute En Disgrâce
+pt_BR: Ego, Dúvida, Queda Em Desgraça
+
+Competition, Challenge, Perseverance, Success
+es_ES: Competencia, Desafío, Perseverancia, Éxito
+fr: Compétition, Défi, Persévérance, Succès
+pt_BR: Competição, Desafio, Perseverança, Sucesso
+
+Overwhelming Challenge, Burdened, Giving Up
+es_ES: Desafío Abrumador, Agobiado, Rendirse
+fr: Défi Écrasant, Accablé, Abandon
+pt_BR: Desafio Avassalador, Sobrecarregado, Desistir
+
+Speed, Movement, Action, Travel, Change
+es_ES: Velocidad, Movimiento, Acción, Viaje, Cambio
+fr: Vitesse, Mouvement, Action, Voyage, Changement
+pt_BR: Velocidade, Movimento, Ação, Viagem, Mudança
+
+Delays, Impatience, Obstacles
+es_ES: Retrasos, Impaciencia, Obstáculos
+fr: Retards, Impatience, Obstacles
+pt_BR: Atrasos, Impaciência, Obstáculos
+
+Resilience, Courage, Persistence
+es_ES: Resiliencia, Coraje, Persistencia
+fr: Résilience, Courage, Persistance
+pt_BR: Resiliência, Coragem, Persistência
+
+Hesitation, Fear, Avoiding Commitment, Paranoia
+es_ES: Vacilación, Miedo, Evitar El Compromiso, Paranoia
+fr: Hésitation, Peur, Éviter L'engagement, Paranoïa
+pt_BR: Hesitação, Medo, Evitar Compromisso, Paranoia
+
+Burden, Work, Responsibility
+es_ES: Carga, Trabajo, Responsabilidad
+fr: Fardeau, Travail, Responsabilité
+pt_BR: Fardo, Trabalho, Responsabilidade
+
+Taking On Too Much, Burden, Lacking Responsibility
+es_ES: Asumir Demasiado, Carga, Falta De Responsabilidad
+fr: Assumer Trop, Fardeau, Manque De Responsabilité
+pt_BR: Assumir Demais, Fardo, Falta De Responsabilidade
+
+Exploration, Enthusiasm, Discovery
+es_ES: Exploración, Entusiasmo, Descubrimiento
+fr: Exploration, Enthousiasme, Découverte
+pt_BR: Exploração, Entusiasmo, Descoberta
+
+Setbacks, Pessimism, Defeat, Negativity
+es_ES: Retrocesos, Pesimismo, Derrota, Negatividad
+fr: Reculs, Pessimisme, Défaite, Négativité
+pt_BR: Reveses, Pessimismo, Derrota, Negatividade
+
+Energy, Adventure, Passion, Action, Impulsiveness
+es_ES: Energía, Aventura, Pasión, Acción, Impulsividad
+fr: Énergie, Aventure, Passion, Action, Impulsivité
+pt_BR: Energia, Aventura, Paixão, Ação, Impulsividade
+
+Delays, Frustration, Obstacles
+es_ES: Retrasos, Frustración, Obstáculos
+fr: Retards, Frustration, Obstacles
+pt_BR: Atrasos, Frustração, Obstáculos
+
+Determination, Warmth, Exuberance
+es_ES: Determinación, Calidez, Exuberancia
+fr: Détermination, Chaleur, Exubérance
+pt_BR: Determinação, Calor, Exuberância
+
+Selfishness, Manipulation, Demanding, Aggression
+es_ES: Egoísmo, Manipulación, Exigente, Agresión
+fr: Égoïsme, Manipulation, Exigeant, Agression
+pt_BR: Egoísmo, Manipulação, Exigente, Agressão
+
+Leadership, Entrepreneur, Vision, Honor
+es_ES: Liderazgo, Emprendedor, Visión, Honor
+fr: Leadership, Entrepreneur, Vision, Honneur
+pt_BR: Liderança, Empreendedor, Visão, Honra
+
+Destruction, Ruthlessness, Expectations, Impulsiveness
+es_ES: Destrucción, Crueldad, Expectativas, Impulsividad
+fr: Destruction, Impitoyabilité, Attentes, Impulsivité
+pt_BR: Destruição, Crueldade, Expectativas, Impulsividade
+
+Power, Clarity, Victory, Truth
+es_ES: Poder, Claridad, Victoria, Verdad
+fr: Pouvoir, Clarté, Victoire, Vérité
+pt_BR: Poder, Clareza, Vitória, Verdade
+
+Chaos, Confusion, Lacking Clarity
+es_ES: Caos, Confusión, Falta De Claridad
+fr: Chaos, Confusion, Manque De Clarté
+pt_BR: Caos, Confusão, Falta De Clareza
+
+Indecision, Stalemate, Avoidance
+es_ES: Indecisión, Estancamiento, Evasión
+fr: Indécision, Impasse, Évitement
+pt_BR: Indecisão, Impasse, Evasão
+
+Confusion, Overwhelmed, Indecision
+es_ES: Confusión, Abrumado, Indecisión
+fr: Confusion, Accablé, Indécision
+pt_BR: Confusão, Sobrecarregado, Indecisão
+
+Heartbreak, Separation, Sorrow, Grief, Betrayal
+es_ES: Desamor, Separación, Tristeza, Duelo, Traición
+fr: Cœur Brisé, Séparation, Chagrin, Deuil, Trahison
+pt_BR: Desgosto, Separação, Tristeza, Luto, Traição
+
+Forgiveness, Letting Go, Healing, Resolution
+es_ES: Perdón, Dejar Ir, Curación, Resolución
+fr: Pardon, Lâcher Prise, Guérison, Résolution
+pt_BR: Perdão, Deixar Ir, Cura, Resolução
+
+Solitude, Contemplation, Recovery, Rest
+es_ES: Soledad, Contemplación, Recuperación, Descanso
+fr: Solitude, Contemplation, Récupération, Repos
+pt_BR: Solidão, Contemplação, Recuperação, Descanso
+
+Burn-Out, Stagnation, Stress, Restlessness
+es_ES: Agotamiento, Estancamiento, Estrés, Inquietud
+fr: Burn-Out, Stagnation, Stress, Agitation
+pt_BR: Esgotamento, Estagnação, Estresse, Inquietação
+
+Conflict, Loss, Hostility, Defeat
+es_ES: Conflicto, Pérdida, Hostilidad, Derrota
+fr: Conflit, Perte, Hostilité, Défaite
+pt_BR: Conflito, Perda, Hostilidade, Derrota
+
+Resentment, Pride, Malice, Meaningless Victory
+es_ES: Resentimiento, Orgullo, Maldad, Victoria Sin Sentido
+fr: Ressentiment, Fierté, Malveillance, Victoire Sans Sens
+pt_BR: Ressentimento, Orgulho, Malícia, Vitória Sem Sentido
+
+Transition, Recovery, Travel, Refuge
+es_ES: Transición, Recuperación, Viaje, Refugio
+fr: Transition, Récupération, Voyage, Refuge
+pt_BR: Transição, Recuperação, Viagem, Refúgio
+
+Baggage, Stasis, Dwelling
+es_ES: Equipaje, Estasis, Estancamiento
+fr: Bagages, Stase, Résidence
+pt_BR: Bagagem, Estagnação, Morada
+
+Deception, Secrecy, Strategy
+es_ES: Engaño, Secreto, Estrategia
+fr: Tromperie, Secret, Stratégie
+pt_BR: Engano, Sigilo, Estratégia
+
+Breaking Habits, Lack Of Initiative, Honesty, Uncertainty
+es_ES: Romper Hábitos, Falta De Iniciativa, Honestidad, Incertidumbre
+fr: Rompre Les Habitudes, Manque D'Initiative, Honnêteté, Incertitude
+pt_BR: Rompendo Hábitos, Falta De Iniciativa, Honestidade, Incerteza
+
+Imprisonment, Powerlessness, Blind Spots, Isolation
+es_ES: Encarcelamiento, Impotencia, Puntos Ciegos, Aislamiento
+fr: Emprisonnement, Impuissance, Angles Morts, Isolement
+pt_BR: Prisão, Impotência, Pontos Cegos, Isolamento
+
+Freedom, Clarity, Agency, Self-Acceptance
+es_ES: Libertad, Claridad, Agencia, Auto-Aceptación
+fr: Liberté, Clarté, Autonomie, Acceptation De Soi
+pt_BR: Liberdade, Clareza, Autonomia, Autoaceitação
+
+Nightmares, Anxiety, Depression, Torment, Worry
+es_ES: Pesadillas, Ansiedad, Depresión, Tormento, Preocupación
+fr: Cauchemars, Anxiété, Dépression, Tourment, Inquiétude
+pt_BR: Pesadelos, Ansiedade, Depressão, Tormento, Preocupação
+
+Perspective, Recovery, Hopelessness
+es_ES: Perspectiva, Recuperación, Desesperanza
+fr: Perspective, Récupération, Désespoir
+pt_BR: Perspectiva, Recuperação, Desesperança
+
+Betrayal, Loss, Suffering, Endings
+es_ES: Traición, Pérdida, Sufrimiento, Finales
+fr: Trahison, Perte, Souffrance, Fins
+pt_BR: Traição, Perda, Sofrimento, Finais
+
+Release, Beginnings, Rebirth, Survival, Rescue
+es_ES: Liberación, Comienzos, Renacimiento, Supervivencia, Rescate
+fr: Libération, Débuts, Renaissance, Survie, Secours
+pt_BR: Liberação, Inícios, Renascimento, Sobrevivência, Resgate
+
+Energetic, Curiosity, Restless, Action
+es_ES: Energético, Curiosidad, Inquieto, Acción
+fr: Énergique, Curiosité, Agité, Action
+pt_BR: Energético, Curiosidade, Inquieto, Ação
+
+Inaction, Haste, Lack Of Follow-Through
+es_ES: Inacción, Prisa, Falta De Seguimiento
+fr: Inaction, Précipitation, Manque De Suivi
+pt_BR: Inação, Pressa, Falta De Continuidade
+
+Directness, Action, Authority, Hasty
+es_ES: Directo, Acción, Autoridad, Apresurado
+fr: Direct, Action, Autorité, Précipité
+pt_BR: Direto, Ação, Autoridade, Apressado
+
+Reckless, Impulsive, Thoughtless
+es_ES: Imprudente, Impulsivo, Desconsiderado
+fr: Imprudent, Impulsif, Irréfléchi
+pt_BR: Imprudente, Impulsivo, Irrefletido
+
+Intellect, Perceptive, Independent, Maturity
+es_ES: Intelecto, Perspicaz, Independiente, Madurez
+fr: Intellect, Perceptif, Indépendant, Maturité
+pt_BR: Intelecto, Perceptivo, Independente, Maturidade
+
+Emotional, Detached, Bitter, Cold
+es_ES: Emocional, Distante, Amargado, Frío
+fr: Émotionnel, Détaché, Amer, Froid
+pt_BR: Emocional, Distante, Amargo, Frio
+
+Intellect, Authority, Truth, Ethics
+es_ES: Intelecto, Autoridad, Verdad, Ética
+fr: Intellect, Autorité, Vérité, Éthique
+pt_BR: Intelecto, Autoridade, Verdade, Ética
+
+Manipulation, Abuse, Control, Tyranny
+es_ES: Manipulación, Abuso, Control, Tiranía
+fr: Manipulation, Abus, Contrôle, Tyrannie
+pt_BR: Manipulação, Abuso, Controle, Tirania

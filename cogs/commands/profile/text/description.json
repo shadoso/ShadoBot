@@ -1,0 +1,23 @@
+{
+  "show": {
+    "name": "show",
+    "name_localizations": {
+      "pt-BR": "mostrar"
+    },
+    "description": "Shows a user profile",
+    "description_localizations": {
+      "pt-BR": "Mostra um perfil de usuário"
+    }
+  },
+  "create": {
+    "name": "create",
+    "name_localizations": {
+      "pt-BR": "criar"
+    },
+    "description": "Creates a profile",
+    "description_localizations": {
+      "pt-BR": "Cria um perfil"
+    }
+  }
+}
+

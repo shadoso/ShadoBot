@@ -1,8 +1,9 @@
 from pydantic import BaseModel
 from absolute_path import cog_response
 from nextcord import Embed
+from languages.check_language import verify_language
 
-SOCIAL_ = cog_response(__file__)
+SOCIAL = cog_response(__file__)
 
 
 class Url(BaseModel):
@@ -22,22 +23,24 @@ class Gif(BaseModel):
 
     async def social_embed(self, action: str, language: str, author: str, who: str = None):
         embeds = []
-        language = language.replace("-", "_")
-        language = language if language in SOCIAL_.credit.keys() else "default"
+        language = await verify_language(
+            language=language,
+            language_keys=SOCIAL.credit
+        )
 
         for gif in self.results:
             if who:
-                embed = Embed(title=f"{author} {SOCIAL_.response[action][language]} {who}")
+                embed = Embed(title=f"{author} {SOCIAL.response[action][language]} {who}")
                 embed.add_field(
                     name="",
-                    value=f"{SOCIAL_.credit[language]}{SOCIAL_.site}"
+                    value=f"{SOCIAL.credit[language]}{SOCIAL.site}"
                 )
                 embed.set_image(url=gif.media_formats.mediumgif.url)
 
             else:
                 embed = Embed().add_field(
                     name="",
-                    value=f"{SOCIAL_.credit[language]}{SOCIAL_.site}"
+                    value=f"{SOCIAL.credit[language]}{SOCIAL.site}"
                 )
                 embed.set_image(url=gif.media_formats.mediumgif.url)
 

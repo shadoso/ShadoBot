@@ -1,0 +1,26 @@
+{
+  "bot": {
+    "talk": {
+      "name": "talk",
+      "name_localizations": {
+        "pt-BR": "conversar"
+      },
+      "description": "Interact with Shadobot",
+      "description_localizations": {
+        "pt-BR": "Interaja com o Shadobot"
+      }
+    }
+  },
+  "question": {
+    "name": "message",
+    "name_localizations": {
+      "pt-BR": "mensagem"
+    },
+    "description": "What do you want to talk about with Shadobot",
+    "description_localizations": {
+      "pt-BR": "O que você quer conversar com o Shadobot"
+    },
+    "min_length": 10,
+    "max_length": 512
+  }
+}

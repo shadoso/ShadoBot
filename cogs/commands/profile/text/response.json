@@ -1,0 +1,101 @@
+{
+  "credit": {
+    "default": "**The gifs belong to the website: **",
+    "es_ES": "**Los gifs pertenecen al sitio web: **",
+    "fr": "**Les gifs appartiennent au site: **",
+    "pt_BR": "**Os gifs pertencem ao site: **"
+  },
+  "site": "[**`Tenor`**](https://tenor.com/)",
+  "response": {
+    "angry": {
+      "default": "is mad with",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "está pistola com"
+    },
+    "bite": {
+      "default": "is biting",
+      "es_ES": "está mordiendo",
+      "fr": "mord",
+      "pt_BR": "está mordendo"
+    },
+    "bored": {
+      "default": "is bored with",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "está entediado com"
+    },
+    "cry": {
+      "default": "is sad with",
+      "es_ES": "esta triste con",
+      "fr": "est triste avec",
+      "pt_BR": "está triste com"
+    },
+    "cuddle": {
+      "default": "is cuddling",
+      "es_ES": "esta acurrucarse con",
+      "fr": "est en train de câliner",
+      "pt_BR": "está de conchinha com"
+    },
+    "glare": {
+      "default": "is glaring",
+      "es_ES": "esta observando",
+      "fr": "observe",
+      "pt_BR": "está encarando"
+    },
+    "happy": {
+      "default": "is happy with",
+      "es_ES": "esta feliz con",
+      "fr": "est content avec",
+      "pt_BR": "está feliz com"
+    },
+    "hug": {
+      "default": "hugged",
+      "es_ES": "abrazó a",
+      "fr": "a serré dans ses bras",
+      "pt_BR": "deu um abraço em"
+    },
+    "kick": {
+      "default": "kicked",
+      "es_ES": "dio una patada a",
+      "fr": "a donné un coup de pied à",
+      "pt_BR": "deu um chutão em"
+    },
+    "kiss": {
+      "default": "kissed",
+      "es_ES": "besó a",
+      "fr": "a embrassé",
+      "pt_BR": "deu um beijão em"
+    },
+    "lick": {
+      "default": "licked",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "deu uma lambida em"
+    },
+    "pat": {
+      "default": "is patting",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "está acariciando"
+    },
+    "poke": {
+      "default": "is poking",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "está cutucando"
+    },
+    "punch": {
+      "default": "punched",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "deu um soco em"
+    },
+    "slap": {
+      "default": "slapped",
+      "es_ES": "Edit",
+      "fr": "Edit",
+      "pt_BR": "deu um tapa em"
+    }
+  }
+}

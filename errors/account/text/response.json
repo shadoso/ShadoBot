@@ -1,0 +1,17 @@
+{
+  "title": ":no_entry::no_entry::no_entry::no_entry:",
+  "credit": {
+    "default": "**Digital art made by: **",
+    "es_ES": "**Arte digital creada por: **",
+    "fr": "**Art numérique créé par: **",
+    "pt_BR": "**Arte digital feita por: **"
+  },
+  "artist": "[**`Isabelle (Bell)`**](https://www.instagram.com/poferim/)",
+  "error": {
+    "default": "**```Sorry you cannot use this command if you don't create an account.```**",
+    "es_ES": "**```Lo sentimos, no puedes usar este comando si no creas una cuenta.```**",
+    "fr": "**```Désolé, vous ne pouvez pas utiliser cette commande si vous ne créez pas de compte.```**",
+    "pt_BR": "**```Desculpe, você não pode usar este comando se não criar uma conta.```**"
+  },
+  "url": "https://cdn.discordapp.com/attachments/1084351073122275328/1084351156182073394/2023-03-11_Bellhama.png"
+}

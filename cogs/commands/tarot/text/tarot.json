@@ -1,0 +1,209 @@
+{
+  "category": {
+    "0": {
+      "default": "Major Arcana",
+      "es_ES": "edit",
+      "fr": "edit",
+      "pt_BR": "edit"
+    },
+    "1": {
+      "default": "Minor Arcana Arms",
+      "es_ES": "edit",
+      "fr": "edit",
+      "pt_BR": "edit"
+    },
+    "2": {
+      "default": "Minor Arcana Vials",
+      "es_ES": "edit",
+      "fr": "edit",
+      "pt_BR": "edit"
+    },
+    "3": {
+      "default": "Minor Arcana Wires",
+      "es_ES": "edit",
+      "fr": "edit",
+      "pt_BR": "edit"
+    },
+    "4": {
+      "default": "Minor Arcana Zent",
+      "es_ES": "edit",
+      "fr": "edit",
+      "pt_BR": "edit"
+    }
+  },
+  "choice": {
+    "acceptance": {
+      "0": {
+        "default": "**```What to warmly welcome and integrate into your current situation. This card represents an aspect or energy that can greatly benefit you if you embrace it willingly. It suggests that by embracing this quality, attitude, or opportunity, you'll find greater harmony and alignment with your current circumstances.```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**```What to acknowledge and make peace with. This card indicates an element or truth that might be challenging to confront, yet accepting it will contribute to your personal growth and understanding. It encourages you to acknowledge this aspect of your situation and find ways to work with it constructively.```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**```What to release and detach from. This card highlights a factor or perspective that may no longer serve you on your journey. Letting go involves releasing any attachments, fears, or habits that are hindering your progress. By doing so, you make space for new opportunities and transformations to take place in your life.```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "challenge": {
+      "0": {
+        "default": "**```Obstacle:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "guidance": {
+      "0": {
+        "default": "**```Counseling:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "prediction": {
+      "0": {
+        "default": "**```Past:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**```Present:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**```Future:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "yourself": {
+      "0": {
+        "default": "**```Mind:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**```Body:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**```Spirit:```**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    }
+  },
+    "name": {
+    "acceptance": {
+      "0": {
+        "default": "**Embrace:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**Accept:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**Let go:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "challenge": {
+      "0": {
+        "default": "**Obstacle:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "guidance": {
+      "0": {
+        "default": "**Counseling:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "prediction": {
+      "0": {
+        "default": "**Past:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**Present:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**Future:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    },
+    "yourself": {
+      "0": {
+        "default": "**Mind:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "1": {
+        "default": "**Body:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      },
+      "2": {
+        "default": "**Spirit:**",
+        "es_ES": "edit",
+        "fr": "edit",
+        "pt_BR": "edit"
+      }
+    }
+  },
+  "key_field": {
+    "default": "**Keywords:**",
+    "es_ES": "**edit**",
+    "fr": "**edit**",
+    "pt_BR": "**Palavras-chave**"
+  },
+  "text_field": {
+    "default": "**Text:**",
+    "es_ES": "**edit**",
+    "fr": "**edit**",
+    "pt_BR": "**Texto**"
+  },
+  "url": {
+    "0": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png",
+    "1": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png",
+    "2": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png",
+    "3": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png",
+    "4": "https://cdn.discordapp.com/attachments/1044886275422949377/1044886597470011432/NMCardBack.png"
+  }
+}

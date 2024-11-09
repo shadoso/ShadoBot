@@ -2,8 +2,9 @@ import nextcord
 from nextcord import Interaction, Button
 from nextcord.ui import View
 
-next_button = "~~(8:>️️ ~~(8:>️️"
-previous_button = "<:8)~~ <:8)~~"
+next_button = "➡️"
+previous_button = "⬅️"
+label = "1"
 
 
 class Page(View):
@@ -17,18 +18,22 @@ class Page(View):
     async def on_timeout(self):
         await self.message.edit(view=None)
 
-    @nextcord.ui.button(label=previous_button, style=nextcord.ButtonStyle.gray)
+    @nextcord.ui.button(emoji=previous_button, style=nextcord.ButtonStyle.blurple)
     async def backward(self, button: Button, interaction: Interaction):
         if interaction.user.id in self.__allowed:
             self.__page = (self.__page - 1) % len(self.__embed)
             embed = self.__embed[self.__page]
+            self.children[1].label = str(self.__page + 1)
+            self.message = await interaction.response.edit_message(embed=embed, view=self)
 
-            self.message = await interaction.response.edit_message(embed=embed)
+    @nextcord.ui.button(disabled=True, label=label, style=nextcord.ButtonStyle.blurple)
+    async def middle(self, button: Button, interaction: Interaction):
+        pass
 
-    @nextcord.ui.button(label=next_button, style=nextcord.ButtonStyle.gray)
+    @nextcord.ui.button(emoji=next_button, style=nextcord.ButtonStyle.blurple)
     async def forward(self, button: Button, interaction: Interaction):
         if interaction.user.id in self.__allowed:
             self.__page = (self.__page + 1) % len(self.__embed)
             embed = self.__embed[self.__page]
-
-            self.message = await interaction.response.edit_message(embed=embed)
+            self.children[1].label = str(self.__page + 1)
+            self.message = await interaction.response.edit_message(embed=embed, view=self)

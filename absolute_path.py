@@ -1,6 +1,10 @@
+import json
 from pathlib import Path
+from config.constants import ENCODED_UTF_8_
 from json import load
 from languages.excluded_languages import exclude
+import aiofiles
+import asyncio
 
 TEXT_PATH = "text"
 RESPONSE_JSON = "response.json"
@@ -17,6 +21,29 @@ def open_json(file_path: Path) -> dict:
         dictionary = load(json_file)
 
     return dictionary
+
+def save_json(file_path: Path, file: dict):
+    with open(file=file_path, mode="w", encoding=ENCODED_UTF_8_) as json_file:
+        json.dump(obj=file, fp=json_file, ensure_ascii=False, indent=2)
+
+
+async def ai_json(new_json: dict):
+    # Lê o conteúdo existente do arquivo, se existir
+    async with aiofiles.open("/home/bismuto/PycharmProjects/ShadoBot/cogs/commands/shadobot/data/data.json", mode='r', encoding='utf-8') as json_file:
+        contents = await json_file.read()
+        data = json.loads(contents) if contents else []
+
+    # Adiciona o novo JSON à lista existente, no formato esperado
+    if isinstance(new_json, dict) and "messages" in new_json:
+        data.append(new_json)
+    else:
+        raise ValueError("Formato inválido! O JSON precisa conter a chave 'messages'.")
+
+    # Salva a lista atualizada de volta no arquivo
+    async with aiofiles.open("/home/bismuto/PycharmProjects/ShadoBot/cogs/commands/shadobot/data/data.json", mode='w', encoding='utf-8') as json_file:
+        await json_file.write(json.dumps(data, ensure_ascii=False, indent=2))
+
+
 
 
 def excluded_languages(dictionary: dict, exclude_list: list) -> dict:

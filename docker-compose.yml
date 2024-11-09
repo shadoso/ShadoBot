@@ -10,7 +10,7 @@ services:
     ports:
       - "5433:5432"
     volumes:
-      - /media/bismuto/Backup/DatabasePostgreSQL:/var/lib/postgresql/data  # Persistência de dados no HD de backup
+      - /media/bismuto/LinuxBackup/DatabasePostgreSQL:/var/lib/postgresql/data  # Persistência de dados no HD de backup
 
   app:
     build: .

@@ -1,0 +1,389 @@
+00 The Fool
+es_ES: El Loco
+fr: Le Fou
+pt_BR: O Louco
+
+01 The Magician
+es_ES: El Mago
+fr: Le Magicien
+pt_BR: O Mago
+
+02 The Priestess
+es_ES: La Sacerdotisa
+fr: La Papesse
+pt_BR: A Sacerdotisa
+
+03 The Empress
+es_ES: La Emperatriz
+fr: L’Impératrice
+pt_BR: A Imperatriz
+
+04 The Emperor
+es_ES: El Emperador
+fr: L’Empereur
+pt_BR: O Imperador
+
+05 The Hierophant
+es_ES: El Papa
+fr: Le Pape
+pt_BR: O Hierofante
+
+06 The Lovers
+es_ES: Los Enamorados
+fr: Les Amoureux
+pt_BR: Os Enamorados
+
+07 The Chariot
+es_ES: El Carro
+fr: Le Chariot
+pt_BR: O Carro
+
+08 Strength
+es_ES: La Fuerza
+fr: La Force
+pt_BR: A Força
+
+09 The Hermit
+es_ES: El Ermitaño
+fr: L’Hermite
+pt_BR: O Eremita
+
+10 Fortune
+es_ES: La Rueda de la Fortuna
+fr: La Roue de la Fortune
+pt_BR: A Roda da Fortuna
+
+11 Justice
+es_ES: La Justicia
+fr: La Justice
+pt_BR: A Justiça
+
+12 The Hanged
+es_ES: El Colgado
+fr: Le Pendu
+pt_BR: O Enforcado
+
+13 Death
+es_ES: La Muerte
+fr: La Mort
+pt_BR: A Morte
+
+14 Temperance
+es_ES: La Templanza
+fr: La Tempérance
+pt_BR: A Temperança
+
+15 The Devil
+es_ES: El Diablo
+fr: Le Diable
+pt_BR: O Diabo
+
+16 The Tower
+es_ES: La Torre
+fr: La Maison Dieu
+pt_BR: A Torre
+
+17 The Star
+es_ES: La Estrella
+fr: L’Étoile
+pt_BR: A Estrela
+
+18 The Moon
+es_ES: La Luna
+fr: La Lune
+pt_BR: A Lua
+
+19 The Sun
+es_ES: El Sol
+fr: Le Soleil
+pt_BR: O Sol
+
+20 Judgement
+es_ES: El Juicio
+fr: Le Jugement
+pt_BR: O Julgamento
+
+21 The World
+es_ES: El Mundo
+fr: Le Monde
+pt_BR: O Mundo
+
+01 Ace of Zent
+es_ES: As de Zent
+fr: As de Zent
+pt_BR: Ás de Zent
+
+02 Two of Zent
+es_ES: Dos de Zent
+fr: Deux de Zent
+pt_BR: Dois de Zent
+
+03 Three of Zent
+es_ES: Tres de Zent
+fr: Trois de Zent
+pt_BR: Três de Zent
+
+04 Four of Zent
+es_ES: Cuatro de Zent
+fr: Quatre de Zent
+pt_BR: Quatro de Zent
+
+05 Five of Zent
+es_ES: Cinco de Zent
+fr: Cinq de Zent
+pt_BR: Cinco de Zent
+
+06 Six of Zent
+es_ES: Seis de Zent
+fr: Six de Zent
+pt_BR: Seis de Zent
+
+07 Seven of Zent
+es_ES: Siete de Zent
+fr: Sept de Zent
+pt_BR: Sete de Zent
+
+08 Eight of Zent
+es_ES: Ocho de Zent
+fr: Huit de Zent
+pt_BR: Oito de Zent
+
+09 Nine of Zent
+es_ES: Nueve de Zent
+fr: Neuf de Zent
+pt_BR: Nove de Zent
+
+10 Ten of Zent
+es_ES: Diez de Zent
+fr: Dix de Zent
+pt_BR: Dez de Zent
+
+11 Apprentice of Zent
+es_ES: Aprendiz de Zent
+fr: Apprenti de Zent
+pt_BR: Aprendiz de Zent
+
+12 Agent of Zent
+es_ES: Agente de Zent
+fr: Agent de Zent
+pt_BR: Agente de Zent
+
+13 Supervisor of Zent
+es_ES: Supervisor de Zent
+fr: Superviseur de Zent
+pt_BR: Supervisor de Zent
+
+14 Executive of Zent
+es_ES: Ejecutivo de Zent
+fr: Exécutif de Zent
+pt_BR: Executivo de Zent
+
+01 Ace of Vials
+es_ES: As de Frascos
+fr: As de Flacons
+pt_BR: Ás de Frascos
+
+02 Two of Vials
+es_ES: Dos de Frascos
+fr: Deux de Flacons
+pt_BR: Dois de Frascos
+
+03 Three of Vials
+es_ES: Tres de Frascos
+fr: Trois de Flacons
+pt_BR: Três de Frascos
+
+04 Four of Vials
+es_ES: Cuatro de Frascos
+fr: Quatre de Flacons
+pt_BR: Quatro de Frascos
+
+05 Five of Vials
+es_ES: Cinco de Frascos
+fr: Cinq de Flacons
+pt_BR: Cinco de Frascos
+
+06 Six of Vials
+es_ES: Seis de Frascos
+fr: Six de Flacons
+pt_BR: Seis de Frascos
+
+07 Seven of Vials
+es_ES: Siete de Frascos
+fr: Sept de Flacons
+pt_BR: Sete de Frascos
+
+08 Eight of Vials
+es_ES: Ocho de Frascos
+fr: Huit de Flacons
+pt_BR: Oito de Frascos
+
+09 Nine of Vials
+es_ES: Nueve de Frascos
+fr: Neuf de Flacons
+pt_BR: Nove de Frascos
+
+10 Ten of Vials
+es_ES: Diez de Frascos
+fr: Dix de Flacons
+pt_BR: Dez de Frascos
+
+11 Apprentice of Vials
+es_ES: Aprendiz de Frascos
+fr: Apprenti de Flacons
+pt_BR: Aprendiz de Frascos
+
+12 Agent of Vials
+es_ES: Agente de Frascos
+fr: Agent de Flacons
+pt_BR: Agente de Frascos
+
+13 Supervisor of Vials
+es_ES: Supervisor de Frascos
+fr: Superviseur de Flacons
+pt_BR: Supervisor de Frascos
+
+14 Executive of Vials
+es_ES: Ejecutivo de Frascos
+fr: Exécutif de Flacons
+pt_BR: Executivo de Frascos
+
+01 Ace of Wires
+es_ES: As de Cables
+fr: As de Fils
+pt_BR: Ás de Fios
+
+02 Two of Wires
+es_ES: Dos de Cables
+fr: Deux de Fils
+pt_BR: Dois de Fios
+
+03 Three of Wires
+es_ES: Tres de Cables
+fr: Trois de Fils
+pt_BR: Três de Fios
+
+04 Four of Wires
+es_ES: Cuatro de Cables
+fr: Quatre de Fils
+pt_BR: Quatro de Fios
+
+05 Five of Wires
+es_ES: Cinco de Cables
+fr: Cinq de Fils
+pt_BR: Cinco de Fios
+
+06 Six of Wires
+es_ES: Seis de Cables
+fr: Six de Fils
+pt_BR: Seis de Fios
+
+07 Seven of Wires
+es_ES: Siete de Cables
+fr: Sept de Fils
+pt_BR: Sete de Fios
+
+08 Eight of Wires
+es_ES: Ocho de Cables
+fr: Huit de Fils
+pt_BR: Oito de Fios
+
+09 Nine of Wires
+es_ES: Nueve de Cables
+fr: Neuf de Fils
+pt_BR: Nove de Fios
+
+10 Ten of Wires
+es_ES: Diez de Cables
+fr: Dix de Fils
+pt_BR: Dez de Fios
+
+11 Apprentice of Wires
+es_ES: Aprendiz de Cables
+fr: Apprenti de Fils
+pt_BR: Aprendiz de Fios
+
+12 Agent of Wires
+es_ES: Agente de Cables
+fr: Agent de Fils
+pt_BR: Agente de Fios
+
+13 Supervisor of Wires
+es_ES: Supervisor de Cables
+fr: Superviseur de Fils
+pt_BR: Supervisor de Fios
+
+14 Executive of Wires
+es_ES: Ejecutivo de Cables
+fr: Exécutif de Fils
+pt_BR: Executivo de Fios
+
+01 Ace of Arms
+es_ES: As de Armas
+fr: As d'Armes
+pt_BR: Ás de Armas
+
+02 Two of Arms
+es_ES: Dos de Armas
+fr: Deux d'Armes
+pt_BR: Dois de Armas
+
+03 Three of Arms
+es_ES: Tres de Armas
+fr: Trois d'Armes
+pt_BR: Três de Armas
+
+04 Four of Arms
+es_ES: Cuatro de Armas
+fr: Quatre d'Armes
+pt_BR: Quatro de Armas
+
+05 Five of Arms
+es_ES: Cinco de Armas
+fr: Cinq d'Armes
+pt_BR: Cinco de Armas
+
+06 Six of Arms
+es_ES: Seis de Armas
+fr: Six d'Armes
+pt_BR: Seis de Armas
+
+07 Seven of Arms
+es_ES: Siete de Armas
+fr: Sept d'Armes
+pt_BR: Sete de Armas
+
+08 Eight of Arms
+es_ES: Ocho de Armas
+fr: Huit d'Armes
+pt_BR: Oito de Armas
+
+09 Nine of Arms
+es_ES: Nueve de Armas
+fr: Neuf d'Armes
+pt_BR: Nove de Armas
+
+10 Ten of Arms
+es_ES: Diez de Armas
+fr: Dix d'Armes
+pt_BR: Dez de Armas
+
+11 Apprentice of Arms
+es_ES: Aprendiz de Armas
+fr: Apprenti d'Armes
+pt_BR: Aprendiz de Armas
+
+12 Agent of Arms
+es_ES: Agente de Armas
+fr: Agent d'Armes
+pt_BR: Agente de Armas
+
+13 Supervisor of Arms
+es_ES: Supervisor de Armas
+fr: Superviseur d'Armes
+pt_BR: Supervisor de Armas
+
+14 Executive of Arms
+es_ES: Ejecutivo de Armas
+fr: Exécutif d'Armes
+pt_BR: Executivo de Armas

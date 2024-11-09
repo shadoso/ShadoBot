@@ -4,6 +4,7 @@ class Excluded:
     ship = ["es_ES", "fr"]
     social = ["es_ES", "fr"]
     tarot = ["es_ES", "fr", "pt_BR"]
+    profile = ["es_ES", "fr"]
 
 
 exclude = Excluded()
